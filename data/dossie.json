@@ -1,0 +1,408 @@
+[
+ {
+  "id": "cronograma-transicao-2026-2033",
+  "ordem": 1,
+  "titulo": "Cronograma da reforma do consumo (2026 a 2033)",
+  "resumo": "A EC 132/2023 criou a CBS (federal) e o IBS (estados e municípios) para substituir PIS, Cofins, ICMS e ISS. 2026 é ano-teste; a CBS passa a ser cobrada de verdade em 2027, e o ISS vai sendo reduzido de 2029 a 2032 até acabar em 2033.",
+  "pontos": [
+   "2026: CBS de 0,9% e IBS de 0,1% apenas destacados na nota, sem pagamento para quem cumpre as obrigações acessórias (ADCT art. 125; LC 214/2025; Decreto 12.955/2026).",
+   "2027: CBS cobrada de verdade; PIS e Cofins são extintos (ADCT art. 126). IBS de 0,05% estadual + 0,05% municipal em 2027 e 2028, e a CBS é reduzida em 0,1 ponto (ADCT art. 127).",
+   "2029 a 2032: ISS e ICMS caem para 9/10, 8/10, 7/10 e 6/10 da alíquota atual (ADCT art. 128).",
+   "2033: ISS e ICMS extintos (ADCT art. 129); IBS em alíquota cheia.",
+   "A LC 214/2025 institui IBS, CBS e Imposto Seletivo; a LC 227/2026 (antigo PLP 108/2024, de 13/01/2026) institui o Comitê Gestor do IBS (CGIBS) e altera a LC 214.",
+   "Regulamentos publicados: Decreto 12.955, de 29/04/2026 (CBS), e Resolução CGIBS nº 6, de 30/04/2026 (IBS)."
+  ],
+  "impacto": "Até o fim de 2028 o cliente médico convive com o ISS municipal e com o IBS/CBS ao mesmo tempo: duas apurações, dois conjuntos de regras e notas mais complexas. A partir de 2027 o PIS/Cofins sai e a CBS entra, o que muda o preço e a margem dos serviços.",
+  "acao": "Montar para cada cliente uma linha do tempo 2026–2033 com os tributos de cada ano. Revisar contratos de longo prazo (convênios, prestação a hospitais) para incluir cláusula de repasse ou reequilíbrio por mudança tributária.",
+  "status": "em vigor",
+  "fontes": [
+   {
+    "nome": "Emenda Constitucional nº 132/2023 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm"
+   },
+   {
+    "nome": "Lei Complementar nº 214/2025 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+   },
+   {
+    "nome": "Lei Complementar nº 227/2026 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm"
+   },
+   {
+    "nome": "Decreto nº 12.955/2026 – Regulamento da CBS (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12955.htm"
+   },
+   {
+    "nome": "Resolução CGIBS nº 6/2026 – Regulamento do IBS (CGIBS)",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202604/30084927-res-cgibs-n-6-30-abr-2026-regulamenta-o-ibs.pdf"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "ano-teste-2026-obrigacoes",
+  "ordem": 2,
+  "titulo": "Ano-teste 2026: destaque na nota, dispensa de pagamento e período sem multa",
+  "resumo": "Em 2026 a CBS (0,9%) e o IBS (0,1%) só são informados nos documentos fiscais, e o pagamento é dispensado para quem cumpre as obrigações acessórias. As regras de emissão valem desde 01/08/2026, e a Receita e o CGIBS criaram um programa de conformidade com tolerância até o fim de 2026.",
+  "pontos": [
+   "O Decreto 12.955/2026 (art. 619, I) faz a exigência de documento fiscal valer a partir do 1º dia do 4º mês após a publicação (DOU de 30/04/2026), ou seja, 01/08/2026.",
+   "A apuração da CBS em 2026 é apenas informativa para quem cumpre as obrigações acessórias. Se houver auto de infração, o contribuinte tem 60 dias para corrigir, e a multa é extinta (Decreto 12.955, arts. 583 e seguintes; LC 214, art. 348).",
+   "Para operações com redução de alíquota, como a saúde, a CBS-teste de 0,9% é aplicada já com a redução (Decreto 12.955, art. 582, parágrafo único, I).",
+   "As validações automáticas que rejeitariam NF-e e outros documentos sem os campos IBS/CBS foram adiadas, mas a obrigação de preencher continua (esclarecimento RFB/CGIBS de 06/08/2026).",
+   "O Ato Conjunto RFB/CGIBS nº 5, de 12/08/2026 (DOU de 13/08/2026), regulamenta o Programa Nacional de Conformidade Tributária (PNCT) de 2026. Quem não cumprir tudo continua no programa se melhorar a emissão, atender as intimações, corrigir as inconsistências até 31/12/2026 e indicar um profissional de contabilidade responsável.",
+   "Optantes do Simples Nacional não são obrigados a destacar IBS/CBS em 2026 (Ato Conjunto RFB/CGIBS nº 4/2026, art. 1º, § 1º)."
+  ],
+  "impacto": "Clínicas e hospitais do Lucro Presumido ou Real já precisam emitir notas com IBS/CBS (a NFS-e desde 01/10/2026). Ainda não há imposto a pagar, mas erros de cadastro e de classificação aparecem agora e podem virar multa a partir de 2027.",
+  "acao": "Indicar o contador como responsável no PNCT (procuração eletrônica). Monitorar as comunicações de inconsistência e corrigir tudo até 31/12/2026. Usar o ano-teste para validar sistemas, NBS e a classificação tributária de cada serviço.",
+  "status": "regulamentado",
+  "fontes": [
+   {
+    "nome": "Decreto nº 12.955/2026 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12955.htm"
+   },
+   {
+    "nome": "Ato Conjunto RFB/CGIBS nº 5/2026 – PNCT (gov.br/sped)",
+    "url": "https://www.gov.br/sped/pt-br/assuntos/documentos-fiscais/dere/atos-conjuntos/ato-conjunto-rfb_cgibs-no-5-de-12-de-agosto-dee-2026.pdf/@@display-file/file"
+   },
+   {
+    "nome": "CGIBS – esclarecimento sobre adiamento das validações (06/08/2026)",
+    "url": "https://www.cgibs.gov.br/receita-federal-e-comite-gestor-do-ibs-esclarecem-adiamento-das-regras-de-validacao-dos-documentos-fiscais-eletronicos"
+   },
+   {
+    "nome": "Ato Conjunto RFB/CGIBS nº 4/2026 (CGIBS)",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202607/31091735-20260730-16h30-ato-conjunto-rfb-cgibs-na-c2-ba-4-260731-090909.pdf"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "nfse-nacional-ibs-cbs",
+  "ordem": 3,
+  "titulo": "NFS-e Nacional e campos de IBS/CBS",
+  "resumo": "Para serviços da lista do ISS, como os médicos, os campos de IBS/CBS na NFS-e são obrigatórios desde 01/10/2026 para quem está no regime regular. Para optantes do Simples, a obrigação começa em 01/01/2027, e o Emissor Nacional da NFS-e passa a ser obrigatório para ME/EPP em 01/11/2026.",
+  "pontos": [
+   "O Ato Conjunto RFB/CGIBS nº 4, de 30/07/2026, fixa a NFS-e com IBS/CBS em 01/10/2026 para serviços da lista da LC 116/2003 (inclui os serviços de saúde do item 4), exceto subitens 1.03, 1.05, 1.09 e 16.01.",
+   "Locação de bens móveis e locação ou cessão de imóveis fora da lista do ISS entram em 01/12/2026. Isso alcança clínicas que sublocam salas ou consultórios.",
+   "Simples Nacional: emissão com IBS/CBS só a partir de 01/01/2027 (Ato Conjunto nº 4, art. 1º, § 1º).",
+   "A Resolução CGSN nº 191, de 04/08/2026, obriga ME e EPP do Simples a emitir NFS-e pelo Emissor Nacional (web ou API) a partir de 01/11/2026. A data anterior, 01/09/2026, foi revogada.",
+   "O Ato Técnico Conjunto RFB/CGIBS nº 7, publicado em 01/10/2026, aprovou a NT 009 v1.01 da NFS-e (leiaute RTC, Anexos VI e VII) e a NT 010 (Evento de Manifestação do Adquirente). Com a NT 010, o tomador pode confirmar a nota ou informar divergência ou desconhecimento.",
+   "O Anexo VIII v1.01 da documentação técnica faz a correlação entre item de serviço, NBS, cClassTrib e cIndOp. Pelo próprio portal, ainda é um trabalho inicial."
+  ],
+  "impacto": "Uma nota com NBS ou classificação tributária errada perde a redução de 60% da saúde e pode gerar divergência com o tomador (operadora, hospital), que poderá contestar a nota pelo evento de manifestação. Clínicas do Simples que ainda emitem pelo sistema da prefeitura precisam migrar até 01/11/2026.",
+  "acao": "Conferir se o emissor de cada cliente já está no leiaute RTC (NT 009 v1.01). Montar a tabela item LC 116 → NBS → cClassTrib por tipo de serviço (consulta, exame, cirurgia, imagem, laboratório). Migrar os clientes do Simples para o Emissor Nacional antes de 01/11/2026. Mapear as receitas de sublocação de salas para 01/12/2026.",
+  "status": "regulamentado",
+  "fontes": [
+   {
+    "nome": "Ato Conjunto RFB/CGIBS nº 4/2026 – cronograma de documentos fiscais",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202607/31091735-20260730-16h30-ato-conjunto-rfb-cgibs-na-c2-ba-4-260731-090909.pdf"
+   },
+   {
+    "nome": "Receita Federal – cronograma dos documentos fiscais eletrônicos",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/receita-federal-e-comite-gestor-do-ibs-publicam-o-cronograma-de-implementacao-dos-documentos-fiscais-eletronicos-da-reforma-tributaria-do-consumo"
+   },
+   {
+    "nome": "Portal NFS-e – documentação técnica RTC",
+    "url": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc"
+   },
+   {
+    "nome": "Portal NFS-e – página inicial (Ato Técnico Conjunto nº 7)",
+    "url": "https://www.gov.br/nfse/pt-br"
+   },
+   {
+    "nome": "Receita Federal – NFS-e Nacional obrigatória para ME e EPP a partir de 01/11/2026",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "reducao-60-servicos-saude",
+  "ordem": 4,
+  "titulo": "Redução de 60% para serviços de saúde (Anexo III da LC 214)",
+  "resumo": "Os serviços de saúde listados no Anexo III da LC 214/2025, identificados pelo código NBS, pagam IBS e CBS com 60% de desconto na alíquota. Ou seja, pagam 40% da alíquota cheia. A redução vale pelo tipo de serviço, e não por quem presta.",
+  "pontos": [
+   "Base legal: LC 214/2025, art. 130, e Decreto 12.955/2026, art. 205.",
+   "Estão no Anexo III, entre outros: cirúrgicos (NBS 1.2301.11.00), ginecológicos e obstétricos (1.2301.12.00), psiquiátricos (1.2301.13.00), UTI (1.2301.14.00), urgência (1.2301.15.00), hospitalares (1.2301.19.00), clínica médica (1.2301.21.00), médicos especializados (1.2301.22.00), odontológicos (1.2301.23.00), laboratoriais (1.2301.93.00), diagnóstico por imagem (1.2301.94.00), ambulância (1.2301.96.00), psicologia (1.2301.98.00), vacinação, nutrição, fonoaudiologia e biomedicina (1.2301.99.00).",
+   "Valores glosados pela auditoria médica dos planos de saúde e não pagos não entram na base de cálculo do IBS/CBS (LC 214, art. 130, parágrafo único).",
+   "Médicos não estão na lista de profissões intelectuais com redução de 30% (LC 214, art. 127). Para eles vale a redução de 60%, desde que o serviço esteja no Anexo III.",
+   "Serviços que não estão no Anexo III, como estética sem finalidade de saúde, cursos ou locação de sala, seguem a alíquota cheia ou a regra própria. Isto é leitura do texto da lei; cada caso deve ser analisado.",
+   "A alíquota cheia de referência de 2027 ainda não foi fixada (ver tópico sobre a alíquota de referência)."
+  ],
+  "impacto": "Para clínicas, hospitais e laboratórios no regime regular, a carga de IBS/CBS sobre a receita médica fica em 40% da alíquota padrão, menos os créditos das compras. A glosa não paga deixa de ser tributada, por isso o controle de glosas passa a ter efeito fiscal.",
+  "acao": "Classificar cada serviço do cliente na NBS correta e separar as receitas fora do Anexo III. Criar um controle mensal de glosas (glosado, recursado, recuperado) que se concilie com a apuração. Simular a carga em 2027 assim que o Senado fixar a alíquota de referência.",
+  "status": "em vigor",
+  "fontes": [
+   {
+    "nome": "LC 214/2025 – art. 130 e Anexo III (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+   },
+   {
+    "nome": "Decreto nº 12.955/2026 – art. 205 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12955.htm"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "dispositivos-medicos-medicamentos",
+  "ordem": 5,
+  "titulo": "Dispositivos médicos e medicamentos",
+  "resumo": "Dispositivos médicos do Anexo IV e medicamentos registrados na Anvisa têm redução de 60% do IBS/CBS. Itens dos Anexos XII (dispositivos) e XIV (medicamentos) têm alíquota zero, assim como compras feitas por órgãos públicos e entidades de saúde com CEBAS-SUS.",
+  "pontos": [
+   "Dispositivos médicos do Anexo IV, regularizados na Anvisa: redução de 60% (LC 214, art. 131). Exemplos: stents, marcapassos, reagentes de diagnóstico (NCM 3822.1), filmes de raio-X e fios de sutura.",
+   "Dispositivos do Anexo XII têm alíquota zero. Os do Anexo IV também ficam com alíquota zero quando comprados pela administração pública ou por entidades de saúde imunes com CEBAS por serviços ao SUS (LC 214, art. 144).",
+   "Medicamentos registrados na Anvisa ou de manipulação: redução de 60% (LC 214, art. 133). A redução depende de o fabricante ou importador ter compromisso com a União e o CGIBS ou cumprir a sistemática da CMED.",
+   "Medicamentos do Anexo XIV têm alíquota zero; qualquer medicamento registrado tem alíquota zero quando comprado por órgão público ou entidade CEBAS-SUS (LC 214, art. 146).",
+   "As listas são revistas por ato conjunto do Ministério da Fazenda e do CGIBS: a cada 120 dias para dispositivos e anualmente para o Anexo XIV."
+  ],
+  "impacto": "Hospitais, clínicas cirúrgicas e laboratórios compram esses itens com carga menor. No regime regular, o IBS/CBS pago na compra vira crédito. Entidades filantrópicas com CEBAS-SUS compram com alíquota zero.",
+  "acao": "Revisar o cadastro de produtos (NCM) dos clientes hospitalares e laboratoriais para identificar o que está nos Anexos IV, XII e XIV. Conferir se os fornecedores destacam corretamente a redução. Para entidades CEBAS, verificar se a certificação está válida.",
+  "status": "em vigor",
+  "fontes": [
+   {
+    "nome": "LC 214/2025 – arts. 131, 133, 144 e 146 e Anexos IV, XII e XIV (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "planos-de-saude-operadoras-cooperativas",
+  "ordem": 6,
+  "titulo": "Regime específico dos planos de saúde e relação com operadoras e cooperativas",
+  "resumo": "As operadoras de planos de saúde têm regime próprio: pagam IBS/CBS com redução de 60% sobre a receita, descontados os custos assistenciais pagos aos prestadores. O prestador (clínica, hospital, laboratório) continua tributando a própria receita normalmente.",
+  "pontos": [
+   "Regime específico para seguradoras, administradoras de benefícios, cooperativas operadoras e demais operadoras (LC 214, arts. 234 a 243).",
+   "A base de cálculo da operadora é formada por prêmios e contraprestações recebidos, menos as indenizações pagas (custos assistenciais com prestadores e reembolsos), pelo regime de caixa (art. 235).",
+   "Alíquota igual à de referência com redução de 60% (art. 237). O adquirente do plano não toma crédito, salvo a empresa que paga plano a empregados por exigência de convenção ou acordo coletivo (art. 238, com redação da LC 227/2026).",
+   "As operadoras entregam a DeRE (Declaração de Regimes Específicos) e não destacam IBS/CBS em nota (FAQ DeRE da Receita). Os eventos de tabela da DeRE começaram em 01/10/2026; os eventos mensais começam em 15/11/2026, com a competência de outubro/2026 (Ato Conjunto nº 4/2026).",
+   "Cooperativas (por exemplo, de trabalho médico) podem optar pelo regime específico do art. 271 da LC 214, com alíquota zero nas operações previstas em lei. A opção para 2027 vai até 31/10/2026 e exige enviar a lista de cooperados (Orientação Conjunta RFB/CGIBS de 18/09/2026).",
+   "Leitura do art. 235: a operadora abate da base o valor pago ao prestador, qualquer que seja o regime dele. Por isso, nas receitas de convênio, o crédito não pesa como argumento para o prestador sair do Simples. Esta é uma análise do texto legal, sem ato oficial específico."
+  ],
+  "impacto": "A relação clínica–operadora não muda na forma de faturar, mas a nota passa a ter IBS/CBS, a glosa não paga sai da base do prestador e a operadora passa a controlar mais os documentos (manifestação do adquirente na NFS-e). Médicos cooperados e cooperativas médicas precisam decidir sobre o regime das cooperativas até 31/10/2026.",
+  "acao": "Para clientes que faturam a operadoras: revisar contratos e tabelas, alinhar o tratamento das glosas e avisar que a operadora poderá contestar a NFS-e. Para cooperativas médicas atendidas pelo escritório: verificar até 31/10/2026 se a opção pelo regime específico e a lista de associados foram enviadas.",
+  "status": "regulamentado",
+  "fontes": [
+   {
+    "nome": "LC 214/2025 – arts. 234 a 243 e 271 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+   },
+   {
+    "nome": "Receita Federal – Perguntas frequentes DeRE",
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/sped/dere/dere"
+   },
+   {
+    "nome": "Receita Federal – Orientação Conjunta RFB/CGIBS sobre cooperativas (18/09/2026)",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/orientacao-conjunta-rfb-cgibs"
+   },
+   {
+    "nome": "Ato Conjunto RFB/CGIBS nº 4/2026 (CGIBS)",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202607/31091735-20260730-16h30-ato-conjunto-rfb-cgibs-na-c2-ba-4-260731-090909.pdf"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "simples-nacional-ibs-cbs",
+  "ordem": 7,
+  "titulo": "Simples Nacional: IBS/CBS dentro ou fora do DAS",
+  "resumo": "A partir de 2027, a empresa do Simples pode continuar pagando IBS/CBS dentro do DAS ou optar por recolhê-los fora, no regime regular (o chamado Simples híbrido). A opção para o 1º semestre de 2027 vai até 30/10/2026, e há nova janela em março de 2027 para o 2º semestre.",
+  "pontos": [
+   "Resolução CGSN nº 194 (DOU de 28/09/2026): opção pelo Simples para 2027 de 01/09 a 15/10/2026 (já encerrada); regularização de pendências até 30/10/2026; opção pelo regime regular de IBS/CBS (janeiro a junho de 2027) de 01/09 a 30/10/2026; cancelamentos de 03/11 a 20/12/2026.",
+   "Segunda janela: de 1º a 31/03/2027, para o 2º semestre de 2027, com cancelamento até 31/05 (Receita Federal, notícia de 11/08/2026 sobre as Resoluções CGSN 190 e 191).",
+   "Quem opta pelo regime regular deixa de pagar CBS/IBS no DAS e passa a apurá-los pelas regras próprias, com débitos e créditos. Os valores de CBS/IBS pagos por fora não entram na receita bruta do Simples.",
+   "A partir de 2027 o regime de caixa deixa de existir no Simples: a base mensal passa a ser a receita faturada, em regra na emissão do documento fiscal (Receita, 14/08/2026).",
+   "Sublimite de R$ 3,6 milhões passa a considerar o IBS, além de ICMS e ISS; a Defis passa a ser informada no PGDAS-D, de janeiro a março.",
+   "Em 16/10/2026 a Receita contava 917.331 pedidos de opção pelo regime regular de IBS/CBS."
+  ],
+  "impacto": "Para a clínica do Simples que atende principalmente pacientes pessoa física e operadoras, sair do DAS tende a trazer pouco benefício de crédito ao tomador e mais trabalho. Para quem presta a empresas do regime regular (hospitais, medicina do trabalho para empresas), o crédito integral pode fazer diferença no preço. O fim do regime de caixa antecipa o imposto de quem fatura e só recebe depois (convênios com prazo longo).",
+  "acao": "Até 30/10/2026, simular para cada cliente do Simples as duas opções (DAS × regime regular), olhando o perfil dos tomadores, a margem e as compras com crédito. Registrar a decisão por escrito com o cliente. Ajustar o fluxo de caixa de 2027 de quem hoje usa regime de caixa. Lembrar da janela de cancelamento de 03/11 a 20/12/2026.",
+  "status": "regulamentado",
+  "fontes": [
+   {
+    "nome": "Receita Federal – Simples Nacional 2027: novos prazos (29/09/2026)",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade"
+   },
+   {
+    "nome": "Receita Federal – CGSN atualiza regras do Simples para a Reforma (11/08/2026)",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo"
+   },
+   {
+    "nome": "Receita Federal – Regime de caixa deixa de ser utilizado no Simples (14/08/2026)",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/regime-de-caixa-deixa-de-ser-utilizado-na-apuracao-do-simples-nacional"
+   },
+   {
+    "nome": "Receita Federal – números de opções (16/10/2026)",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
+   },
+   {
+    "nome": "Manual da Opção pelo Regime Regular do IBS e da CBS no Simples Nacional",
+    "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/Manual%20op%C3%A7%C3%A3o%20regime%20regular%20IBS%20e%20CBS%20no%20Simples%20Nacional.pdf"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "creditos-split-payment",
+  "ordem": 8,
+  "titulo": "Créditos e split payment",
+  "resumo": "No regime regular, o IBS/CBS pago nas compras vira crédito para abater do imposto devido, desde que o débito do fornecedor tenha sido extinto. O split payment, que separa o imposto no momento do pagamento, está em fase de testes técnicos desde 15/10/2026, sem efeito para os contribuintes.",
+  "pontos": [
+   "Crédito amplo das aquisições, com exceções da lei. O crédito corresponde ao IBS/CBS destacado no documento fiscal e efetivamente extinto. A regra vale também para compras de fornecedor do Simples Nacional (Decreto 12.955/2026, art. 47, §§ 2º e 3º; LC 214, art. 47).",
+   "Operações com alíquota reduzida, como a saúde, não obrigam a estornar créditos, salvo previsão expressa (Decreto 12.955, art. 47, § 6º).",
+   "Plano de saúde pago a empregados por exigência de convenção ou acordo coletivo gera crédito para a empresa do regime regular (LC 214, art. 238, parágrafo único).",
+   "Split payment previsto na LC 214, arts. 31 a 35, com procedimento padrão e simplificado incluídos pela LC 227/2026.",
+   "Comunicado da Receita de 30/09/2026: testes de integração dos prestadores de serviços de pagamento (PSP) com a Plataforma Pública a partir de 15/10/2026, em ambiente controlado e sem transações definitivas.",
+   "O Manual de Tempos v1.0.1 (CGIBS/RFB) trata da Fase 1 do split payment, \"B2B Opcional\". A data de obrigatoriedade geral não foi confirmada em ato oficial."
+  ],
+  "impacto": "Hospitais e clínicas do regime regular poderão abater o IBS/CBS de aluguel, energia, equipamentos, materiais e serviços terceirizados, o que muda a conta de quem tem muitos insumos. Com o split payment, parte do valor recebido por cartão ou Pix poderá chegar já sem o imposto, o que afeta o caixa.",
+  "acao": "Levantar os principais fornecedores dos clientes do regime regular e o regime de cada um (Simples ou regular), para estimar os créditos de 2027. Acompanhar o cronograma do split payment e orientar os clientes a confirmar com os adquirentes e bancos quando a separação automática começará.",
+  "status": "regulamentado",
+  "fontes": [
+   {
+    "nome": "LC 214/2025 – arts. 31 a 35 e 47 e seguintes (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+   },
+   {
+    "nome": "Decreto nº 12.955/2026 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12955.htm"
+   },
+   {
+    "nome": "Receita Federal – Comunicado sobre testes do split payment (30/09/2026)",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/comunicado-5"
+   },
+   {
+    "nome": "CGIBS/RFB – Split Payment Manual de Tempos v1.0.1",
+    "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24100954-split-payment-manual-de-tempos-v1-0-1.pdf"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "sociedades-uniprofissionais-iss-fixo",
+  "ordem": 9,
+  "titulo": "Sociedades uniprofissionais e o fim do ISS fixo",
+  "resumo": "O ISS fixo por profissional das sociedades uniprofissionais médicas continua enquanto o ISS existir. Ele será reduzido entre 2029 e 2032 e acaba em 2033. O IBS/CBS não tem regime fixo por profissional: a sociedade médica pagará sobre a receita, com a redução de 60% da saúde.",
+  "pontos": [
+   "O ISS (e com ele o regime fixo municipal) segue até 2028; de 2029 a 2032 as alíquotas caem para 9/10, 8/10, 7/10 e 6/10; em 2033 o ISS é extinto (ADCT, arts. 128 e 129, pela EC 132/2023).",
+   "A LC 214/2025 não traz regime de valor fixo para sociedades de profissionais no IBS/CBS. Quem está no regime regular paga sobre o valor de cada operação.",
+   "A redução de 30% para sociedades de profissões intelectuais (art. 127) não inclui médicos. Para eles vale a redução de 60% dos serviços de saúde do Anexo III (art. 130), sem as exigências societárias do art. 127.",
+   "Na prática, a sociedade uniprofissional médica no Lucro Presumido passa a ter, a partir de 2027, CBS sobre a receita (no lugar de PIS/Cofins) somada ao ISS fixo até 2028, e depois IBS crescente."
+  ],
+  "impacto": "Sociedades médicas que hoje pagam pouco ISS por causa do regime fixo tendem a ter aumento de carga no consumo ao longo da transição, principalmente a partir de 2029, quando o IBS cresce e o ISS fixo encolhe. Para elas, o benefício do ISS fixo vai diminuindo até sumir.",
+  "acao": "Identificar os clientes com ISS fixo (sociedades uniprofissionais) e simular a carga em 2027, 2029 e 2033. Rever preços e contratos de longo prazo e avaliar a reorganização societária, ligada também ao tópico de dividendos.",
+  "status": "em vigor",
+  "fontes": [
+   {
+    "nome": "Emenda Constitucional nº 132/2023 – ADCT arts. 125 a 129 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm"
+   },
+   {
+    "nome": "LC 214/2025 – arts. 127 e 130 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "medico-pessoa-fisica",
+  "ordem": 10,
+  "titulo": "Médico pessoa física: quando é contribuinte de IBS/CBS",
+  "resumo": "O médico autônomo (PF) que presta serviços de forma habitual ou profissional é contribuinte de IBS/CBS, salvo se for nanoempreendedor (receita abaixo de 50% do limite do MEI). O Decreto 13.075/2026 adiou para 01/01/2027 a obrigação de a PF contribuinte se inscrever no CNPJ e emitir documento fiscal.",
+  "pontos": [
+   "É contribuinte quem fornece de forma habitual, profissional ou em volume que caracterize atividade econômica, mesmo que a profissão não seja regulamentada (LC 214, art. 21).",
+   "O nanoempreendedor, pessoa física com receita bruta inferior a 50% do limite de adesão ao MEI que não tenha aderido ao MEI, não é contribuinte (LC 214, art. 26, IV).",
+   "O Decreto 13.075, de 21/07/2026 (DOU de 22/07/2026), alterou o Regulamento da CBS: inscrição no CNPJ e emissão de documentos fiscais pela PF contribuinte ou responsável só a partir de 01/01/2027.",
+   "O serviço médico prestado pela PF também tem a redução de 60% quando está no Anexo III."
+  ],
+  "impacto": "Médicos que atendem como autônomos (carnê-leão) com receita relevante passarão a ter CNPJ para IBS/CBS, a emitir nota e a apurar os tributos a partir de 2027, além do IR. Isso muda a comparação entre atuar como PF ou como PJ.",
+  "acao": "Listar os clientes médicos PF com receita de autônomo e estimar se passam do limite de nanoempreendedor. Preparar a inscrição e a emissão de documentos para janeiro de 2027 e reavaliar a migração para PJ.",
+  "status": "regulamentado",
+  "fontes": [
+   {
+    "nome": "LC 214/2025 – arts. 21 e 26 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+   },
+   {
+    "nome": "Decreto nº 13.075/2026 – publicação original (Câmara dos Deputados, Legislação Informatizada)",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/2026/decreto-13075-21-julho-2026-799662-publicacaooriginal-180556-pe.html"
+   },
+   {
+    "nome": "Decreto nº 12.955/2026, com alterações (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12955.htm"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "aliquota-referencia-2027",
+  "ordem": 11,
+  "titulo": "Alíquota de referência da CBS para 2027",
+  "resumo": "A alíquota cheia da CBS para 2027, base para aplicar a redução de 60% da saúde, ainda não foi fixada. Em 2026 os prazos foram estendidos em 45 dias: o TCU envia os cálculos ao Senado até 30/10/2026, e o Senado fixa a alíquota até 15/12/2026.",
+  "pontos": [
+   "Na LC 214 (art. 349, § 1º), o TCU envia os cálculos até 15/09 e o Senado fixa até 31/10 do ano anterior. O Decreto 12.955/2026 (art. 590, § 2º) prorroga esses prazos em 45 dias em 2026, o que leva a 30/10 e 15/12.",
+   "Se o Senado não fixar a alíquota a tempo, vale a alíquota calculada pelo TCU (LC 214, art. 349, § 2º).",
+   "As alíquotas de referência do IBS só serão fixadas para 2029 a 2033; em 2027 e 2028 o IBS é de 0,1% no total.",
+   "Não confirmado em fonte oficial: o envio da proposta da Receita ao TCU em 14/09/2026 e qualquer número estimado para a alíquota. Os números que circulam vêm de imprensa e consultorias."
+  ],
+  "impacto": "Sem a alíquota não é possível fechar com precisão o preço e a margem de 2027 dos clientes médicos do regime regular, nem a simulação Simples × regime regular.",
+  "acao": "Fazer simulações com faixas de alíquota e refazê-las quando o Senado publicar a resolução (até 15/12/2026). Não usar números da imprensa como definitivos.",
+  "status": "em discussão",
+  "fontes": [
+   {
+    "nome": "LC 214/2025 – art. 349 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+   },
+   {
+    "nome": "Decreto nº 12.955/2026 – art. 590 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12955.htm"
+   },
+   {
+    "nome": "TCU – Reforma Tributária",
+    "url": "https://sites.tcu.gov.br/reforma-tributaria/"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ },
+ {
+  "id": "renda-lei-15270-dividendos",
+  "ordem": 12,
+  "titulo": "Reforma da renda: Lei 15.270/2025, dividendos e IR mínimo para médicos sócios",
+  "resumo": "Desde janeiro de 2026, lucros acima de R$ 50 mil por mês pagos por uma mesma empresa a um mesmo sócio PF sofrem retenção de 10% sobre o total. Quem tiver renda anual acima de R$ 600 mil passa a ter IR mínimo de até 10% na declaração de 2027. Em compensação, o IR fica zerado para rendimentos de até R$ 5 mil por mês.",
+  "pontos": [
+   "Lei 15.270, de 26/11/2025: redução que zera o IR mensal para rendimentos tributáveis de até R$ 5.000, com redução decrescente até R$ 7.350 (art. 3º-A da Lei 9.250); no ajuste anual, zera até R$ 60.000 e decresce até R$ 88.200.",
+   "Retenção de 10% sobre o total quando os lucros pagos por uma mesma PJ a uma mesma PF residente passam de R$ 50.000 no mês, sem deduções (art. 6º-A). A PJ recolhe por DARF com o código 1841 e informa na EFD-Reinf (R-4010).",
+   "A retenção vale também para empresas do Simples Nacional, segundo as Perguntas e Respostas da Receita (questão 10).",
+   "Não sofrem retenção os lucros apurados até 2025 cuja distribuição foi aprovada até 31/12/2025 e que sejam pagos conforme o ato de aprovação. Para o IR mínimo, a exclusão vale para pagamentos em 2026, 2027 e 2028. Uma liminar do STF (ADIs 7912 e 7914, de 26/12/2025) estendeu o prazo de aprovação para 31/01/2026; o referendo pelo Plenário não foi confirmado até 18/10/2026.",
+   "IR mínimo anual (art. 16-A): renda total acima de R$ 600 mil, com alíquota que sobe de 0 a 10% até R$ 1,2 milhão. Há um redutor quando a carga da PJ somada à da PF passa de 34% (art. 16-B). Empresas fora do Lucro Real podem usar o cálculo simplificado do lucro contábil.",
+   "Ponto relacionado: a LC 224/2025 aumentou em 10% os percentuais de presunção do Lucro Presumido sobre a parte da receita anual que passa de R$ 5 milhões, a partir de 2026 (IRPJ) e de abril de 2026 (CSLL).",
+   "Não confirmado: uma instrução normativa específica da Receita para a apuração anual do IR mínimo de 2026 (DAA 2027)."
+  ],
+  "impacto": "Médicos sócios de clínicas lucrativas que retiram mais de R$ 50 mil por mês da mesma empresa já têm retenção de 10%. Na declaração de 2027, quem passar de R$ 600 mil anuais poderá ter IR complementar, conforme a carga efetiva da PJ. Clínicas no Lucro Presumido com receita acima de R$ 5 milhões pagam mais IRPJ e CSLL.",
+  "acao": "Revisar a política de distribuição de lucros dos clientes (calendário, valores por sócio e por empresa) e controlar os pagamentos de lucros de 2025 aprovados até 31/12/2025 ou 31/01/2026. Calcular a alíquota efetiva da PJ para estimar o redutor e simular o IR mínimo de 2026 de cada sócio. Conferir a EFD-Reinf R-4010 e os DARFs 1841.",
+  "status": "em vigor",
+  "fontes": [
+   {
+    "nome": "Lei nº 15.270/2025 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm"
+   },
+   {
+    "nome": "Receita Federal – Perguntas e Respostas sobre lucros e dividendos (19/12/2025)",
+    "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/dirf/manual_padrao_rfb_per_tributacao_cotin_v-19-12-2025.pdf"
+   },
+   {
+    "nome": "Ministério da Fazenda – orientação sobre o recolhimento do IRRF sobre lucros e dividendos (06/08/2026)",
+    "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-orienta-sobre-recolhimento-do-imposto-retido-na-fonte-sobre-lucros-e-dividendos"
+   },
+   {
+    "nome": "STF – prorrogação do prazo de aprovação de lucros e dividendos (26/12/2025)",
+    "url": "https://noticias.stf.jus.br/postsnoticias/stf-prorroga-prazo-para-aprovacao-de-lucros-e-dividendos-ate-janeiro-de-2026/"
+   },
+   {
+    "nome": "Lei Complementar nº 224/2025 (Planalto)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp224.htm"
+   }
+  ],
+  "atualizadoEm": "2026-10-18"
+ }
+]

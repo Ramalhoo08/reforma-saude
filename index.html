@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Reforma em Saúde</title>
+<meta name="description" content="Boletim diário da reforma tributária para serviços médicos.">
+<meta name="theme-color" content="#1f5f8b">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Reforma Saúde">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+:root { padding-top: env(safe-area-inset-top, 0px) }
+html { -webkit-text-size-adjust: 100% }
+body { margin: 0 }
+/* Layout: coluna única de leitura (máx. 680px) com barra de abas fixa no rodapé, pensada para o polegar */
+:root {
+  --bg: #eef3f4; --surface: #ffffff; --ink: #11283a; --muted: #5a6b78; --line: #d5dee3;
+  --accent: #1f5f8b; --accent-soft: #dcebf5;
+  --ok: #1e7a4c; --ok-soft: #ddf1e6; --warn: #9a5b00; --warn-soft: #fbecd2; --info: #3a4fa0; --info-soft: #e2e6f7;
+  --f-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --f-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0d1820; --surface: #14232e; --ink: #e3ecf1; --muted: #93a6b3; --line: #253846;
+  --accent: #7ab8e3; --accent-soft: #1a3447;
+  --ok: #6fd19f; --ok-soft: #173327; --warn: #f0b85a; --warn-soft: #382a12; --info: #a3b0f0; --info-soft: #20264a;
+  color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0d1820; --surface: #14232e; --ink: #e3ecf1; --muted: #93a6b3; --line: #253846;
+  --accent: #7ab8e3; --accent-soft: #1a3447;
+  --ok: #6fd19f; --ok-soft: #173327; --warn: #f0b85a; --warn-soft: #382a12; --info: #a3b0f0; --info-soft: #20264a;
+  color-scheme: dark }
+
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--ink); font: 400 1.0625rem/1.55 var(--f-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 calc(84px + env(safe-area-inset-bottom, 0px)) }
+.wrap { max-width: 680px; margin: 0 auto; display: grid; gap: 20px }
+header.top { padding-block: 20px 4px; display: grid; gap: 2px }
+.eyebrow { font: 500 .75rem/1.3 var(--f-mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted) }
+h1 { font: 800 1.75rem/1.1 var(--f-display); margin: 0; text-wrap: balance; letter-spacing: -.01em }
+h2 { font: 700 1.25rem/1.25 var(--f-display); margin: 0; text-wrap: balance }
+h3 { font: 700 1.0625rem/1.3 var(--f-body); margin: 0; text-wrap: balance }
+p { margin: 0 }
+a { color: var(--accent) }
+a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 6px }
+
+.lead { background: var(--accent-soft); border-radius: 14px; padding: 16px 18px; display: grid; gap: 6px }
+.lead p { font-size: 1.0625rem }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; display: grid; gap: 12px; min-width: 0 }
+.meta { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font: 500 .8125rem/1.3 var(--f-mono); color: var(--muted) }
+.pill { font: 600 .75rem/1 var(--f-body); letter-spacing: .03em; text-transform: uppercase; padding: 5px 8px; border-radius: 999px; white-space: nowrap }
+.st-vigor { background: var(--ok-soft); color: var(--ok) }
+.st-reg { background: var(--info-soft); color: var(--info) }
+.st-disc { background: var(--warn-soft); color: var(--warn) }
+.tema { border: 1px solid var(--line); color: var(--muted) }
+.blk { display: grid; gap: 2px }
+.blk b { font: 600 .75rem/1.3 var(--f-body); letter-spacing: .06em; text-transform: uppercase; color: var(--muted) }
+.acao { border-left: 3px solid var(--warn); padding-left: 12px }
+.prazo { color: var(--warn); font-family: var(--f-mono); font-size: .875rem }
+.fontes { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: .9375rem }
+.fontes a { overflow-wrap: anywhere }
+ul.pts { margin: 0; padding-left: 1.1em; display: grid; gap: 4px }
+
+.list { display: grid; gap: 10px }
+.row { all: unset; cursor: pointer; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; display: grid; gap: 4px }
+.row:hover { border-color: var(--accent) }
+.row:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px }
+.row .resumo { color: var(--muted); font-size: .9375rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden }
+.search { width: 100%; font: inherit; padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--ink) }
+.back { all: unset; cursor: pointer; color: var(--accent); font-weight: 600 }
+
+details.card summary { cursor: pointer; list-style: none; display: grid; gap: 6px }
+details.card summary::-webkit-details-marker { display: none }
+details.card summary h3::after { content: " +"; color: var(--muted) }
+details[open].card summary h3::after { content: " −" }
+
+.agenda { display: grid; gap: 0 }
+.ag { display: grid; grid-template-columns: 6.5rem 1fr; gap: 12px; padding: 12px 0; border-bottom: 1px solid var(--line) }
+.ag time { font: 500 .875rem/1.5 var(--f-mono); color: var(--warn); font-variant-numeric: tabular-nums }
+.ag.past time { color: var(--muted) }
+.empty { color: var(--muted); padding: 24px 4px; display: grid; gap: 8px }
+.note { font-size: .8125rem; color: var(--muted) }
+
+nav.tabs { position: fixed; left: 0; right: 0; bottom: 0; background: var(--surface); border-top: 1px solid var(--line);
+  display: grid; grid-template-columns: repeat(4, 1fr);
+  padding: 6px max(8px, env(safe-area-inset-right, 0px)) calc(6px + env(safe-area-inset-bottom, 0px)) max(8px, env(safe-area-inset-left, 0px)) }
+nav.tabs button { all: unset; cursor: pointer; text-align: center; padding: 8px 4px; border-radius: 10px; font: 600 .8125rem/1.2 var(--f-body); color: var(--muted); display: grid; gap: 3px; justify-items: center }
+nav.tabs button svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round }
+nav.tabs button[aria-selected="true"] { color: var(--accent); background: var(--accent-soft) }
+nav.tabs button:focus-visible { outline: 3px solid var(--accent) }
+@media (min-width: 760px) { nav.tabs { max-width: 680px; margin: 0 auto 12px; border: 1px solid var(--line); border-radius: 16px; left: 16px; right: 16px } }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <span class="eyebrow">Reforma tributária · serviços médicos</span>
+    <h1 id="title">Boletim do dia</h1>
+  </header>
+  <main id="view" aria-live="polite">
+    <div class="empty"><h2>Carregando boletins…</h2><p>O primeiro boletim aparece aqui assim que for publicado. A atualização é automática, de segunda a sexta às 7h.</p></div>
+  </main>
+  <p class="note">Conteúdo informativo compilado de fontes oficiais. Não substitui parecer jurídico ou contábil individual. Itens "em discussão" ainda não são lei.</p>
+</div>
+
+<nav class="tabs" role="tablist" aria-label="Seções">
+  <button role="tab" data-tab="hoje" aria-selected="true"><svg viewBox="0 0 24 24"><path d="M4 5h16v14H4z"/><path d="M8 9h8M8 13h8M8 17h5"/></svg>Hoje</button>
+  <button role="tab" data-tab="arquivo" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M3 6h18v4H3zM5 10v9h14v-9"/><path d="M10 14h4"/></svg>Arquivo</button>
+  <button role="tab" data-tab="dossie" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5M9 13h7M9 17h7"/></svg>Dossiê</button>
+  <button role="tab" data-tab="prazos" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M4 6h16v14H4zM4 10h16M8 3v5M16 3v5"/></svg>Prazos</button>
+</nav>
+
+<script>
+const state = { boletins: [], dossie: [], tab: "hoje", aberto: null, busca: "" };
+const view = document.getElementById("view"), titleEl = document.getElementById("title");
+const TITLES = { hoje: "Boletim do dia", arquivo: "Arquivo de boletins", dossie: "Dossiê da reforma", prazos: "Prazos e marcos" };
+
+// Dados vêm do banco compartilhado: tratar como texto não confiável (textContent, só links https)
+function el(tag, attrs = {}, ...kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) { if (k === "class") n.className = v; else if (k === "text") n.textContent = v; else n.setAttribute(k, v) }
+  for (const c of kids) if (c != null && c !== false) n.append(c);
+  return n;
+}
+const str = v => (typeof v === "string" ? v : "");
+const arr = v => (Array.isArray(v) ? v : []);
+function fmtData(iso) {
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(str(iso));
+  return m ? `${m[3]}/${m[2]}/${m[1]}` : str(iso);
+}
+function statusPill(s) {
+  const t = str(s).toLowerCase();
+  const cls = t.includes("vigor") ? "st-vigor" : t.includes("regul") ? "st-reg" : "st-disc";
+  return t ? el("span", { class: "pill " + cls, text: s }) : null;
+}
+function fontes(list) {
+  const box = el("div", { class: "fontes" });
+  for (const f of arr(list)) {
+    const url = str(f && f.url);
+    if (/^https:\/\//i.test(url)) box.append(el("a", { href: url, target: "_blank", rel: "noopener noreferrer", text: str(f.nome) || url }));
+    else if (str(f && f.nome)) box.append(el("span", { text: f.nome }));
+  }
+  return box.childElementCount ? el("div", { class: "blk" }, el("b", { text: "Fonte" }), box) : null;
+}
+function blk(label, text, cls) {
+  return str(text) ? el("div", { class: "blk" + (cls ? " " + cls : "") }, el("b", { text: label }), el("p", { text })) : null;
+}
+
+function itemCard(it) {
+  return el("article", { class: "card" },
+    el("div", { class: "meta" }, statusPill(it.status), str(it.tema) ? el("span", { class: "pill tema", text: it.tema }) : null,
+      str(it.dataPublicacao) ? el("span", { text: "Publicado " + fmtData(it.dataPublicacao) }) : null),
+    el("h3", { text: str(it.titulo) }),
+    blk("O que mudou", it.oQueMudou),
+    blk("Impacto para o cliente médico", it.impacto),
+    str(it.acao) ? el("div", { class: "blk acao" }, el("b", { text: "Ação do escritório" }), el("p", { text: it.acao }),
+      str(it.prazo) ? el("span", { class: "prazo", text: "Prazo: " + fmtData(it.prazo) }) : null) : null,
+    fontes(it.fontes));
+}
+
+function boletimView(b) {
+  const frag = el("div", { class: "list" });
+  frag.append(el("div", { class: "meta" }, el("span", { text: `Edição nº ${b.edicao || "–"} · ${fmtData(b.data || b.id)}` })));
+  if (str(b.resumo)) frag.append(el("section", { class: "lead" }, el("span", { class: "eyebrow", text: "Resumo" }), el("p", { text: b.resumo })));
+  const itens = arr(b.itens);
+  if (!itens.length) frag.append(el("div", { class: "empty" }, el("p", { text: "Sem novidades relevantes para serviços médicos nesta data." })));
+  for (const it of itens) frag.append(itemCard(it || {}));
+  return frag;
+}
+
+function render() {
+  titleEl.textContent = TITLES[state.tab];
+  document.querySelectorAll("nav.tabs button").forEach(b => b.setAttribute("aria-selected", String(b.dataset.tab === state.tab)));
+  view.replaceChildren(renderTab());
+}
+
+function renderTab() {
+  const bs = state.boletins;
+  if (state.tab === "hoje") {
+    if (!bs.length) return el("div", { class: "empty" }, el("h2", { text: "Nenhum boletim ainda" }), el("p", { text: "O primeiro boletim aparece aqui assim que for publicado. A atualização é automática, de segunda a sexta às 7h." }));
+    return boletimView(bs[0]);
+  }
+  if (state.tab === "arquivo") {
+    if (state.aberto) {
+      const b = bs.find(x => x.id === state.aberto);
+      if (b) return el("div", { class: "list" }, el("button", { class: "back", type: "button", "data-act": "voltar", text: "← Voltar ao arquivo" }), boletimView(b));
+      state.aberto = null;
+    }
+    const q = state.busca.trim().toLowerCase();
+    const box = el("div", { class: "list" });
+    const input = el("input", { class: "search", id: "busca", type: "search", placeholder: "Buscar (ex.: Simples, NFS-e, dividendos)", "aria-label": "Buscar nos boletins" });
+    input.value = state.busca;
+    box.append(input);
+    const hits = q ? bs.filter(b => JSON.stringify(b).toLowerCase().includes(q)) : bs;
+    if (!hits.length) box.append(el("div", { class: "empty" }, el("p", { text: bs.length ? "Nenhum boletim com esse termo." : "O arquivo começa com o primeiro boletim publicado." })));
+    for (const b of hits) {
+      const n = arr(b.itens).length;
+      box.append(el("button", { class: "row", type: "button", "data-open": b.id },
+        el("span", { class: "meta", text: `Nº ${b.edicao || "–"} · ${fmtData(b.data || b.id)} · ${n} ${n === 1 ? "item" : "itens"}` }),
+        el("span", { class: "resumo", text: str(b.resumo) || "Sem novidades relevantes." })));
+    }
+    return box;
+  }
+  if (state.tab === "dossie") {
+    const ds = state.dossie;
+    if (!ds.length) return el("div", { class: "empty" }, el("h2", { text: "Dossiê em preparação" }), el("p", { text: "Aqui ficam os temas-base da reforma para serviços médicos, sempre atualizados." }));
+    const box = el("div", { class: "list" });
+    box.append(el("p", { class: "note", text: "Toque em um tema para abrir. Atualizado quando uma norma nova altera o tema." }));
+    for (const d of ds) {
+      const pts = arr(d.pontos).filter(p => typeof p === "string");
+      box.append(el("details", { class: "card" },
+        el("summary", {}, el("div", { class: "meta" }, statusPill(d.status), str(d.atualizadoEm) ? el("span", { text: "Revisto " + fmtData(d.atualizadoEm) }) : null),
+          el("h3", { text: str(d.titulo) }), str(d.resumo) ? el("p", { text: d.resumo }) : null),
+        pts.length ? el("ul", { class: "pts" }, ...pts.map(p => el("li", { text: p }))) : null,
+        blk("Impacto para o cliente médico", d.impacto),
+        str(d.acao) ? el("div", { class: "blk acao" }, el("b", { text: "Ação do escritório" }), el("p", { text: d.acao })) : null,
+        fontes(d.fontes)));
+    }
+    return box;
+  }
+  // prazos: agenda de todos os boletins + prazos dos itens, sem duplicar
+  const hoje = new Date().toISOString().slice(0, 10), seen = new Set(), evs = [];
+  for (const b of bs) {
+    for (const a of arr(b.agenda)) { const k = str(a && a.data) + "|" + str(a && a.evento); if (str(a && a.data) && !seen.has(k)) { seen.add(k); evs.push({ data: a.data, evento: a.evento }) } }
+    for (const it of arr(b.itens)) { const k = str(it && it.prazo) + "|" + str(it && it.titulo); if (str(it && it.prazo) && !seen.has(k)) { seen.add(k); evs.push({ data: it.prazo, evento: it.titulo }) } }
+  }
+  evs.sort((a, b) => a.data.localeCompare(b.data));
+  const fut = evs.filter(e => e.data >= hoje), past = evs.filter(e => e.data < hoje).reverse().slice(0, 5);
+  if (!evs.length) return el("div", { class: "empty" }, el("h2", { text: "Sem prazos registrados" }), el("p", { text: "Prazos e marcos citados nos boletins aparecem aqui em ordem de data." }));
+  const ag = el("div", { class: "agenda" });
+  for (const e of fut) ag.append(el("div", { class: "ag" }, el("time", { datetime: e.data, text: fmtData(e.data) }), el("span", { text: str(e.evento) })));
+  if (past.length) { ag.append(el("h3", { text: "Já passaram", style: "padding-top:16px" })); for (const e of past) ag.append(el("div", { class: "ag past" }, el("time", { datetime: e.data, text: fmtData(e.data) }), el("span", { text: str(e.evento) }))) }
+  return el("section", { class: "card" }, ag);
+}
+
+document.querySelector("nav.tabs").addEventListener("click", e => {
+  const b = e.target.closest("button[data-tab]"); if (!b) return;
+  state.tab = b.dataset.tab; state.aberto = null; render(); window.scrollTo(0, 0);
+  try { localStorage.setItem("tab", state.tab) } catch {}
+});
+view.addEventListener("click", e => {
+  const o = e.target.closest("[data-open]"); if (o) { state.aberto = o.dataset.open; render(); window.scrollTo(0, 0); return }
+  if (e.target.closest("[data-act=voltar]")) { state.aberto = null; render() }
+});
+view.addEventListener("input", e => {
+  if (e.target.id !== "busca") return;
+  state.busca = e.target.value; const pos = e.target.selectionStart;
+  render(); const i = document.getElementById("busca"); i.focus(); i.setSelectionRange(pos, pos);
+});
+
+try { const t = localStorage.getItem("tab"); if (TITLES[t]) state.tab = t } catch {}
+const h = location.hash.slice(1); if (TITLES[h]) state.tab = h;
+render();
+
+(async () => {
+  // shortcut: um arquivo com todos os boletins; dividir por ano quando passar de ~2 MB
+  try {
+    const get = p => fetch(p, { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(p); return r.json() });
+    const [bs, ds] = await Promise.all([get("data/boletins.json"), get("data/dossie.json")]);
+    state.boletins = arr(bs).filter(b => b && typeof b === "object").map(b => ({ id: str(b.data), ...b })).sort((a, b) => str(b.data).localeCompare(str(a.data)));
+    state.dossie = arr(ds).filter(d => d && typeof d === "object").sort((a, b) => (a.ordem || 0) - (b.ordem || 0));
+    render();
+  } catch {
+    view.replaceChildren(el("div", { class: "empty" }, el("h2", { text: "Não foi possível carregar" }), el("p", { text: "Verifique a internet e abra o app de novo." })));
+  }
+})();
+</script>
+</body>
+</html>

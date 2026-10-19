@@ -1,0 +1,263 @@
+[
+ {
+  "data": "2026-10-18",
+  "resumo": "Desde 01/10/2026 a NFS-e de serviços médicos no regime regular precisa trazer IBS/CBS, e a NFS-e ganhou novo leiaute e o evento de manifestação do tomador.\nO prazo de opção pelo Simples 2027 encerrou em 15/10, mas a escolha de recolher IBS/CBS fora do DAS vai até 30/10/2026; cooperativas têm até 31/10.\nPróximos marcos: Emissor Nacional obrigatório no Simples (01/11), alíquota de referência da CBS de 2027 (TCU até 30/10, Senado até 15/12) e retenção de 10% sobre dividendos já em vigor.",
+  "itens": [
+   {
+    "titulo": "NFS-e com IBS/CBS passa a ser obrigatória para serviços médicos do regime regular",
+    "tema": "nfse",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-07-31",
+    "oQueMudou": "Pelo Ato Conjunto RFB/CGIBS nº 4/2026, desde 01/10/2026 a NFS-e de serviços da lista do ISS (inclui o item 4, saúde) deve trazer os campos de IBS/CBS. Para o Simples Nacional, a obrigação começa em 01/01/2027. Locações e cessões de imóveis fora da lista do ISS entram em 01/12/2026.",
+    "impacto": "Clínicas, hospitais e laboratórios do Lucro Presumido ou Real já emitem nota com CBS-teste (0,9%, aplicada com a redução de 60% da saúde, conforme o Decreto 12.955, art. 582) e IBS-teste (0,1%). Classificação errada aparece nos cruzamentos da Receita e do CGIBS.",
+    "acao": "Conferir em todos os clientes do regime regular se as notas emitidas desde 01/10 trazem NBS, cClassTrib e valores de IBS/CBS. Mapear as receitas de sublocação de salas para 01/12/2026.",
+    "prazo": "2026-12-01",
+    "fontes": [
+     {
+      "nome": "Ato Conjunto RFB/CGIBS nº 4/2026 (CGIBS)",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202607/31091735-20260730-16h30-ato-conjunto-rfb-cgibs-na-c2-ba-4-260731-090909.pdf"
+     },
+     {
+      "nome": "Receita Federal – cronograma dos documentos fiscais eletrônicos",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/receita-federal-e-comite-gestor-do-ibs-publicam-o-cronograma-de-implementacao-dos-documentos-fiscais-eletronicos-da-reforma-tributaria-do-consumo"
+     }
+    ]
+   },
+   {
+    "titulo": "Novo leiaute da NFS-e (NT 009 v1.01) e manifestação do tomador (NT 010)",
+    "tema": "nfse",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-10-01",
+    "oQueMudou": "O Ato Técnico Conjunto RFB/CGIBS nº 7, de 28/09/2026, publicado em 01/10/2026, aprovou a NT 009 v1.01 (leiaute RTC da NFS-e, Anexos VI e VII) e a NT 010 (Evento de Manifestação do Adquirente). Com a NT 010, o tomador pode confirmar a nota ou informar divergência ou desconhecimento.",
+    "impacto": "Operadoras e hospitais tomadores poderão contestar formalmente as NFS-e emitidas por clínicas e médicos PJ. Os sistemas emissores precisam ser atualizados.",
+    "acao": "Pedir aos fornecedores de software dos clientes a data de adequação à NT 009 v1.01. Orientar os clientes a acompanhar as manifestações dos tomadores.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Portal NFS-e – documentação técnica RTC",
+      "url": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc"
+     },
+     {
+      "nome": "Portal NFS-e – página inicial",
+      "url": "https://www.gov.br/nfse/pt-br"
+     }
+    ]
+   },
+   {
+    "titulo": "Opção do Simples pelo regime regular de IBS/CBS vai até 30/10/2026",
+    "tema": "simples",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-10-16",
+    "oQueMudou": "A Receita informou que o prazo de opção pelo Simples para 2027 terminou em 15/10/2026 e que a opção pelo regime regular de IBS/CBS (janeiro a junho de 2027) segue aberta até 30/10/2026, com 917.331 pedidos até 16/10. Os prazos foram ajustados pela Resolução CGSN nº 194 (DOU de 28/09/2026). Os cancelamentos podem ser feitos de 03/11 a 20/12/2026.",
+    "impacto": "A clínica do Simples que não optar fica com IBS/CBS dentro do DAS no 1º semestre de 2027 e só pode mudar na janela de março de 2027. A decisão afeta preço e crédito para tomadores do regime regular.",
+    "acao": "Fechar até 30/10 a simulação DAS × regime regular de cada cliente médico do Simples e registrar a decisão. Quem teve o pedido de ingresso no Simples indeferido deve regularizar as pendências até 30/10.",
+    "prazo": "2026-10-30",
+    "fontes": [
+     {
+      "nome": "Receita Federal – números de opções (16/10/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
+     },
+     {
+      "nome": "Receita Federal – Simples Nacional 2027: novos prazos (29/09/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade"
+     }
+    ]
+   },
+   {
+    "titulo": "86% dos documentos fiscais de empresas obrigadas já trazem a CBS",
+    "tema": "obrigacoes",
+    "status": "em vigor",
+    "dataPublicacao": "2026-10-09",
+    "oQueMudou": "A Receita divulgou que, nos 30 dias anteriores, cerca de 9 em cada 10 documentos fiscais de empresas obrigadas traziam a CBS, e que 67% dos estabelecimentos emissores destacam a CBS em todas ou em algumas notas. O Simples não está obrigado em 2026.",
+    "impacto": "A Receita já monitora quem emite sem os novos campos. Quem fica para trás aparece nos cruzamentos do programa de conformidade (PNCT).",
+    "acao": "Rodar um relatório de notas emitidas sem IBS/CBS por cliente do regime regular e corrigir antes das comunicações oficiais.",
+    "prazo": "2026-12-31",
+    "fontes": [
+     {
+      "nome": "Receita Federal – 86% dos documentos já trazem destaque da CBS (09/10/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/reforma-tributaria-86-dos-documentos-fiscais-de-empresas-obrigadas-ja-trazem-destaque-da-cbs"
+     },
+     {
+      "nome": "Ato Conjunto RFB/CGIBS nº 5/2026 – PNCT",
+      "url": "https://www.gov.br/sped/pt-br/assuntos/documentos-fiscais/dere/atos-conjuntos/ato-conjunto-rfb_cgibs-no-5-de-12-de-agosto-dee-2026.pdf/@@display-file/file"
+     }
+    ]
+   },
+   {
+    "titulo": "Split payment: testes com prestadores de pagamento começaram em 15/10/2026",
+    "tema": "consumo",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-09-30",
+    "oQueMudou": "Comunicado da Receita: os testes de integração dos PSPs com a Plataforma Pública do Split Payment começaram em 15/10/2026, em ambiente controlado, sem transações definitivas e sem penalidades. Os formulários serão disponibilizados a partir de 13/11/2026. O manual oficial trata da Fase 1 como \"B2B Opcional\".",
+    "impacto": "Por ora, nenhum efeito sobre o caixa das clínicas. Quando o split payment começar a funcionar, parte do valor recebido por cartão ou Pix poderá chegar já sem o imposto. A data de obrigatoriedade não foi confirmada.",
+    "acao": "Apenas acompanhar. Avisar os clientes com muito recebimento por cartão ou Pix que haverá mudança no caixa quando o split payment entrar em produção.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Receita Federal – Comunicado (30/09/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/comunicado-5"
+     },
+     {
+      "nome": "CGIBS/RFB – Split Payment Manual de Tempos v1.0.1",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24100954-split-payment-manual-de-tempos-v1-0-1.pdf"
+     }
+    ]
+   },
+   {
+    "titulo": "Alíquota de referência da CBS 2027: TCU até 30/10 e Senado até 15/12",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-04-30",
+    "oQueMudou": "Pelo Decreto 12.955/2026 (art. 590, § 2º), os prazos de 2026 da LC 214 (art. 349) foram prorrogados em 45 dias: o TCU envia os cálculos ao Senado até 30/10/2026, e o Senado fixa a alíquota até 15/12/2026. Se o Senado não fixar, vale o cálculo do TCU. Não confirmado em fonte oficial: a data em que a Receita enviou a proposta ao TCU e qualquer valor estimado.",
+    "impacto": "Sem a alíquota, não dá para fechar o preço de 2027 nem a comparação Simples × regime regular dos clientes médicos.",
+    "acao": "Trabalhar com faixas de alíquota nas simulações e refazê-las quando o Senado publicar a resolução.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Decreto nº 12.955/2026 – art. 590 (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12955.htm"
+     },
+     {
+      "nome": "LC 214/2025 – art. 349 (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+     },
+     {
+      "nome": "TCU – Reforma Tributária",
+      "url": "https://sites.tcu.gov.br/reforma-tributaria/"
+     }
+    ]
+   },
+   {
+    "titulo": "Cooperativas: opção pelo regime específico de IBS/CBS para 2027 até 31/10/2026",
+    "tema": "consumo",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-09-18",
+    "oQueMudou": "A Orientação Conjunta RFB/CGIBS esclarece que cooperativas enquadradas no art. 271 da LC 214 podem optar pelo regime específico (alíquota zero nas operações previstas em lei) entre 01/09 e 31/10/2026, com efeitos a partir de 01/01/2027. É obrigatório enviar a lista de associados com as datas de admissão.",
+    "impacto": "Afeta cooperativas de trabalho médico e operadoras cooperativas, e por consequência os médicos cooperados.",
+    "acao": "Para cooperativas médicas atendidas pelo escritório, confirmar até 31/10 o registro da opção e o envio da lista de cooperados no Portal de Serviços da Receita.",
+    "prazo": "2026-10-31",
+    "fontes": [
+     {
+      "nome": "Receita Federal – Orientação Conjunta RFB/CGIBS (18/09/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/orientacao-conjunta-rfb-cgibs"
+     }
+    ]
+   },
+   {
+    "titulo": "Simples: Emissor Nacional da NFS-e obrigatório para ME e EPP a partir de 01/11/2026",
+    "tema": "nfse",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-08-14",
+    "oQueMudou": "A Resolução CGSN nº 191, de 04/08/2026, obriga ME e EPP do Simples a emitir NFS-e pelo Emissor Nacional (web ou API) a partir de 01/11/2026 e revoga a data anterior de 01/09/2026 (Resolução CGSN nº 189). Os campos de IBS/CBS só passam a ser exigidos do Simples em 01/01/2027.",
+    "impacto": "Clínicas e médicos PJ do Simples que ainda emitem pelo sistema da prefeitura precisam migrar.",
+    "acao": "Testar e migrar o emissor de cada cliente do Simples antes de 01/11/2026 e checar a integração com o software de faturamento.",
+    "prazo": "2026-11-01",
+    "fontes": [
+     {
+      "nome": "Receita Federal – NFS-e Nacional obrigatória para ME e EPP (14/08/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026"
+     },
+     {
+      "nome": "Portal NFS-e – CGSN prorroga a obrigatoriedade do Emissor Nacional",
+      "url": "https://www.gov.br/nfse/pt-br/noticias/comite-gestor-do-simples-nacional-prorroga-a-obrigatoriedade-de-emissao-de-notas-fiscais-de-servico-pelo-emissor-nacional-da-nfs-e"
+     }
+    ]
+   },
+   {
+    "titulo": "Simples deixa de aceitar regime de caixa a partir de 2027",
+    "tema": "simples",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-08-14",
+    "oQueMudou": "Com as Resoluções CGSN nº 190 e 191/2026, a base mensal do Simples passa a ser a receita faturada, em regra na emissão do documento fiscal, a partir de 01/01/2027. O regime de caixa deixa de existir.",
+    "impacto": "Clínicas do Simples que faturam convênios e recebem 30 a 90 dias depois passarão a pagar o DAS antes de receber.",
+    "acao": "Identificar os clientes do Simples no regime de caixa e projetar o fluxo de caixa de 2027. Avaliar negociar prazos de pagamento com as operadoras.",
+    "prazo": "2027-01-01",
+    "fontes": [
+     {
+      "nome": "Receita Federal – Regime de caixa deixa de ser utilizado no Simples (14/08/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/regime-de-caixa-deixa-de-ser-utilizado-na-apuracao-do-simples-nacional"
+     },
+     {
+      "nome": "Receita Federal – CGSN atualiza regras do Simples (11/08/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo"
+     }
+    ]
+   },
+   {
+    "titulo": "IRRF de 10% sobre dividendos: orientação de recolhimento (DARF 1841)",
+    "tema": "renda",
+    "status": "em vigor",
+    "dataPublicacao": "2026-08-06",
+    "oQueMudou": "O Ministério da Fazenda e a Receita orientaram o recolhimento do IRRF sobre lucros e dividendos da Lei 15.270/2025: código 1841-01 para residentes, com vencimento no último dia útil do 2º decêndio do mês seguinte, e informação na EFD-Reinf (R-4010). Pela lei, a retenção é de 10% sobre o total quando a mesma PJ paga mais de R$ 50 mil no mês à mesma PF. Segundo as Perguntas e Respostas da Receita, a regra vale também para o Simples.",
+    "impacto": "Clínicas que distribuem mais de R$ 50 mil por mês a um mesmo sócio médico precisam reter, recolher e declarar. Os sócios com renda anual acima de R$ 600 mil devem se preparar para o IR mínimo na declaração de 2027.",
+    "acao": "Conferir as retenções e os DARFs 1841 de 2026 e os eventos R-4010. Planejar as distribuições restantes de 2026 e simular o IR mínimo de cada sócio.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Ministério da Fazenda – orientação sobre IRRF de lucros e dividendos (06/08/2026)",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-orienta-sobre-recolhimento-do-imposto-retido-na-fonte-sobre-lucros-e-dividendos"
+     },
+     {
+      "nome": "Lei nº 15.270/2025 (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm"
+     },
+     {
+      "nome": "Receita Federal – Perguntas e Respostas sobre lucros e dividendos",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/dirf/manual_padrao_rfb_per_tributacao_cotin_v-19-12-2025.pdf"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-10-30",
+    "evento": "Fim do prazo de opção do Simples pelo regime regular de IBS/CBS (1º semestre de 2027) e de regularização de pendências para ingresso no Simples."
+   },
+   {
+    "data": "2026-10-30",
+    "evento": "Prazo para o TCU enviar ao Senado os cálculos da alíquota de referência da CBS de 2027."
+   },
+   {
+    "data": "2026-10-31",
+    "evento": "Fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-11-01",
+    "evento": "Emissor Nacional da NFS-e obrigatório para ME e EPP do Simples Nacional."
+   },
+   {
+    "data": "2026-11-03",
+    "evento": "Abre a janela de cancelamento das opções pelo Simples e pelo regime regular de IBS/CBS (até 20/12/2026)."
+   },
+   {
+    "data": "2026-11-15",
+    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde."
+   },
+   {
+    "data": "2026-12-01",
+    "evento": "NFS-e com IBS/CBS obrigatória para locações e cessões de imóveis e demais casos residuais (ex.: sublocação de salas)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   }
+  ],
+  "edicao": 1
+ }
+]
