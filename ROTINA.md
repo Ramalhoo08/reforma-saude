@@ -16,6 +16,16 @@ Escopo:
 
 Fontes oficiais para confirmar: in.gov.br (DOU), planalto.gov.br, gov.br/receitafederal, gov.br/fazenda, cgibs.gov.br, gov.br/nfse, CONFAZ, ANS, CFC, CFM, Câmara e Senado (projetos), STF. Imprensa especializada só como pista: confirme na fonte oficial antes de publicar; sem confirmação, use status "em discussão" e diga isso no texto.
 
+Checagem mínima obrigatória (todo dia, antes de concluir que não há novidade), cada uma com WebSearch e, quando houver resultado relevante, WebFetch da página oficial:
+1. Notícias da Receita Federal sobre reforma tributária, CBS, NFS-e e Simples (gov.br/receitafederal).
+2. Ministério da Fazenda / Programa da Reforma Tributária (gov.br/fazenda).
+3. Comitê Gestor do IBS: resoluções e atos (cgibs.gov.br).
+4. Portal NFS-e Nacional: notas técnicas e comunicados (gov.br/nfse).
+5. DOU: leis complementares, decretos, instruções normativas e resoluções CGSN do período (in.gov.br).
+6. Senado, Câmara e TCU: alíquota de referência e projetos que alterem a LC 214/2025.
+7. Reforma da renda: Receita (IRRF dividendos, IR mínimo) e STF (ADIs sobre a Lei 15.270/2025).
+8. Saúde: ANS e CFM sobre efeitos da reforma em operadoras e prestadores.
+
 Filtro: entra apenas o que muda algo para o cliente médico ou para o trabalho do escritório com ele. NÃO invente números de lei, datas ou links.
 
 ## 3. Novo boletim
