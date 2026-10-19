@@ -43,6 +43,8 @@ for b in boletins:
         for k in ("titulo", "oQueMudou", "impacto", "acao"):
             if not str(it.get(k, "")).strip():
                 erros.append(f"{o}: campo {k} vazio")
+        if it.get("alcance", "saúde") not in ("saúde", "geral"):
+            erros.append(f"{o}: alcance deve ser 'saúde' ou 'geral'")
         if it.get("status") not in STATUS:
             erros.append(f"{o}: status deve ser um de {sorted(STATUS)}")
         for k in ("dataPublicacao", "prazo"):

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Reforma em Saúde</title>
-<meta name="description" content="Boletim diário da reforma tributária para serviços médicos.">
+<meta name="description" content="Boletim diário da reforma tributária, com destaque para serviços médicos.">
 <meta name="theme-color" content="#1f5f8b">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
@@ -62,6 +62,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
 .st-reg { background: var(--info-soft); color: var(--info) }
 .st-disc { background: var(--warn-soft); color: var(--warn) }
 .tema { border: 1px solid var(--line); color: var(--muted) }
+.alc-saude { background: var(--accent); color: var(--surface) }
 .blk { display: grid; gap: 2px }
 .blk b { font: 600 .75rem/1.3 var(--f-body); letter-spacing: .06em; text-transform: uppercase; color: var(--muted) }
 .acao { border-left: 3px solid var(--warn); padding-left: 12px }
@@ -104,7 +105,7 @@ nav.tabs button:focus-visible { outline: 3px solid var(--accent) }
 
 <div class="wrap">
   <header class="top">
-    <span class="eyebrow">Reforma tributária · serviços médicos</span>
+    <span class="eyebrow">Reforma tributária · foco em saúde</span>
     <h1 id="title">Boletim do dia</h1>
   </header>
   <main id="view" aria-live="polite">
@@ -157,12 +158,13 @@ function blk(label, text, cls) {
 }
 
 function itemCard(it) {
+  const geral = str(it.alcance).toLowerCase() === "geral"; // itens antigos não têm alcance: eram todos de saúde
   return el("article", { class: "card" },
-    el("div", { class: "meta" }, statusPill(it.status), str(it.tema) ? el("span", { class: "pill tema", text: it.tema }) : null,
+    el("div", { class: "meta" }, el("span", { class: "pill " + (geral ? "tema" : "alc-saude"), text: geral ? "Geral" : "Saúde" }), statusPill(it.status), str(it.tema) ? el("span", { class: "pill tema", text: it.tema }) : null,
       str(it.dataPublicacao) ? el("span", { text: "Publicado " + fmtData(it.dataPublicacao) }) : null),
     el("h3", { text: str(it.titulo) }),
     blk("O que mudou", it.oQueMudou),
-    blk("Impacto para o cliente médico", it.impacto),
+    blk(geral ? "Impacto na prática" : "Impacto para o cliente médico", it.impacto),
     str(it.acao) ? el("div", { class: "blk acao" }, el("b", { text: "Ação do escritório" }), el("p", { text: it.acao }),
       str(it.prazo) ? el("span", { class: "prazo", text: "Prazo: " + fmtData(it.prazo) }) : null) : null,
     fontes(it.fontes));
@@ -173,7 +175,7 @@ function boletimView(b) {
   frag.append(el("div", { class: "meta" }, el("span", { text: `Edição nº ${b.edicao || "–"} · ${fmtData(b.data || b.id)}` })));
   if (str(b.resumo)) frag.append(el("section", { class: "lead" }, el("span", { class: "eyebrow", text: "Resumo" }), el("p", { text: b.resumo })));
   const itens = arr(b.itens);
-  if (!itens.length) frag.append(el("div", { class: "empty" }, el("p", { text: "Sem novidades relevantes para serviços médicos nesta data." })));
+  if (!itens.length) frag.append(el("div", { class: "empty" }, el("p", { text: "Sem novidades relevantes da reforma nesta data." })));
   for (const it of itens) frag.append(itemCard(it || {}));
   return frag;
 }

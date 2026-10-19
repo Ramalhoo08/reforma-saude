@@ -1,6 +1,8 @@
-# Rotina diária: Boletim da Reforma Tributária para Serviços Médicos
+# Rotina diária: Boletim da Reforma Tributária (geral + serviços médicos)
 
 Você produz o boletim diário da Reforma Tributária para um escritório de contabilidade cujos clientes são prestadores de **serviços médicos** (clínicas, consultórios, hospitais, laboratórios, médicos PJ e PF, relação com operadoras de planos de saúde). Escreva em português do Brasil, linguagem simples e direta.
+
+O boletim cobre **toda a reforma tributária** (novidades gerais, para qualquer empresa) e dá destaque ao que afeta especificamente os serviços médicos. Cada item leva o campo `alcance`: `"saúde"` quando atinge especificamente o setor de saúde, `"geral"` quando vale para empresas em geral.
 
 O app é um site estático (GitHub Pages) que lê `data/boletins.json` e `data/dossie.json`. Você só altera esses dois arquivos.
 
@@ -12,6 +14,7 @@ O app é um site estático (GitHub Pages) que lê `data/boletins.json` e `data/d
 ## 2. Pesquisa (da data do último boletim até hoje)
 Escopo:
 - **Consumo:** EC 132/2023, LC 214/2025 (IBS/CBS/IS), LC 227/2026 (Comitê Gestor do IBS), Decreto 12.955/2026 (regulamento da CBS), Resolução CGIBS nº 6/2026 (regulamento do IBS), atos conjuntos RFB/CGIBS, NFS-e Nacional e leiautes, Simples Nacional (opção por IBS/CBS por fora, resoluções CGSN), split payment, créditos, redução de 60% para serviços de saúde (Anexo III, NBS), dispositivos médicos, medicamentos, planos de saúde e cooperativas, sociedades uniprofissionais/ISS, alíquota de referência.
+- **Geral:** qualquer novidade relevante da reforma para empresas e contadores, mesmo sem relação direta com saúde (regulamentos, obrigações acessórias, sistemas da Receita e do CGIBS, alíquotas, regimes específicos de outros setores quando forem marcos importantes, cronograma, decisões judiciais).
 - **Renda:** Lei 15.270/2025 (dividendos, IRRF 10%, IR mínimo), LC 224/2025, IRPF/IRPJ de médicos e sociedades médicas, decisões do STF sobre o tema.
 
 Fontes oficiais para confirmar: in.gov.br (DOU), planalto.gov.br, gov.br/receitafederal, gov.br/fazenda, cgibs.gov.br, gov.br/nfse, CONFAZ, ANS, CFC, CFM, Câmara e Senado (projetos), STF. Imprensa especializada só como pista: confirme na fonte oficial antes de publicar; sem confirmação, use status "em discussão" e diga isso no texto.
@@ -26,18 +29,19 @@ Checagem mínima obrigatória (todo dia, antes de concluir que não há novidade
 7. Reforma da renda: Receita (IRRF dividendos, IR mínimo) e STF (ADIs sobre a Lei 15.270/2025).
 8. Saúde: ANS e CFM sobre efeitos da reforma em operadoras e prestadores.
 
-Filtro: entra apenas o que muda algo para o cliente médico ou para o trabalho do escritório com ele. NÃO invente números de lei, datas ou links.
+Filtro: entra o que muda algo para empresas em geral, para clientes médicos ou para o trabalho do escritório contábil. Deixe de fora opinião, propaganda e notícia sem fato novo. NÃO invente números de lei, datas ou links.
 
 ## 3. Novo boletim
 Insira **no início** da lista em `data/boletins.json` um objeto neste formato exato:
 
 ```json
-{"data":"AAAA-MM-DD","edicao":0,"resumo":"até 3 frases com o essencial do dia","itens":[{"titulo":"...","tema":"consumo|renda|obrigacoes|simples|nfse","status":"em vigor|regulamentado|em discussão","dataPublicacao":"AAAA-MM-DD","oQueMudou":"...","impacto":"o que muda para o cliente médico","acao":"o que o escritório deve fazer","prazo":"AAAA-MM-DD ou vazio","fontes":[{"nome":"...","url":"https://..."}]}],"agenda":[{"data":"AAAA-MM-DD","evento":"prazo ou marco dos próximos 90 dias"}]}
+{"data":"AAAA-MM-DD","edicao":0,"resumo":"até 3 frases com o essencial do dia","itens":[{"titulo":"...","alcance":"saúde|geral","tema":"consumo|renda|obrigacoes|simples|nfse","status":"em vigor|regulamentado|em discussão","dataPublicacao":"AAAA-MM-DD","oQueMudou":"...","impacto":"o que muda na prática (para itens gerais: para as empresas; e, se houver, o efeito para clientes médicos)","acao":"o que o escritório deve fazer","prazo":"AAAA-MM-DD ou vazio","fontes":[{"nome":"...","url":"https://..."}]}],"agenda":[{"data":"AAAA-MM-DD","evento":"prazo ou marco dos próximos 90 dias"}]}
 ```
 
 - `edicao` = maior edição existente + 1.
-- Sem novidade relevante: `"itens": []` e resumo "Sem novidades relevantes para serviços médicos hoje." Inclua a agenda dos próximos prazos mesmo assim.
-- Ordene os itens do mais urgente para o menos urgente.
+- Sem novidade relevante: `"itens": []` e resumo "Sem novidades relevantes da reforma hoje." Inclua a agenda dos próximos prazos mesmo assim.
+- Ordene os itens do mais urgente para o menos urgente; em urgência igual, os de alcance "saúde" primeiro.
+- O resumo cita primeiro o que afeta clientes médicos, depois o geral.
 - Edite o JSON com um script Python (json.load / json.dump com `ensure_ascii=False, indent=1`), nunca à mão.
 
 ## 4. Dossiê (só se necessário)
