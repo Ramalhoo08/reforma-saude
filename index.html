@@ -44,7 +44,17 @@ body { background: var(--bg); color: var(--ink); font: 400 1.0625rem/1.55 var(--
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
   padding-block: 0 calc(84px + env(safe-area-inset-bottom, 0px)) }
 .wrap { max-width: 680px; margin: 0 auto; display: grid; gap: 20px }
-header.top { padding-block: 20px 4px; display: grid; gap: 2px }
+header.top { padding-block: 20px 4px; display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: end; gap: 12px }
+.hd { display: grid; gap: 2px; min-width: 0 }
+.refresh { all: unset; cursor: pointer; width: 44px; height: 44px; display: grid; place-items: center; border-radius: 12px; color: var(--accent); background: var(--accent-soft) }
+.refresh:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px }
+.refresh svg, .ptr svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round }
+.ptr { position: fixed; left: 50%; top: calc(env(safe-area-inset-top, 0px) + 10px); width: 44px; height: 44px; margin-left: -22px; border-radius: 50%;
+  background: var(--surface); border: 1px solid var(--line); box-shadow: 0 6px 18px rgb(0 0 0 / .2); color: var(--accent);
+  display: grid; place-items: center; transform: translateY(-90px); opacity: 0; z-index: 10; pointer-events: none }
+.spin svg { animation: spin .8s linear infinite }
+@keyframes spin { to { transform: rotate(360deg) } }
+@media (prefers-reduced-motion: reduce) { .spin svg { animation-duration: 2.4s } }
 .eyebrow { font: 500 .75rem/1.3 var(--f-mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted) }
 h1 { font: 800 1.75rem/1.1 var(--f-display); margin: 0; text-wrap: balance; letter-spacing: -.01em }
 h2 { font: 700 1.25rem/1.25 var(--f-display); margin: 0; text-wrap: balance }
@@ -103,10 +113,14 @@ nav.tabs button:focus-visible { outline: 3px solid var(--accent) }
 </head>
 <body>
 
+<div id="ptr" class="ptr" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20 11a8 8 0 1 0-2.3 5.7"/><path d="M20 4v7h-7"/></svg></div>
 <div class="wrap">
   <header class="top">
-    <span class="eyebrow">Reforma tributária · foco em saúde</span>
-    <h1 id="title">Boletim do dia</h1>
+    <div class="hd">
+      <span class="eyebrow">Reforma tributária · foco em saúde</span>
+      <h1 id="title">Boletim do dia</h1>
+    </div>
+    <button id="refresh" class="refresh" type="button" aria-label="Atualizar" title="Atualizar"><svg viewBox="0 0 24 24"><path d="M20 11a8 8 0 1 0-2.3 5.7"/><path d="M20 4v7h-7"/></svg></button>
   </header>
   <main id="view" aria-live="polite">
     <div class="empty"><h2>Carregando boletins…</h2><p>O primeiro boletim aparece aqui assim que for publicado. A atualização é automática, de segunda a sexta às 7h.</p></div>
@@ -175,7 +189,7 @@ function boletimView(b) {
   frag.append(el("div", { class: "meta" }, el("span", { text: `Edição nº ${b.edicao || "–"} · ${fmtData(b.data || b.id)}` })));
   if (str(b.resumo)) frag.append(el("section", { class: "lead" }, el("span", { class: "eyebrow", text: "Resumo" }), el("p", { text: b.resumo })));
   const itens = arr(b.itens);
-  if (!itens.length) frag.append(el("div", { class: "empty" }, el("p", { text: "Sem novidades relevantes da reforma nesta data." })));
+  if (!itens.length && !str(b.resumo)) frag.append(el("div", { class: "empty" }, el("p", { text: "Sem novidades relevantes da reforma nesta data." })));
   for (const it of itens) frag.append(itemCard(it || {}));
   return frag;
 }
@@ -258,6 +272,31 @@ view.addEventListener("input", e => {
   if (e.target.id !== "busca") return;
   state.busca = e.target.value; const pos = e.target.selectionStart;
   render(); const i = document.getElementById("busca"); i.focus(); i.setSelectionRange(pos, pos);
+});
+
+// Puxar para atualizar: no topo da tela, arrastar para baixo recarrega o app inteiro
+const ptr = document.getElementById("ptr"), ptrIcon = ptr.firstElementChild, PULL = 70;
+let y0 = null, dy = 0, busy = false;
+function atualizar() {
+  if (busy) return; busy = true;
+  ptr.style.transition = "transform .2s, opacity .2s"; ptr.style.transform = "translateY(0)"; ptr.style.opacity = "1";
+  ptrIcon.style.transform = ""; ptr.classList.add("spin"); document.getElementById("refresh").classList.add("spin");
+  // ?r= fura o cache de 10 min do GitHub Pages para a página; os dados já vêm com no-cache
+  setTimeout(() => location.replace(location.pathname + "?r=" + Date.now()), 400);
+}
+document.getElementById("refresh").addEventListener("click", atualizar);
+addEventListener("touchstart", e => { y0 = scrollY <= 0 && !busy && e.touches.length === 1 ? e.touches[0].clientY : null; dy = 0; ptr.style.transition = "none" }, { passive: true });
+addEventListener("touchmove", e => {
+  if (y0 === null) return;
+  dy = Math.max(0, e.touches[0].clientY - y0) * 0.5;
+  ptr.style.transform = `translateY(${Math.min(dy, PULL + 20) - 60}px)`;
+  ptr.style.opacity = String(Math.min(1, dy / PULL));
+  ptrIcon.style.transform = `rotate(${dy * 4}deg)`;
+}, { passive: true });
+addEventListener("touchend", () => {
+  if (y0 === null) return; y0 = null;
+  if (dy >= PULL) return atualizar();
+  ptr.style.transition = "transform .2s, opacity .2s"; ptr.style.transform = ""; ptr.style.opacity = "";
 });
 
 try { const t = localStorage.getItem("tab"); if (TITLES[t]) state.tab = t } catch {}
