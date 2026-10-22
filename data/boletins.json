@@ -1,5 +1,61 @@
 [
  {
+  "data": "2026-10-22",
+  "edicao": 5,
+  "resumo": "Sem novidades relevantes da reforma hoje.",
+  "itens": [],
+  "agenda": [
+   {
+    "data": "2026-10-30",
+    "evento": "Fim do prazo de opção do Simples pelo regime regular de IBS/CBS (1º semestre de 2027) e de regularização de pendências para ingresso no Simples."
+   },
+   {
+    "data": "2026-10-30",
+    "evento": "Prazo para o TCU enviar ao Senado os cálculos da alíquota de referência da CBS de 2027."
+   },
+   {
+    "data": "2026-10-31",
+    "evento": "Fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-11-01",
+    "evento": "Emissor Nacional da NFS-e obrigatório para ME e EPP do Simples Nacional."
+   },
+   {
+    "data": "2026-11-03",
+    "evento": "Abre a janela de cancelamento das opções pelo Simples e pelo regime regular de IBS/CBS (até 20/12/2026)."
+   },
+   {
+    "data": "2026-11-15",
+    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde."
+   },
+   {
+    "data": "2026-12-01",
+    "evento": "NFS-e com IBS/CBS obrigatória para locações e cessões de imóveis e demais casos residuais (ex.: sublocação de salas)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   }
+  ]
+ },
+ {
   "data": "2026-10-21",
   "edicao": 4,
   "resumo": "Sem novidades relevantes da reforma hoje.",
