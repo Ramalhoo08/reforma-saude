@@ -1,5 +1,87 @@
 [
  {
+  "data": "2026-10-30",
+  "edicao": 11,
+  "resumo": "Para clientes médicos: o número de 11,3% da CBS em 2027 é a base da redução de 60% da saúde, ainda sujeita ao Senado. No geral, o TCU aprovou o cálculo da alíquota de referência da CBS (11,3468%) e o Senado decide até 15/12/2026.",
+  "itens": [
+   {
+    "titulo": "TCU calcula alíquota de referência da CBS de 2027 em 11,3468% (11,3%)",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-10-28",
+    "oQueMudou": "O TCU aprovou o cálculo da alíquota de referência da CBS para 2027: 11,3468%, arredondada para 11,3%. Também fixou um redutor de cerca de 44,2% para compras da administração pública direta, autarquias e fundações. O resultado segue ao Senado, que fixa a alíquota por resolução até 15/12/2026; se o Senado não agir, vale o cálculo do TCU. É uma alíquota de referência, não necessariamente a cobrada de cada operação.",
+    "impacto": "Para as empresas, é o primeiro número oficial para simular 2027. Para clientes médicos, a redução de 60% da saúde se aplica sobre essa referência, o que dá algo em torno de 40% de 11,3% (conta nossa, sujeita à resolução do Senado). Vale também para a comparação Simples × regime regular.",
+    "acao": "Refazer as simulações de 2027 dos clientes médicos com a faixa de 11,3% e revisar quando o Senado publicar a resolução. Tratar o número como provisório até lá.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Agência Brasil – TCU aprova cálculo da alíquota de referência da CBS em 11,3%",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tcu-aprova-calculo-da-aliquota-de-referencia-da-cbs-em-113"
+     },
+     {
+      "nome": "TCU – TCU calcula alíquota de referência de 11,3% para novo tributo sobre consumo",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-calcula-aliquota-de-referencia-de-113-para-novo-tributo-sobre-consumo"
+     },
+     {
+      "nome": "TCU – CBS 2027",
+      "url": "https://sites.tcu.gov.br/reforma-tributaria/visao-cbs-2027.html"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-10-30",
+    "evento": "Fim do prazo de opção do Simples pelo regime regular de IBS/CBS (1º semestre de 2027) e de regularização de pendências para ingresso no Simples."
+   },
+   {
+    "data": "2026-10-30",
+    "evento": "Prazo para o TCU enviar ao Senado os cálculos da alíquota de referência da CBS de 2027."
+   },
+   {
+    "data": "2026-10-31",
+    "evento": "Fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-11-01",
+    "evento": "Emissor Nacional da NFS-e obrigatório para ME e EPP do Simples Nacional."
+   },
+   {
+    "data": "2026-11-03",
+    "evento": "Abre a janela de cancelamento das opções pelo Simples e pelo regime regular de IBS/CBS (até 20/12/2026)."
+   },
+   {
+    "data": "2026-11-15",
+    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde."
+   },
+   {
+    "data": "2026-12-01",
+    "evento": "NFS-e com IBS/CBS obrigatória para locações e cessões de imóveis e demais casos residuais (ex.: sublocação de salas)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   }
+  ]
+ },
+ {
   "data": "2026-10-29",
   "edicao": 10,
   "resumo": "Sem novidades relevantes da reforma hoje.",

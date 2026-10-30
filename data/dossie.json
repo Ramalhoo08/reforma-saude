@@ -338,15 +338,16 @@
   "id": "aliquota-referencia-2027",
   "ordem": 11,
   "titulo": "Alíquota de referência da CBS para 2027",
-  "resumo": "A alíquota cheia da CBS para 2027, base para aplicar a redução de 60% da saúde, ainda não foi fixada. Em 2026 os prazos foram estendidos em 45 dias: o TCU envia os cálculos ao Senado até 30/10/2026, e o Senado fixa a alíquota até 15/12/2026.",
+  "resumo": "O TCU aprovou em 28/10/2026 o cálculo da alíquota de referência da CBS para 2027: 11,3468% (11,3%). Falta o Senado fixar a alíquota por resolução até 15/12/2026; sem ela, vale o cálculo do TCU. A redução de 60% da saúde incide sobre essa referência.",
   "pontos": [
    "Na LC 214 (art. 349, § 1º), o TCU envia os cálculos até 15/09 e o Senado fixa até 31/10 do ano anterior. O Decreto 12.955/2026 (art. 590, § 2º) prorroga esses prazos em 45 dias em 2026, o que leva a 30/10 e 15/12.",
    "Se o Senado não fixar a alíquota a tempo, vale a alíquota calculada pelo TCU (LC 214, art. 349, § 2º).",
    "As alíquotas de referência do IBS só serão fixadas para 2029 a 2033; em 2027 e 2028 o IBS é de 0,1% no total.",
-   "Não confirmado em fonte oficial: o envio da proposta da Receita ao TCU em 14/09/2026 e qualquer número estimado para a alíquota. Os números que circulam vêm de imprensa e consultorias."
+   "O TCU fixou também redutor de cerca de 44,2% para compras da administração pública direta, autarquias e fundações.",
+   "É alíquota de referência: não é necessariamente o percentual efetivamente cobrado em cada operação."
   ],
-  "impacto": "Sem a alíquota não é possível fechar com precisão o preço e a margem de 2027 dos clientes médicos do regime regular, nem a simulação Simples × regime regular.",
-  "acao": "Fazer simulações com faixas de alíquota e refazê-las quando o Senado publicar a resolução (até 15/12/2026). Não usar números da imprensa como definitivos.",
+  "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
+  "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
   "status": "em discussão",
   "fontes": [
    {
@@ -360,9 +361,17 @@
    {
     "nome": "TCU – Reforma Tributária",
     "url": "https://sites.tcu.gov.br/reforma-tributaria/"
+   },
+   {
+    "nome": "Agência Brasil – TCU aprova cálculo da alíquota de referência da CBS em 11,3%",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tcu-aprova-calculo-da-aliquota-de-referencia-da-cbs-em-113"
+   },
+   {
+    "nome": "TCU – TCU calcula alíquota de referência de 11,3% para novo tributo sobre consumo",
+    "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-calcula-aliquota-de-referencia-de-113-para-novo-tributo-sobre-consumo"
    }
   ],
-  "atualizadoEm": "2026-10-18"
+  "atualizadoEm": "2026-10-30"
  },
  {
   "id": "renda-lei-15270-dividendos",
