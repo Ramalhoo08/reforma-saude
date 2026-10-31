@@ -6,7 +6,7 @@
   "itens": [
    {
     "titulo": "Eduardo Braga será relator da alíquota da CBS no Senado; CAE debate a partir de 11/11 e convidará Durigan",
-    "alcance": "saúde",
+    "alcance": "geral",
     "tema": "consumo",
     "status": "em discussão",
     "dataPublicacao": "2026-10-31",
@@ -31,14 +31,18 @@
     "tema": "obrigacoes",
     "status": "regulamentado",
     "dataPublicacao": "2026-10-31",
-    "oQueMudou": "Segundo a Orientação Conjunta Receita Federal/CGIBS, a opção das cooperativas pelo regime específico, para valer em 2027, vai de 01/09 a 31/10/2026, pelo Portal de Serviços da Receita, com envio da lista de cooperados. A opção vale para todo o ano seguinte.",
+    "oQueMudou": "Segundo a Orientação Conjunta Receita Federal/CGIBS, a opção das cooperativas pelo regime específico, para valer em 2027, vai de 01/09 a 31/10/2026, pelo Portal de Serviços da Receita, com envio da lista de cooperados. A opção vale para todo o ano seguinte. Em 29/10, a Receita e o CGIBS informaram que discutem ampliar o prazo até 30/11/2026, mas a mudança depende de alteração normativa que ainda não foi publicada: até lá, vale 31/10.",
     "impacto": "Atinge cooperativas de trabalho médico e, indiretamente, o repasse aos médicos cooperados. A decisão é da cooperativa, não do médico.",
-    "acao": "Hoje: confirmar com as cooperativas atendidas se a opção e a lista de associados foram enviadas. Confirmar com a Receita as regras para quem perdeu o prazo antes de orientar o cliente.",
+    "acao": "Hoje: confirmar com as cooperativas atendidas se a opção e a lista de associados foram enviadas, sem contar com a prorrogação até 30/11, que ainda não foi oficializada.",
     "prazo": "2026-10-31",
     "fontes": [
      {
       "nome": "CGIBS – Orientação Conjunta RFB/CGIBS para sociedades cooperativas",
       "url": "https://cgibs.gov.br/receita-federal-e-comite-gestor-do-imposto-sobre-bens-e-servicos-divulgam-orientacao-conjunta"
+     },
+     {
+      "nome": "Receita Federal – Receita e CGIBS discutem ampliar até 30/11 o prazo das cooperativas (29/10/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-cgibs-discutem-ampliacao-do-prazo-de-opcao-pelo-regime-especifico-da-cbs-e-do-ibs-para-as-cooperativas-ate-30-de-novembro"
      }
     ]
    },
@@ -63,7 +67,7 @@
   "agenda": [
    {
     "data": "2026-10-31",
-    "evento": "Fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS para 2027."
+    "evento": "Fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS para 2027. (prorrogação até 30/11 em discussão, ainda sem ato publicado)"
    },
    {
     "data": "2026-11-01",
