@@ -86,7 +86,8 @@
    "Simples Nacional: emissão com IBS/CBS só a partir de 01/01/2027 (Ato Conjunto nº 4, art. 1º, § 1º).",
    "A Resolução CGSN nº 191, de 04/08/2026, obriga ME e EPP do Simples a emitir NFS-e pelo Emissor Nacional (web ou API) a partir de 01/11/2026. A data anterior, 01/09/2026, foi revogada.",
    "O Ato Técnico Conjunto RFB/CGIBS nº 7, publicado em 01/10/2026, aprovou a NT 009 v1.01 da NFS-e (leiaute RTC, Anexos VI e VII) e a NT 010 (Evento de Manifestação do Adquirente). Com a NT 010, o tomador pode confirmar a nota ou informar divergência ou desconhecimento.",
-   "O Anexo VIII v1.01 da documentação técnica faz a correlação entre item de serviço, NBS, cClassTrib e cIndOp. Pelo próprio portal, ainda é um trabalho inicial."
+   "O Anexo VIII v1.01 da documentação técnica faz a correlação entre item de serviço, NBS, cClassTrib e cIndOp. Pelo próprio portal, ainda é um trabalho inicial.",
+   "Portal da NFS-e (29/10/2026): o leiaute da NT 009 está em produção restrita (testes), e a ausência do grupo de IBS/CBS não gera rejeição técnica no ambiente nacional, mesmo para quem é obrigado; a partir de 01/01/2027 o valor 'Desconhecido' deixa de ser aceito."
   ],
   "impacto": "Uma nota com NBS ou classificação tributária errada perde a redução de 60% da saúde e pode gerar divergência com o tomador (operadora, hospital), que poderá contestar a nota pelo evento de manifestação. Clínicas do Simples que ainda emitem pelo sistema da prefeitura precisam migrar até 01/11/2026.",
   "acao": "Conferir se o emissor de cada cliente já está no leiaute RTC (NT 009 v1.01). Montar a tabela item LC 116 → NBS → cClassTrib por tipo de serviço (consulta, exame, cirurgia, imagem, laboratório). Migrar os clientes do Simples para o Emissor Nacional antes de 01/11/2026. Mapear as receitas de sublocação de salas para 01/12/2026.",
@@ -111,9 +112,13 @@
    {
     "nome": "Receita Federal – NFS-e Nacional obrigatória para ME e EPP a partir de 01/11/2026",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026"
+   },
+   {
+    "nome": "Portal da NFS-e – orientações sobre leiaute em produção e status da NT 009 (29/10/2026)",
+    "url": "https://www.gov.br/nfse/pt-br/noticias/nfs-e-nacional-confira-oas-rientacoes-sobre-leiaute-em-producao-regras-de-preenchimento-de-ibs-cbs-e-status-da-nota-tecnica-009"
    }
   ],
-  "atualizadoEm": "2026-10-18"
+  "atualizadoEm": "2026-10-31"
  },
  {
   "id": "reducao-60-servicos-saude",
@@ -213,7 +218,8 @@
    "Quem opta pelo regime regular deixa de pagar CBS/IBS no DAS e passa a apurá-los pelas regras próprias, com débitos e créditos. Os valores de CBS/IBS pagos por fora não entram na receita bruta do Simples.",
    "A partir de 2027 o regime de caixa deixa de existir no Simples: a base mensal passa a ser a receita faturada, em regra na emissão do documento fiscal (Receita, 14/08/2026).",
    "Sublimite de R$ 3,6 milhões passa a considerar o IBS, além de ICMS e ISS; a Defis passa a ser informada no PGDAS-D, de janeiro a março.",
-   "Em 16/10/2026 a Receita contava 917.331 pedidos de opção pelo regime regular de IBS/CBS."
+   "Em 16/10/2026 a Receita contava 917.331 pedidos de opção pelo regime regular de IBS/CBS.",
+   "Em 29/10/2026 a Receita informou 1.000.142 optantes pelo regime regular de IBS/CBS; o prazo de 30/10 não seria prorrogado e o cancelamento vai até 20/12/2026."
   ],
   "impacto": "Para a clínica do Simples que atende principalmente pacientes pessoa física e operadoras, sair do DAS tende a trazer pouco benefício de crédito ao tomador e mais trabalho. Para quem presta a empresas do regime regular (hospitais, medicina do trabalho para empresas), o crédito integral pode fazer diferença no preço. O fim do regime de caixa antecipa o imposto de quem fatura e só recebe depois (convênios com prazo longo).",
   "acao": "Até 30/10/2026, simular para cada cliente do Simples as duas opções (DAS × regime regular), olhando o perfil dos tomadores, a margem e as compras com crédito. Registrar a decisão por escrito com o cliente. Ajustar o fluxo de caixa de 2027 de quem hoje usa regime de caixa. Lembrar da janela de cancelamento de 03/11 a 20/12/2026.",
@@ -238,9 +244,13 @@
    {
     "nome": "Manual da Opção pelo Regime Regular do IBS e da CBS no Simples Nacional",
     "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/Manual%20op%C3%A7%C3%A3o%20regime%20regular%20IBS%20e%20CBS%20no%20Simples%20Nacional.pdf"
+   },
+   {
+    "nome": "Receita Federal – Mais de 1 milhão de contribuintes já optaram pelo regime regular (29/10/2026)",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs"
    }
   ],
-  "atualizadoEm": "2026-10-18"
+  "atualizadoEm": "2026-10-31"
  },
  {
   "id": "creditos-split-payment",
@@ -313,7 +323,8 @@
    "É contribuinte quem fornece de forma habitual, profissional ou em volume que caracterize atividade econômica, mesmo que a profissão não seja regulamentada (LC 214, art. 21).",
    "O nanoempreendedor, pessoa física com receita bruta inferior a 50% do limite de adesão ao MEI que não tenha aderido ao MEI, não é contribuinte (LC 214, art. 26, IV).",
    "O Decreto 13.075, de 21/07/2026 (DOU de 22/07/2026), alterou o Regulamento da CBS: inscrição no CNPJ e emissão de documentos fiscais pela PF contribuinte ou responsável só a partir de 01/01/2027.",
-   "O serviço médico prestado pela PF também tem a redução de 60% quando está no Anexo III."
+   "O serviço médico prestado pela PF também tem a redução de 60% quando está no Anexo III.",
+   "Em 23/10/2026 a Receita divulgou medidas para nanoempreendedores e MEIs; segundo a imprensa contábil, o Decreto 13.140/2026 e a Resolução CGSN 195/2026 dispensam o nanoempreendedor de CNPJ e de nota fiscal eletrônica ligada aos novos tributos. Conferir o texto das normas."
   ],
   "impacto": "Médicos que atendem como autônomos (carnê-leão) com receita relevante passarão a ter CNPJ para IBS/CBS, a emitir nota e a apurar os tributos a partir de 2027, além do IR. Isso muda a comparação entre atuar como PF ou como PJ.",
   "acao": "Listar os clientes médicos PF com receita de autônomo e estimar se passam do limite de nanoempreendedor. Preparar a inscrição e a emissão de documentos para janeiro de 2027 e reavaliar a migração para PJ.",
@@ -330,9 +341,13 @@
    {
     "nome": "Decreto nº 12.955/2026, com alterações (Planalto)",
     "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12955.htm"
+   },
+   {
+    "nome": "Receita Federal – Novas medidas simplificam obrigações para nanoempreendedores e MEIs (23/10/2026)",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/novas-medidas-simplificam-obrigacoes-da-reforma-tributaria-para-nanoempreendedores-e-meis"
    }
   ],
-  "atualizadoEm": "2026-10-18"
+  "atualizadoEm": "2026-10-31"
  },
  {
   "id": "aliquota-referencia-2027",

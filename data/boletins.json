@@ -2,29 +2,8 @@
  {
   "data": "2026-10-31",
   "edicao": 12,
-  "resumo": "Edição de recuperação (19 a 31/10): para clientes médicos, o Senado definiu Eduardo Braga como relator da alíquota da CBS (TCU: 11,3%), com debate na CAE a partir de 11/11, e hoje é o último dia da opção das cooperativas pelo regime específico. No geral, os prazos do Simples encerraram em 30/10 e a janela de cancelamento abre em 03/11. Observação: sites oficiais e o Google Notícias estavam inacessíveis nesta execução; a pesquisa usou buscas na web.",
+  "resumo": "Edição de recuperação (19 a 31/10): para clientes médicos, o Senado definiu Eduardo Braga como relator da alíquota da CBS (TCU: 11,3%), com debate na CAE a partir de 11/11, e hoje é o último dia da opção das cooperativas pelo regime específico. No geral, mais de 1 milhão de empresas optaram pelo regime regular de IBS/CBS (cancelamento até 20/12), a NFS-e não rejeita nota sem o grupo IBS/CBS (leiaute novo ainda em testes), nanoempreendedores ganharam dispensa de CNPJ e nota, o governo promete a MP do Imposto Seletivo e o STF consulta sobre julgamento conjunto de IBS/CBS até 16/11.",
   "itens": [
-   {
-    "titulo": "Eduardo Braga será relator da alíquota da CBS no Senado; CAE debate a partir de 11/11 e convidará Durigan",
-    "alcance": "geral",
-    "tema": "consumo",
-    "status": "em discussão",
-    "dataPublicacao": "2026-10-31",
-    "oQueMudou": "Segundo o InfoMoney, o presidente da CAE, Renan Calheiros, confirmou o senador Eduardo Braga (MDB-AM) como relator do projeto de resolução que fixa a alíquota de referência da CBS de 2027. A comissão deve começar o debate em 11/11 e convidar o ministro da Fazenda, Dario Durigan, o presidente do TCU, Vital do Rêgo, e especialistas. O cálculo do TCU é de 11,3468% (11,3%). Ainda sem ato oficial do Senado.",
-    "impacto": "A redução de 60% dos serviços de saúde incide sobre a alíquota de referência; por isso o número que o Senado confirmar vale para clínicas, hospitais, laboratórios e médicos PJ do regime regular. Se o Senado não votar até 15/12, vale o cálculo do TCU.",
-    "acao": "Acompanhar as audiências da CAE a partir de 11/11 e manter as simulações de 2027 com 11,3%, revisando se o Senado mudar o número.",
-    "prazo": "2026-12-15",
-    "fontes": [
-     {
-      "nome": "InfoMoney – Eduardo Braga será relator da alíquota da CBS; CAE convidará Durigan",
-      "url": "https://www.infomoney.com.br/mercados/eduardo-braga-relator-aliquota-cbs-senado/"
-     },
-     {
-      "nome": "Agência Senado – TCU calcula alíquota da CBS em 11,3% para 2027",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/28/reforma-tributaria-tcu-calcula-aliquota-da-cbs-em-11-3-para-2027"
-     }
-    ]
-   },
    {
     "titulo": "Cooperativas: hoje (31/10) é o último dia para optar pelo regime específico de IBS/CBS em 2027",
     "alcance": "saúde",
@@ -47,6 +26,48 @@
     ]
    },
    {
+    "titulo": "STF abre consulta sobre julgamento conjunto de ações de IBS e CBS; contribuições até 16/11",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-10-29",
+    "oQueMudou": "Segundo o Contábeis e o Migalhas, um grupo de especialistas do Centro de Estudos Constitucionais do STF propôs que disputas de IBS e CBS sobre a mesma operação possam ser julgadas em um único processo, à escolha do contribuinte entre a Justiça estadual e a federal. A proposta está na segunda fase da consulta do Edital 05/2026, aberta em 29/10, e exigiria mudança na Constituição e na lei processual. Não é decisão do Plenário. Contribuições institucionais vão até 16/11/2026.",
+    "impacto": "Hoje o mesmo caso poderia correr na Justiça estadual (IBS) e na federal (CBS), com risco de decisões diferentes. Para clínicas e hospitais, é assunto de contencioso futuro, sem efeito em 2026.",
+    "acao": "Sem ação imediata. Entidades de classe dos clientes podem enviar contribuições até 16/11.",
+    "prazo": "2026-11-16",
+    "fontes": [
+     {
+      "nome": "Contábeis – Grupo do STF propõe julgamento conjunto de disputas sobre IBS e CBS",
+      "url": "https://www.contabeis.com.br/noticias/80492/grupo-do-stf-propoe-julgamento-conjunto-de-disputas-sobre-ibs-e-cbs/"
+     },
+     {
+      "nome": "Migalhas – STF reabre consulta de propostas para contencioso envolvendo IBS e CBS",
+      "url": "https://www.migalhas.com.br/quentes/467560/stf-reabre-consulta-de-propostas-para-contencioso-envolvendo-ibs-e-cbs"
+     }
+    ]
+   },
+   {
+    "titulo": "Eduardo Braga será relator da alíquota da CBS no Senado; CAE debate a partir de 11/11 e convidará Durigan",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-10-31",
+    "oQueMudou": "Segundo o InfoMoney, o presidente da CAE, Renan Calheiros, confirmou o senador Eduardo Braga (MDB-AM) como relator do projeto de resolução que fixa a alíquota de referência da CBS de 2027. A comissão deve começar o debate em 11/11 e convidar o ministro da Fazenda, Dario Durigan, o presidente do TCU, Vital do Rêgo, e especialistas. O cálculo do TCU é de 11,3468% (11,3%). Ainda sem ato oficial do Senado.",
+    "impacto": "A redução de 60% dos serviços de saúde incide sobre a alíquota de referência; por isso o número que o Senado confirmar vale para clínicas, hospitais, laboratórios e médicos PJ do regime regular. Se o Senado não votar até 15/12, vale o cálculo do TCU.",
+    "acao": "Acompanhar as audiências da CAE a partir de 11/11 e manter as simulações de 2027 com 11,3%, revisando se o Senado mudar o número.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "InfoMoney – Eduardo Braga será relator da alíquota da CBS; CAE convidará Durigan",
+      "url": "https://www.infomoney.com.br/mercados/eduardo-braga-relator-aliquota-cbs-senado/"
+     },
+     {
+      "nome": "Agência Senado – TCU calcula alíquota da CBS em 11,3% para 2027",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/28/reforma-tributaria-tcu-calcula-aliquota-da-cbs-em-11-3-para-2027"
+     }
+    ]
+   },
+   {
     "titulo": "Simples Nacional: prazos de 30/10 encerrados; cancelamento das opções abre em 03/11",
     "alcance": "geral",
     "tema": "simples",
@@ -60,6 +81,132 @@
      {
       "nome": "Serpro – Prazo para optar pelo regime regular de IBS e CBS vai até 30 de outubro",
       "url": "https://www.serpro.gov.br/menu/noticias/noticias-2026/opcao-simples-hibrido"
+     }
+    ]
+   },
+   {
+    "titulo": "Mais de 1 milhão de contribuintes optaram pelo regime regular de IBS/CBS; prazo não foi prorrogado",
+    "alcance": "geral",
+    "tema": "simples",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-10-29",
+    "oQueMudou": "A Receita Federal informou em 29/10 que 1.000.142 contribuintes já tinham feito a opção pelo regime regular do IBS e da CBS. O prazo de 30/10 não seria prorrogado. Quem optou pode cancelar a escolha até 20/12/2026, com a janela de cancelamento aberta a partir de 03/11.",
+    "impacto": "Quase 1 milhão de empresas do Simples já deixaram o recolhimento de IBS/CBS no DAS para 2027, e essas empresas passam a dar crédito integral aos clientes do regime regular. Para clínicas do Simples, a decisão tomada em 30/10 pode ser revista até 20/12.",
+    "acao": "Conferir o que cada cliente do Simples decidiu e guardar o registro da decisão. Usar a janela de 03/11 a 20/12 para corrigir opções feitas sem simulação.",
+    "prazo": "2026-12-20",
+    "fontes": [
+     {
+      "nome": "Receita Federal – Mais de 1 milhão de contribuintes já optaram pelo regime regular do IBS e da CBS",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs"
+     }
+    ]
+   },
+   {
+    "titulo": "NFS-e Nacional: leiaute da NT 009 ainda em produção restrita; falta do grupo IBS/CBS não gera rejeição",
+    "alcance": "geral",
+    "tema": "nfse",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-10-29",
+    "oQueMudou": "O Portal da NFS-e informou (29/10) que o leiaute da Nota Técnica 009 (v1.0 e superiores) está sendo implantado aos poucos e hoje funciona em produção restrita, voltada a testes, no emissor web e na API; a v1.01 também chega primeiro à produção restrita. O grupo de campos de IBS/CBS foi configurado de forma aberta no ambiente nacional (ADN): a ausência do grupo, mesmo para quem é obrigado, não gera rejeição técnica por esse motivo. A partir de 01/01/2027, o valor 'Desconhecido' deixa de ser aceito nas NFS-e compartilhadas com o ADN.",
+    "impacto": "A nota de clínicas e médicos do regime regular não será barrada por faltar IBS/CBS, mas isso não dispensa a obrigação em vigor desde 01/10/2026. Nota sem os campos, ou com NBS e classificação erradas, pode perder a redução de 60% da saúde e gerar divergência com operadoras e hospitais.",
+    "acao": "Confirmar com cada cliente do regime regular se o emissor já preenche o grupo de IBS/CBS, sem esperar rejeição do sistema. Acompanhar o Portal da NFS-e para saber quando o novo leiaute entra em produção.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Portal da NFS-e – orientações sobre leiaute em produção, preenchimento de IBS/CBS e status da NT 009",
+      "url": "https://www.gov.br/nfse/pt-br/noticias/nfs-e-nacional-confira-oas-rientacoes-sobre-leiaute-em-producao-regras-de-preenchimento-de-ibs-cbs-e-status-da-nota-tecnica-009"
+     }
+    ]
+   },
+   {
+    "titulo": "Imposto Seletivo: governo diz que enviará MP com as alíquotas; ainda sem publicação",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-10-27",
+    "oQueMudou": "Segundo a Agência Brasil, o ministro da Fazenda, Dario Durigan, disse em 27/10 que o governo deve enviar ao Congresso, 'provavelmente esta semana', a medida provisória com as alíquotas do Imposto Seletivo, que passa a valer em 2027. Segundo a imprensa, a arrecadação prevista é de R$ 41,9 bilhões em 2027; o Contábeis noticiou que a cobrança pode começar só no fim de janeiro ou em fevereiro, por causa do prazo de 90 dias. Até esta pesquisa, não encontramos a MP publicada no Diário Oficial.",
+    "impacto": "O Imposto Seletivo incide sobre produtos como cigarros, bebidas alcoólicas e açucaradas, veículos e apostas. Não atinge diretamente a prestação de serviços médicos, mas muda preços de fornecedores e a conta de quem compra desses setores. Ainda sem ato oficial.",
+    "acao": "Acompanhar a publicação da MP e avisar apenas clientes que atuam nos setores atingidos. Para os clientes médicos, sem ação imediata.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Agência Brasil – Governo enviará MP do Imposto Seletivo e renova subvenção ao diesel",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-enviara-mp-do-imposto-seletivo-e-renova-subvencao-ao-diesel"
+     },
+     {
+      "nome": "Agência Brasil – Durigan prevê envio de MP do Imposto Seletivo após eleições",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/durigan-preve-envio-de-mp-do-imposto-seletivo-apos-eleicoes"
+     },
+     {
+      "nome": "Contábeis – Imposto Seletivo: MP deve ser enviada após eleições",
+      "url": "https://www.contabeis.com.br/noticias/80067/imposto-seletivo-mp-deve-ser-enviada-apos-eleicoes/"
+     }
+    ]
+   },
+   {
+    "titulo": "Nanoempreendedores e MEIs: novas regras dispensam CNPJ e nota fiscal para os nanoempreendedores",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-10-23",
+    "oQueMudou": "A Receita e a Fazenda divulgaram em 23/10 medidas que simplificam as obrigações da reforma para nanoempreendedores e MEIs. Segundo a imprensa contábil, são o Decreto 13.140/2026 e a Resolução CGSN 195/2026: o nanoempreendedor fica dispensado de CNPJ e de nota fiscal eletrônica ligada aos novos tributos, e o MEI pode usar a declaração anual (DASN-Simei) como documento fiscal eletrônico em operações previstas. Os detalhes (datas e condições) devem ser conferidos no texto das normas.",
+    "impacto": "O nanoempreendedor (pessoa física com receita abaixo de 50% do limite do MEI) não é contribuinte de IBS/CBS. Para médicos PF que atendem pouco como autônomos, isso reduz as exigências de 2027; quem passar do limite segue como contribuinte.",
+    "acao": "Identificar os clientes médicos PF com receita de autônomo baixa e checar se se enquadram como nanoempreendedores antes de preparar CNPJ e emissão de notas para janeiro de 2027. Conferir as normas citadas.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Receita Federal – Novas medidas simplificam obrigações da Reforma Tributária para nanoempreendedores e MEIs",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/novas-medidas-simplificam-obrigacoes-da-reforma-tributaria-para-nanoempreendedores-e-meis"
+     },
+     {
+      "nome": "CRC-MG – Novas medidas simplificam obrigações para nanoempreendedores e MEIs",
+      "url": "https://crcmg.org.br/noticias/novas-medidas-simplificam-obrigacoes-da-reforma-tributaria-para-nanoempreendedores-e-meis/"
+     }
+    ]
+   },
+   {
+    "titulo": "Documentação técnica de NF-e, CT-e e outros documentos fiscais para IBS/CBS é aprovada em novo ato",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-10-29",
+    "oQueMudou": "Receita e Comitê Gestor do IBS aprovaram em ato publicado em 29/10 a documentação técnica de NF-e, CT-e e outros documentos fiscais eletrônicos para IBS e CBS, incluindo a Nota Técnica 2026.006 v1.01 (vinculação com a transação de pagamento, para NF-e e NFC-e) e a tabela cClassTrib v1.71, segundo o Atlas Público. O ato não muda os prazos nem cria obrigações novas.",
+    "impacto": "Interessa a clínicas e hospitais que emitem NF-e (venda de produtos, medicamentos) e aos sistemas de gestão. Quem só emite NFS-e de serviços não é afetado diretamente.",
+    "acao": "Pedir aos fornecedores de sistemas dos clientes que usam NF-e a atualização para as versões novas.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Atlas Público – Receita e Comitê Gestor do IBS aprovam documentação técnica de NF-e, CT-e e outros",
+      "url": "https://atlaspublico.com.br/noticias/receita-e-comite-gestor-do-ibs-aprovam-documentacao-tecnica-96319"
+     },
+     {
+      "nome": "CBIC – Receita Federal e CGIBS oficializam documentação técnica para IBS e CBS",
+      "url": "https://cbic.org.br/receita-federal-e-cgibs-oficializam-documentacao-tecnica-para-implementacao-do-ibs-e-da-cbs/"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita e CGIBS criam 25 grupos de trabalho; União empresta R$ 950 milhões ao Comitê Gestor",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-10-27",
+    "oQueMudou": "O Ato Técnico Conjunto RFB/CGIBS nº 9 (20/10, publicado em 26/10) criou duas coordenações e 25 grupos de trabalho conjuntos, com efeito até 31/03/2027; ele trata da cooperação entre os órgãos e não cria obrigações para empresas. Também em 27/10 a União e o CGIBS assinaram o contrato de crédito de R$ 950 milhões para implantar o Comitê, a ser devolvido em 20 parcelas semestrais a partir de 2029, segundo a Agência Brasil.",
+    "impacto": "Sem efeito direto para clientes. Mostra que a regulamentação de documentos fiscais, cadastro e fiscalização segue sendo produzida em ritmo intenso até 2027.",
+    "acao": "Sem ação. Acompanhar as normas que saírem desses grupos.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Contábeis – Receita e CGIBS criam 25 grupos para implementar reforma tributária",
+      "url": "https://www.contabeis.com.br/noticias/80378/receita-e-cgibs-criam-25-grupos-para-implementar-reforma-tributaria/"
+     },
+     {
+      "nome": "Contábeis – União empresta R$ 950 milhões para implantação do CGIBS",
+      "url": "https://www.contabeis.com.br/noticias/80453/uniao-empresta-r-950-milhoes-para-implantacao-do-cgibs/"
+     },
+     {
+      "nome": "Fenacon – Comitê Gestor do IBS e União assinam contrato de operação de crédito",
+      "url": "https://fenacon.org.br/reforma-tributaria/comite-gestor-do-ibs-e-uniao-assinam-contrato-de-operacao-de-credito-para-financiar-a-implantacao-do-orgao/"
      }
     ]
    }
@@ -84,6 +231,10 @@
    {
     "data": "2026-11-15",
     "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde."
+   },
+   {
+    "data": "2026-11-16",
+    "evento": "Fim do prazo de contribuições à consulta do STF (Edital 05/2026) sobre julgamento conjunto de ações de IBS e CBS."
    },
    {
     "data": "2026-12-01",
