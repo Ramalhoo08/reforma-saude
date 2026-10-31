@@ -13,11 +13,11 @@ O app é um site estático (GitHub Pages) que lê `data/boletins.json` e `data/d
 - Leia `data/boletins.json` (lista; o primeiro é o mais recente). Anote a maior `edicao`, a `data` do último boletim e os títulos publicados nos últimos 15 boletins (para não repetir).
 - Leia `data/dossie.json` e anote os temas com status "em discussão".
 - **Período da pesquisa:** do dia do último boletim (inclusive, porque notícias da tarde daquele dia podem ter ficado de fora) até agora.
-- Se já existe boletim com a data de hoje, esta é uma execução extra do dia: veja a seção 3.
+- A rotina roda às 7h e às 17h nos dias úteis. Se já existe boletim com a data de hoje (normalmente na rodada das 17h), esta é uma execução extra do dia: veja a seção 3.
 
 ## 2. Pesquisa: siga todos os passos
 
-A nuvem onde esta rotina roda **não abre sites** (WebFetch falha por bloqueio de rede). Por isso um robô do GitHub baixa todo dia, às 6h15, as manchetes do Google Notícias e das páginas de notícias oficiais para a branch `radar` deste repositório. Os passos A e B leem esse radar; a WebSearch (que funciona) serve para os passos C e D.
+A nuvem onde esta rotina roda **não abre sites** (WebFetch falha por bloqueio de rede). Por isso um robô do GitHub baixa todo dia às 6h15 (e, nos dias úteis, também às 16h15) as manchetes do Google Notícias e das páginas de notícias oficiais para a branch `radar` deste repositório. Os passos A e B leem esse radar; a WebSearch (que funciona) serve para os passos C e D.
 
 Baixe o radar sem mexer na main:
 
@@ -26,7 +26,9 @@ git fetch -q origin radar && rm -rf /tmp/radar && mkdir -p /tmp/radar && git arc
 cat /tmp/radar/status.json
 ```
 
-`status.json` diz quando o radar foi gerado e quais fontes falharam. Se a branch não existir ou `gerado_em` tiver mais de 26 horas, registre isso no commit e faça os passos A e B por WebSearch (`mode: "extended"`), uma busca para cada radar e cada página listados abaixo, com `allowed_domains` quando for um órgão.
+`status.json` diz quando o radar foi gerado e quais fontes falharam.
+- Se a branch não existir ou `gerado_em` tiver mais de 26 horas, registre isso no commit e faça os passos A e B por WebSearch (`mode: "extended"`), uma busca para cada radar e cada página listados abaixo, com `allowed_domains` quando for um órgão.
+- Se `gerado_em` tiver mais de 6 horas (ex.: o robô da tarde atrasou), use o radar e complete com WebSearch (`mode: "extended"`) pelas notícias das últimas horas: "reforma tributária", "IBS CBS alíquota" e "reforma tributária saúde médicos".
 
 ### Passo A: manchetes do Google Notícias
 `/tmp/radar/noticias.json` traz as manchetes dos últimos 7 dias, com `quando` (horário de São Paulo), `veiculo`, `titulo`, `site` e `radares` (reforma, ibs_cbs, saude, simples_nfse, renda). Liste **todas** as do período e leia todos os títulos:
