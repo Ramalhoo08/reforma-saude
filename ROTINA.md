@@ -12,31 +12,39 @@ O app é um site estático (GitHub Pages) que lê `data/boletins.json` e `data/d
 - Data e hora em São Paulo: `TZ=America/Sao_Paulo date "+%F %H:%M %A"`.
 - Leia `data/boletins.json` (lista; o primeiro é o mais recente). Anote a maior `edicao`, a `data` do último boletim e os títulos publicados nos últimos 15 boletins (para não repetir).
 - Leia `data/dossie.json` e anote os temas com status "em discussão".
-- **Período da pesquisa:** do dia do último boletim (inclusive, porque notícias da tarde daquele dia podem ter ficado de fora) até agora. **D** = número de dias desde o último boletim + 1 (mínimo 2, máximo 7).
+- **Período da pesquisa:** do dia do último boletim (inclusive, porque notícias da tarde daquele dia podem ter ficado de fora) até agora.
 - Se já existe boletim com a data de hoje, esta é uma execução extra do dia: veja a seção 3.
 
 ## 2. Pesquisa: siga todos os passos
 
-### Passo A: radar de notícias (Google Notícias)
-Faça WebFetch de cada endereço abaixo, trocando o `3` de `when%3A3d` por D, com o prompt: "Liste TODAS as notícias: data, hora, veículo e título, das mais recentes para as mais antigas". Se o resultado avisar que parou no meio e as notícias ainda estiverem dentro do período, leia de novo com `offset`. Anote todo título que possa ser relevante.
+A nuvem onde esta rotina roda **não abre sites** (WebFetch falha por bloqueio de rede). Por isso um robô do GitHub baixa todo dia, às 6h15, as manchetes do Google Notícias e das páginas de notícias oficiais para a branch `radar` deste repositório. Os passos A e B leem esse radar; a WebSearch (que funciona) serve para os passos C e D.
 
-1. Reforma em geral: https://news.google.com/rss/search?q=%22reforma%20tribut%C3%A1ria%22%20when%3A3d&hl=pt-BR&gl=BR&ceid=BR%3Apt-419
-2. IBS, CBS, Imposto Seletivo, alíquotas e Comitê Gestor: https://news.google.com/rss/search?q=(IBS%20OR%20CBS%20OR%20%22Imposto%20Seletivo%22%20OR%20%22al%C3%ADquota%20de%20refer%C3%AAncia%22%20OR%20%22Comit%C3%AA%20Gestor%22)%20when%3A3d&hl=pt-BR&gl=BR&ceid=BR%3Apt-419
-3. Saúde: https://news.google.com/rss/search?q=reforma%20tribut%C3%A1ria%20(sa%C3%BAde%20OR%20m%C3%A9dicos%20OR%20cl%C3%ADnicas%20OR%20hospitais%20OR%20%22planos%20de%20sa%C3%BAde%22%20OR%20cooperativas%20OR%20laborat%C3%B3rios)%20when%3A3d&hl=pt-BR&gl=BR&ceid=BR%3Apt-419
-4. Simples, NFS-e, split payment, DeRE: https://news.google.com/rss/search?q=(%22Simples%20Nacional%22%20OR%20%22NFS-e%22%20OR%20%22split%20payment%22%20OR%20DeRE)%20(IBS%20OR%20CBS%20OR%20reforma)%20when%3A3d&hl=pt-BR&gl=BR&ceid=BR%3Apt-419
-5. Reforma da renda (dividendos, IR mínimo): https://news.google.com/rss/search?q=(%22tributa%C3%A7%C3%A3o%20de%20dividendos%22%20OR%20%22IR%20m%C3%ADnimo%22%20OR%20%22imposto%20m%C3%ADnimo%22%20OR%20%22Lei%2015.270%22%20OR%20%22reforma%20da%20renda%22%20OR%20%22isen%C3%A7%C3%A3o%20do%20IR%22)%20when%3A3d&hl=pt-BR&gl=BR&ceid=BR%3Apt-419
+Baixe o radar sem mexer na main:
 
-### Passo B: páginas de notícias oficiais e especializadas
-WebFetch de cada página, com o prompt "Liste as notícias com data e título, das mais recentes para as mais antigas". Anote as que estão dentro do período.
+```bash
+git fetch -q origin radar && rm -rf /tmp/radar && mkdir -p /tmp/radar && git archive origin/radar | tar -x -C /tmp/radar
+cat /tmp/radar/status.json
+```
 
-1. Receita Federal, notícias do mês: `https://www.gov.br/receitafederal/pt-br/assuntos/noticias/AAAA/MES`, com MES por extenso, minúsculo e sem acento (janeiro, fevereiro, marco, abril, maio, junho, julho, agosto, setembro, outubro, novembro, dezembro). Nos 3 primeiros dias do mês, leia também o mês anterior.
-2. Ministério da Fazenda: https://www.gov.br/fazenda/pt-br/assuntos/noticias
-3. TCU: https://portal.tcu.gov.br/imprensa/noticias
-4. Agência Senado: https://www12.senado.leg.br/noticias/ultimas
-5. Comitê Gestor do IBS: https://www.cgibs.gov.br/ (a página não mostra datas: compare os títulos com o que já foi publicado)
-6. Fenacon, reforma tributária (agregador contábil, com datas): https://fenacon.org.br/reforma-tributaria/
+`status.json` diz quando o radar foi gerado e quais fontes falharam. Se a branch não existir ou `gerado_em` tiver mais de 26 horas, registre isso no commit e faça os passos A e B por WebSearch (`mode: "extended"`), uma busca para cada radar e cada página listados abaixo, com `allowed_domains` quando for um órgão.
 
-Se uma página falhar, registre a falha e siga; não pare a rotina.
+### Passo A: manchetes do Google Notícias
+`/tmp/radar/noticias.json` traz as manchetes dos últimos 7 dias, com `quando` (horário de São Paulo), `veiculo`, `titulo`, `site` e `radares` (reforma, ibs_cbs, saude, simples_nfse, renda). Liste **todas** as do período e leia todos os títulos:
+
+```bash
+python3 - <<'E'
+import json
+inicio = "AAAA-MM-DD"  # dia do último boletim
+for n in json.load(open('/tmp/radar/noticias.json')):
+    if n['quando'] >= inicio:
+        print(n['quando'], '|', n['veiculo'], '|', n['titulo'], '|', ','.join(n['radares']))
+E
+```
+
+Anote todo título que possa ser relevante. Vários títulos sobre o mesmo fato contam como um só candidato.
+
+### Passo B: páginas de notícias oficiais
+Leia todos os arquivos de `/tmp/radar/paginas/`: manchetes com data e link da Receita Federal (mês corrente), Ministério da Fazenda, Agência Senado, Comitê Gestor do IBS (sem datas: compare os títulos com o que já foi publicado) e Fenacon. Anote as que estão dentro do período. Esses links são oficiais e podem ser usados como fonte.
 
 ### Passo C: pendências (obrigatório)
 Monte a lista de pendências:
@@ -47,18 +55,19 @@ Monte a lista de pendências:
 Para cada pendência, faça uma WebSearch com `mode: "extended"` buscando o desfecho ou a novidade (ex.: "Senado relator resolução alíquota de referência CBS 2027"). Prazo que venceu e teve desfecho (aprovado, adiado, prorrogado, publicado, votado) é notícia.
 
 ### Passo D: confirmar e aprofundar
-Para cada candidato relevante dos passos A a C:
-- Abra (WebFetch) a fonte oficial. Se não houver, abra a matéria original de veículo reconhecido (Agência Brasil, Agência Senado, Agência Câmara, G1, Valor, Folha, Estadão, O Globo, CNN Brasil, InfoMoney, JOTA, Conjur, Fenacon, Contábeis, Jornal Contábil).
-- O link do Google Notícias (news.google.com) **nunca** é fonte: encontre a URL original com uma WebSearch pelo título.
-- Leia o texto para tirar números, datas e prazos corretos. Todo número citado tem de estar na fonte indicada.
+Para cada candidato relevante dos passos A a C, faça uma WebSearch (`mode: "extended"`) pelo título ou pelo fato, com `allowed_domains` do órgão oficial ou do veículo (o domínio está no campo `site` do radar). A resposta traz o link original e um resumo com os números. Prefira a fonte oficial; na falta dela, a matéria original de veículo reconhecido (Agência Brasil, Agência Senado, Agência Câmara, G1, Valor, Folha, Estadão, O Globo, CNN Brasil, InfoMoney, JOTA, Conjur, Fenacon, Contábeis, Jornal Contábil).
+- O link do Google Notícias (news.google.com) **nunca** é fonte: use a URL original que a WebSearch devolver.
+- Pode tentar uma vez o WebFetch da fonte; se falhar por bloqueio, não insista.
+- Todo número, data e prazo citado tem de estar na fonte indicada.
 
 ### O que entra no boletim
 - Fato com ato ou comunicado oficial: status "em vigor" ou "regulamentado".
 - Fato noticiado por veículo reconhecido, ainda sem ato oficial (projeto, proposta, estimativa, decisão anunciada, relator designado, prazo em discussão): **entra**, com status "em discussão"; o texto diz "segundo [veículo]" e "ainda sem ato oficial".
 - Cálculos, estimativas e projeções de alíquota (TCU, CGIBS, Fazenda, Senado, estudos citados pela imprensa): entram, com o número e quem calculou.
 - Posição de entidades da saúde (CFM, AMB, APM, ANS, FBH, CNSaúde, Abramge, Unimed, CMB) sobre a reforma: entra com alcance "saúde" e status "em discussão".
+- `alcance` "saúde" é só para fato específico do setor (redução de 60% da saúde, hospitais, clínicas, cooperativas médicas, operadoras, entidades médicas). Fato que vale para todas as empresas (alíquota de referência, Simples, NFS-e, prazos gerais) é "geral", mesmo que o `impacto` explique o efeito para os médicos.
 - Não entra: artigo de opinião ou de escritório sem fato novo, propaganda de curso ou software, notícia regional sem efeito geral, repetição de item já publicado. Se houver fato novo sobre assunto já publicado, ele entra e o título diz qual é o fato novo.
-- A reforma está em implantação e dias sem nenhuma novidade são raros. Se ao fim dos passos A a C você tiver 0 itens, refaça o Passo A com D + 2 dias antes de concluir que não há novidade.
+- A reforma está em implantação e dias sem nenhuma novidade são raros. Se ao fim dos passos A a C você tiver 0 itens, refaça o Passo A com o início 2 dias antes e releia os títulos antes de concluir que não há novidade.
 - NÃO invente números de lei, datas ou links.
 
 ## 3. Boletim
@@ -89,4 +98,4 @@ Sempre que um item tratar de assunto que tem tema no dossiê (ex.: alíquota de 
 3. `git push origin HEAD:main`. Se o push for recusado porque a main mudou, faça `git pull --rebase origin main` e tente de novo. Não crie branch nem pull request.
 
 ## 6. Final
-Responda em até 4 linhas: edição publicada; itens (quantos de saúde e quantos gerais); quantas consultas fez em cada passo (A, B, C, D); se o dossiê mudou; e qualquer falha (página que não abriu, validação ou push).
+Responda em até 4 linhas: edição publicada; itens (quantos de saúde e quantos gerais); quantas manchetes do período leu no radar e quantas consultas fez nos passos C e D; se o dossiê mudou; e qualquer falha (radar velho ou ausente, validação ou push).
