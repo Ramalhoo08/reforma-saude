@@ -2,7 +2,7 @@
  {
   "data": "2026-10-31",
   "edicao": 12,
-  "resumo": "Edição de recuperação (19 a 31/10): para clientes médicos, o Senado definiu Eduardo Braga como relator da alíquota da CBS (TCU: 11,3%), com debate na CAE a partir de 11/11, e hoje é o último dia da opção das cooperativas pelo regime específico. No geral, mais de 1 milhão de empresas optaram pelo regime regular de IBS/CBS (cancelamento até 20/12), a NFS-e não rejeita nota sem o grupo IBS/CBS (leiaute novo ainda em testes), nanoempreendedores ganharam dispensa de CNPJ e nota, o governo promete a MP do Imposto Seletivo e o STF consulta sobre julgamento conjunto de IBS/CBS até 16/11.",
+  "resumo": "Edição de recuperação (19 a 31/10): para clientes médicos, hoje é o último dia da opção das cooperativas pelo regime específico (prorrogação até 30/11 ainda em discussão) e a APM alerta que a CBS de 11,3% pode elevar demais a carga da saúde. No geral, Eduardo Braga relata a alíquota da CBS no Senado (decisão até 15/12), a soma de CBS e IBS projetado chega a 30%, acima do teto de 26,5%, e mais de 1 milhão de empresas optaram pelo regime regular de IBS/CBS.",
   "itens": [
    {
     "titulo": "Cooperativas: hoje (31/10) é o último dia para optar pelo regime específico de IBS/CBS em 2027",
@@ -22,6 +22,23 @@
      {
       "nome": "Receita Federal – Receita e CGIBS discutem ampliar até 30/11 o prazo das cooperativas (29/10/2026)",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-cgibs-discutem-ampliacao-do-prazo-de-opcao-pelo-regime-especifico-da-cbs-e-do-ibs-para-as-cooperativas-ate-30-de-novembro"
+     }
+    ]
+   },
+   {
+    "titulo": "APM alerta que a CBS de 11,3% pode elevar demais a carga da saúde e pede revisão ao Senado",
+    "alcance": "saúde",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-10-30",
+    "oQueMudou": "A Associação Paulista de Medicina (APM) publicou alerta de que a CBS de 11,3% aprovada pelo TCU em 28/10, acima das projeções iniciais, pode levar a um aumento excessivo da carga tributária no setor de saúde, mesmo com as condições especiais previstas pela reforma para a área. A entidade pede que o Senado faça uma revisão detalhada dos parâmetros antes de fixar a alíquota. É posição de entidade, sem efeito normativo.",
+    "impacto": "Mostra a pressão do setor médico sobre o Senado. Até a resolução do Senado (prazo 15/12), a referência para as simulações de clínicas e médicos continua sendo a CBS de 11,3%, sobre a qual incide a redução de 60% dos serviços de saúde.",
+    "acao": "Avisar os clientes médicos de que o número ainda pode mudar e acompanhar a tramitação no Senado (relator Eduardo Braga, debate na CAE a partir de 11/11).",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "APM – APM alerta para risco de aumento excessivo na carga tributária (30/10/2026)",
+      "url": "https://www.apm.org.br/apm-alerta-para-risco-de-aumento-excessivo-na-carga-tributaria/"
      }
     ]
    },
@@ -64,6 +81,31 @@
      {
       "nome": "Agência Senado – TCU calcula alíquota da CBS em 11,3% para 2027",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/10/28/reforma-tributaria-tcu-calcula-aliquota-da-cbs-em-11-3-para-2027"
+     }
+    ]
+   },
+   {
+    "titulo": "Soma da CBS (11,3%) com o IBS projetado (18,7%) chega a 30% e passa do teto de 26,5% da reforma",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-10-31",
+    "oQueMudou": "Reportagens de 31/10 somam a CBS de 11,3% calculada pelo TCU aos 18,7% projetados para o IBS e chegam a um IVA de 30%, que estaria entre os mais altos do mundo. Os 18,7% vêm da Resolução CGIBS nº 14/2026, de julho, e são um parâmetro para estimar a arrecadação, não a alíquota definitiva. A LC 214/2025 fixa um teto de 26,5% para a soma das alíquotas de referência: se as estimativas passarem dele, o governo federal, após ouvir o Comitê Gestor, deve enviar ao Congresso um projeto de lei complementar com medidas para reduzir o percentual.",
+    "impacto": "Para as empresas, aumenta a incerteza sobre a carga a partir de 2027 e sobre as medidas que o governo terá de propor para respeitar o teto. Hospitais, clínicas e outros serviços de saúde estão entre os setores que acompanham o tema, porque a redução de 60% da saúde incide sobre essas alíquotas de referência.",
+    "acao": "Não usar 30% como alíquota nas simulações: para 2027 vale a CBS de referência (11,3%, até decisão do Senado), com o IBS de teste de 0,1%. Acompanhar o envio do projeto de lei complementar previsto para quando o teto é ultrapassado.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Diário 360 – Reforma tributária coloca hospitais, escolas e academias diante de novas incertezas (31/10/2026)",
+      "url": "https://diario360.com.br/2026/10/31/reforma-tributaria-coloca-hospitais-escolas-e-academias-diante-de-novas-incertezas-sobre-a-carga-de-impostos/"
+     },
+     {
+      "nome": "Fenacon – Comitê Gestor estima alíquota do IVA em 27,91% (Resolução CGIBS nº 14/2026)",
+      "url": "https://fenacon.org.br/reforma-tributaria/comite-gestor-estima-aliquota-do-iva-em-2791-acima-do-teto-previsto-na-reforma-tributaria/"
+     },
+     {
+      "nome": "Agência Brasil – TCU aprova cálculo da alíquota de referência da CBS em 11,3%",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tcu-aprova-calculo-da-aliquota-de-referencia-da-cbs-em-113"
      }
     ]
    },

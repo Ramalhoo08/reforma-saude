@@ -41,7 +41,9 @@ for n in json.load(open('/tmp/radar/noticias.json')):
 E
 ```
 
-Anote todo título que possa ser relevante. Vários títulos sobre o mesmo fato contam como um só candidato.
+Anote todo título que possa ser relevante. Vários títulos sobre o mesmo fato contam como um só candidato. São candidatos obrigatórios, a decidir um a um:
+- toda manchete do radar `saude` no período;
+- todo assunto que aparece em 3 ou mais veículos no período (ex.: "IVA pode passar de 30%").
 
 ### Passo B: páginas de notícias oficiais
 Leia todos os arquivos de `/tmp/radar/paginas/`: manchetes com data e link da Receita Federal (mês corrente), Ministério da Fazenda, Agência Senado, Comitê Gestor do IBS (sem datas: compare os títulos com o que já foi publicado) e Fenacon. Anote as que estão dentro do período. Esses links são oficiais e podem ser usados como fonte.
@@ -57,6 +59,8 @@ Para cada pendência, faça uma WebSearch com `mode: "extended"` buscando o desf
 ### Passo D: confirmar e aprofundar
 Para cada candidato relevante dos passos A a C, faça uma WebSearch (`mode: "extended"`) pelo título ou pelo fato, com `allowed_domains` do órgão oficial ou do veículo (o domínio está no campo `site` do radar). A resposta traz o link original e um resumo com os números. Prefira a fonte oficial; na falta dela, a matéria original de veículo reconhecido (Agência Brasil, Agência Senado, Agência Câmara, G1, Valor, Folha, Estadão, O Globo, CNN Brasil, InfoMoney, JOTA, Conjur, Fenacon, Contábeis, Jornal Contábil).
 - O link do Google Notícias (news.google.com) **nunca** é fonte: use a URL original que a WebSearch devolver.
+- Se a WebSearch não achar a matéria, busque o título exato entre aspas; depois, a página inicial do veículo (campo `site`) com `allowed_domains`, que costuma listar a manchete com o link. Só desista do candidato depois dessas três tentativas.
+- Projeção que soma números oficiais (ex.: CBS do TCU + IBS projetado pelo Comitê Gestor) entra como "em discussão", dizendo de onde vem cada número.
 - Pode tentar uma vez o WebFetch da fonte; se falhar por bloqueio, não insista.
 - Todo número, data e prazo citado tem de estar na fonte indicada.
 
