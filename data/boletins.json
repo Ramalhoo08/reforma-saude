@@ -2,7 +2,7 @@
  {
   "data": "2026-11-02",
   "edicao": 13,
-  "resumo": "Segunda-feira sem ato oficial novo. Para o geral, a Folha calcula que a CBS de 11,3% eleva a carga federal sobre o consumo (10,3% manteria a arrecadação), o que alimenta o debate no Senado, onde Eduardo Braga relata a alíquota a partir de 11/11. A prorrogação para cooperativas até 30/11 segue em discussão, sem ato publicado, e a MP do Imposto Seletivo ainda não saiu.",
+  "resumo": "Segunda-feira sem ato oficial novo. Para o geral, a Folha calcula que a CBS de 11,3% eleva a carga federal sobre o consumo (10,3% manteria a arrecadação), o que alimenta o debate no Senado, onde Eduardo Braga relata a alíquota a partir de 11/11. A prorrogação para cooperativas até 30/11 segue em discussão, sem ato publicado, e a MP do Imposto Seletivo ainda não saiu. Nova rodada: a Frente Parlamentar do Empreendedorismo e a oposição anunciam pressão no Senado contra a CBS de 11,3%, sem ato oficial.",
   "itens": [
    {
     "titulo": "Fato novo: cálculo da Folha diz que CBS de 11,3% eleva a carga federal sobre o consumo; sem a regra do STF de 2021 bastaria 10,3%",
@@ -22,6 +22,27 @@
      {
       "nome": "Contábeis – Reforma Tributária: TCU propõe CBS de 11,3% para 2027",
       "url": "https://www.contabeis.com.br/noticias/80448/reforma-tributaria-tcu-propoe-cbs-de-11-3-para-2027/"
+     }
+    ]
+   },
+   {
+    "titulo": "Frente Parlamentar do Empreendedorismo e oposição querem derrubar ou reduzir a CBS de 11,3% no Senado",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-02",
+    "oQueMudou": "Segundo a imprensa (Contábeis, O Antagonista), a Frente Parlamentar do Empreendedorismo, presidida pelo deputado Joaquim Passarinho (PL-PA), vai pedir ao Senado que rejeite a alíquota de 11,3% calculada pelo TCU, comparando-a com os cerca de 9% que o setor produtivo esperava. A deputada Bia Kicis (PL-DF) disse que a oposição vai atuar para reduzir o percentual, mas ainda sem proposta ou calendário. Ainda sem ato oficial: o Senado tem até 15/12 para fixar a alíquota por resolução e, se não o fizer, vale o número do TCU.",
+    "impacto": "Aumenta a incerteza sobre a CBS de 2027. Para os clientes médicos, a redução de 60% vale sobre a alíquota de referência, então qualquer mudança no percentual altera a carga da saúde na mesma proporção.",
+    "acao": "Não mudar projeções definitivas de preço e margem ainda; trabalhar com cenários (9% e 11,3%) até o Senado decidir.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Contábeis: Frente parlamentar defende rejeitar CBS de 11,3% no Senado",
+      "url": "https://www.contabeis.com.br/noticias/80447/frente-parlamentar-defende-rejeitar-cbs-de-11-3-no-senado/"
+     },
+     {
+      "nome": "O Antagonista: Oposição quer rever alíquotas da reforma tributária",
+      "url": "https://oantagonista.com.br/economia/oposicao-quer-rever-aliquotas-da-reforma-tributaria/"
      }
     ]
    }

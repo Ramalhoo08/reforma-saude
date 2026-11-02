@@ -361,7 +361,8 @@
    "O TCU fixou também redutor de cerca de 44,2% para compras da administração pública direta, autarquias e fundações.",
    "É alíquota de referência: não é necessariamente o percentual efetivamente cobrado em cada operação.",
    "Segundo o InfoMoney (31/10/2026), Eduardo Braga (MDB-AM) será relator da resolução na CAE do Senado; o debate deve começar em 11/11, com convite a Dario Durigan e Vital do Rêgo. Ainda sem ato oficial do Senado.",
-   "Segundo cálculo da Folha (via Diário do Comércio e Contábeis, 01/11/2026), a alíquota de 11,3% eleva a carga federal sobre o consumo: a diferença seria de R$ 45 a quase R$ 50 bilhões, por mudança no período de referência que tira o efeito da decisão do STF de 2021; para manter a arrecadação dos dez anos até 2024 bastariam 10,3%. Ainda sem ato oficial."
+   "Segundo cálculo da Folha (via Diário do Comércio e Contábeis, 01/11/2026), a alíquota de 11,3% eleva a carga federal sobre o consumo: a diferença seria de R$ 45 a quase R$ 50 bilhões, por mudança no período de referência que tira o efeito da decisão do STF de 2021; para manter a arrecadação dos dez anos até 2024 bastariam 10,3%. Ainda sem ato oficial.",
+   "Em 02/11, segundo a imprensa, a Frente Parlamentar do Empreendedorismo pediu ao Senado que rejeite os 11,3% (setor esperava cerca de 9%) e a oposição disse que atuará para reduzir o percentual; ainda sem proposta formal."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -394,6 +395,14 @@
    {
     "nome": "Diário do Comércio – Alíquota da CBS a 11,3% aumenta carga tributária sobre consumo em 2027",
     "url": "https://diariodocomercio.com.br/legislacao/aliquota-cbs-113-carga-tributaria-consumo/"
+   },
+   {
+    "nome": "Contábeis: Frente parlamentar defende rejeitar CBS de 11,3% no Senado",
+    "url": "https://www.contabeis.com.br/noticias/80447/frente-parlamentar-defende-rejeitar-cbs-de-11-3-no-senado/"
+   },
+   {
+    "nome": "O Antagonista: Oposição quer rever alíquotas da reforma tributária",
+    "url": "https://oantagonista.com.br/economia/oposicao-quer-rever-aliquotas-da-reforma-tributaria/"
    }
   ],
   "atualizadoEm": "2026-11-02"
