@@ -1,5 +1,79 @@
 [
  {
+  "data": "2026-11-02",
+  "edicao": 13,
+  "resumo": "Segunda-feira sem ato oficial novo. Para o geral, a Folha calcula que a CBS de 11,3% eleva a carga federal sobre o consumo (10,3% manteria a arrecadação), o que alimenta o debate no Senado, onde Eduardo Braga relata a alíquota a partir de 11/11. A prorrogação para cooperativas até 30/11 segue em discussão, sem ato publicado, e a MP do Imposto Seletivo ainda não saiu.",
+  "itens": [
+   {
+    "titulo": "Fato novo: cálculo da Folha diz que CBS de 11,3% eleva a carga federal sobre o consumo; sem a regra do STF de 2021 bastaria 10,3%",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-01",
+    "oQueMudou": "Segundo cálculo da Folha reproduzido por veículos de contabilidade, a alíquota de 11,3% da CBS (calculada pelo TCU) aumentaria a carga federal sobre o consumo em 2027 frente à arrecadação dos últimos anos. A diferença, de R$ 45 bilhões a quase R$ 50 bilhões conforme a versão, viria de regra aprovada pelo Congresso que mudou o período de referência e tirou o efeito da decisão do STF de 2021 (exclusão do ICMS da base de PIS/Cofins). Para manter a arrecadação dos dez anos até 2024, a alíquota seria de 10,3%. Ainda sem ato oficial: o Senado tem até 15/12/2026 para fixar a alíquota.",
+    "impacto": "O número de 11,3% pode ser contestado no Senado, mas a referência para simulações de 2027 segue sendo a do TCU. Para clientes médicos do regime regular, a redução de 60% incide sobre a referência que valer.",
+    "acao": "Manter as simulações com 11,3% e acompanhar as audiências da CAE (a partir de 11/11) para ver se o Senado altera o número.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Diário do Comércio – Alíquota da CBS a 11,3% aumenta carga tributária sobre consumo em 2027",
+      "url": "https://diariodocomercio.com.br/legislacao/aliquota-cbs-113-carga-tributaria-consumo/"
+     },
+     {
+      "nome": "Contábeis – Reforma Tributária: TCU propõe CBS de 11,3% para 2027",
+      "url": "https://www.contabeis.com.br/noticias/80448/reforma-tributaria-tcu-propoe-cbs-de-11-3-para-2027/"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-11-03",
+    "evento": "Abre a janela de cancelamento das opções pelo Simples e pelo regime regular de IBS/CBS (até 20/12/2026)."
+   },
+   {
+    "data": "2026-11-11",
+    "evento": "Início previsto do debate da alíquota da CBS na CAE do Senado, segundo a imprensa (relator: Eduardo Braga)."
+   },
+   {
+    "data": "2026-11-15",
+    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde."
+   },
+   {
+    "data": "2026-11-16",
+    "evento": "Fim do prazo de contribuições à consulta do STF (Edital 05/2026) sobre julgamento conjunto de ações de IBS e CBS."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+   },
+   {
+    "data": "2026-12-01",
+    "evento": "NFS-e com IBS/CBS obrigatória para locações e cessões de imóveis e demais casos residuais (ex.: sublocação de salas)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   }
+  ]
+ },
+ {
   "data": "2026-10-31",
   "edicao": 12,
   "resumo": "Edição de recuperação (19 a 31/10): para clientes médicos, hoje é o último dia da opção das cooperativas pelo regime específico (prorrogação até 30/11 ainda em discussão) e a APM alerta que a CBS de 11,3% pode elevar demais a carga da saúde. No geral, Eduardo Braga relata a alíquota da CBS no Senado (decisão até 15/12), a soma de CBS e IBS projetado chega a 30%, acima do teto de 26,5%, e mais de 1 milhão de empresas optaram pelo regime regular de IBS/CBS.",
