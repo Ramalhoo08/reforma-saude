@@ -2,8 +2,58 @@
  {
   "data": "2026-11-03",
   "edicao": 14,
-  "resumo": "Sem fato novo específico para clínicas e médicos hoje; o debate da CBS de 11,3% segue para a CAE do Senado em 11/11. No geral, o governo deve publicar a MP do Imposto Seletivo, com cobrança só em fevereiro de 2027, segundo a imprensa, e abre hoje a janela para cancelar as opções do Simples e do regime regular.",
+  "resumo": "Sem fato novo específico para clínicas e médicos hoje. No geral, o relator da CBS no Senado, Eduardo Braga, discordou dos 11,3% do TCU e esperava entre 8% e 9% (TCU envia os estudos em 10/11; CAE debate a partir de 11/11), e entidades pediram em carta aberta adiar a reforma para 2028, o que a Fazenda descarta. A MP do Imposto Seletivo era esperada para hoje, mas a imprensa ainda não confirma a publicação.",
   "itens": [
+   {
+    "titulo": "Fato novo: relator Eduardo Braga discorda da CBS de 11,3% e esperava entre 8% e 9%; TCU entregará os estudos ao Senado em 10/11",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-03",
+    "oQueMudou": "Segundo InfoMoney, o senador Eduardo Braga (MDB-AM), relator da resolução da CBS na CAE, disse em 03/11 que não concorda com a alíquota de 11,3468% do TCU e que todos foram 'pegos de surpresa': o número não estava nas previsões da Receita nem do TCU. Ele esperava entre 8% e 9% (a Folha registra a menção a 'até 9%'). Segundo o relator, o TCU informou que enviará ao Senado os estudos que sustentam o cálculo no dia 10/11; as audiências da CAE começam em 11/11. Ainda sem ato oficial: se o Senado não aprovar a resolução até 15/12, vale o percentual do TCU.",
+    "impacto": "Aumenta a chance de o Senado fixar uma alíquota menor que 11,3%, mas não há proposta formal. Para os clientes médicos, a redução de 60% incide sobre a alíquota de referência: qualquer mudança altera a carga da saúde na mesma proporção.",
+    "acao": "Manter cenários nas simulações (9% e 11,3%) e acompanhar a CAE a partir de 11/11.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "InfoMoney – Relator da CBS, Eduardo Braga diz não estar de acordo com alíquota de 11,3%",
+      "url": "https://www.infomoney.com.br/economia/relator-da-cbs-eduardo-braga-diz-nao-estar-de-acordo-com-aliquota-de-113/"
+     },
+     {
+      "nome": "InfoMoney – Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3%",
+      "url": "https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/"
+     },
+     {
+      "nome": "Jornal de Brasília – Relator no Senado diz considerar alíquota da CBS elevada e fala em tributo de até 9%",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/relator-no-senado-diz-considerar-aliquota-da-cbs-elevada-e-fala-em-tributo-de-ate-9/"
+     }
+    ]
+   },
+   {
+    "titulo": "Entidades de comércio e serviços pedem em carta aberta adiar a cobrança de IBS e CBS de 2027 para 2028; Fazenda descarta",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-03",
+    "oQueMudou": "Segundo o Estadão e a FecomercioSP, um manifesto de entidades (a FecomercioSP cita 15, lideradas pela Unecs) pede que o início da cobrança de CBS, IBS e Imposto Seletivo passe de 2027 para 2028, por PEC, com testes em 2027 sem recolhimento efetivo. Alegam falta de definições e risco de decisões contraditórias entre Justiça federal e estadual. Segundo o Metrópoles, o Ministério da Fazenda mantém que o período de transição é suficiente. Ainda sem ato oficial: o calendário não mudou.",
+    "impacto": "Por ora nada muda: a CBS continua valendo a partir de 01/01/2027. O pedido não deve ser usado para adiar adequações dos clientes médicos.",
+    "acao": "Manter o cronograma de adequação (NFS-e, cadastro, simulações) para 01/01/2027.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "FecomercioSP – Adiamento para 2028 é fundamental para a segurança jurídica e a viabilidade operacional da Reforma Tributária",
+      "url": "https://fecomercio.com.br/tributario/adiamento-para-2028-e-fundamental-para-a-seguranca-juridica-e-a-viabilidade-operacional-da-reforma-tributaria/"
+     },
+     {
+      "nome": "Sem Pauta – Em carta aberta, entidades tributárias pedem adiamento das medidas para 2028",
+      "url": "https://sempauta.com.br/noticia/52280/reforma-nos-impostos-em-carta-aberta-entidades-tributarias-pedem-adiamento-das-medidas-para-2028.html"
+     },
+     {
+      "nome": "Metrópoles – Adiar a reforma tributária atrasa devolução de imposto aos mais pobres",
+      "url": "https://www.metropoles.com/colunas/matheus-leitao/adiar-a-reforma-tributaria-atrasa-devolucao-de-imposto-aos-mais-pobres"
+     }
+    ]
+   },
    {
     "titulo": "Imposto Seletivo: MP com as alíquotas deve sair nesta terça (3) e cobrança só começaria em fevereiro de 2027",
     "alcance": "geral",
@@ -34,6 +84,10 @@
    {
     "data": "2026-11-03",
     "evento": "Governo deve publicar a medida provisória com as alíquotas do Imposto Seletivo, segundo a imprensa (ainda sem confirmação no Diário Oficial)."
+   },
+   {
+    "data": "2026-11-10",
+    "evento": "TCU deve enviar ao Senado os estudos que sustentam a alíquota de 11,3% da CBS, segundo o relator Eduardo Braga (ainda sem ato oficial)."
    },
    {
     "data": "2026-11-11",
