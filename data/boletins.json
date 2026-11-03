@@ -1,5 +1,87 @@
 [
  {
+  "data": "2026-11-03",
+  "edicao": 14,
+  "resumo": "Sem fato novo específico para clínicas e médicos hoje; o debate da CBS de 11,3% segue para a CAE do Senado em 11/11. No geral, o governo deve publicar a MP do Imposto Seletivo, com cobrança só em fevereiro de 2027, segundo a imprensa, e abre hoje a janela para cancelar as opções do Simples e do regime regular.",
+  "itens": [
+   {
+    "titulo": "Imposto Seletivo: MP com as alíquotas deve sair nesta terça (3) e cobrança só começaria em fevereiro de 2027",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-03",
+    "oQueMudou": "Segundo O Globo (3/11), o governo deve publicar a medida provisória que fixa as alíquotas do Imposto Seletivo, e a cobrança só começaria em fevereiro de 2027, para respeitar o prazo de 90 dias. Para valer em janeiro, a MP teria de ter saído até 2 de outubro. A intenção noticiada é calibrar as alíquotas de 2027 para repetir o IPI atual; o aumento para desestimular o consumo viria a partir de 2028. Ainda sem ato oficial publicado até esta pesquisa.",
+    "impacto": "Para as empresas em geral, o Imposto Seletivo afeta bens como veículos, bebidas e outros produtos; o início em fevereiro mexe no calendário de IPI e de sistemas. Para clínicas e médicos, o efeito direto é pequeno, salvo compras de bens sujeitos ao imposto (ex.: veículos).",
+    "acao": "Acompanhar a publicação da MP no Diário Oficial e avisar clientes que comprem bens sujeitos ao Imposto Seletivo. Não tratar a data de fevereiro como definitiva até haver ato oficial.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Brasil em Folhas: Governo publica medida que define alíquotas do Imposto Seletivo",
+      "url": "https://brasilemfolhas.com.br/2026/11/governo-publica-medida-que-define-aliquotas-do-imposto-seletivo/"
+     },
+     {
+      "nome": "Contábeis: Governo prevê enviar regras do Imposto Seletivo nesta semana",
+      "url": "https://www.contabeis.com.br/noticias/80419/governo-preve-enviar-regras-do-imposto-seletivo-nesta-semana/"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-11-03",
+    "evento": "Abre a janela de cancelamento das opções pelo Simples e pelo regime regular de IBS/CBS (até 20/12/2026)."
+   },
+   {
+    "data": "2026-11-03",
+    "evento": "Governo deve publicar a medida provisória com as alíquotas do Imposto Seletivo, segundo a imprensa (ainda sem confirmação no Diário Oficial)."
+   },
+   {
+    "data": "2026-11-11",
+    "evento": "Início previsto do debate da alíquota da CBS na CAE do Senado, segundo a imprensa (relator: Eduardo Braga)."
+   },
+   {
+    "data": "2026-11-15",
+    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde."
+   },
+   {
+    "data": "2026-11-16",
+    "evento": "Fim do prazo de contribuições à consulta do STF (Edital 05/2026) sobre julgamento conjunto de ações de IBS e CBS."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+   },
+   {
+    "data": "2026-12-01",
+    "evento": "NFS-e com IBS/CBS obrigatória para locações e cessões de imóveis e demais casos residuais (ex.: sublocação de salas)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes."
+   },
+   {
+    "data": "2027-02-01",
+    "evento": "Início provável da cobrança do Imposto Seletivo, se a MP sair em novembro e for respeitado o prazo de 90 dias, segundo a imprensa (em discussão)."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   }
+  ]
+ },
+ {
   "data": "2026-11-02",
   "edicao": 13,
   "resumo": "Segunda-feira sem ato oficial novo. Para o geral, a Folha calcula que a CBS de 11,3% eleva a carga federal sobre o consumo (10,3% manteria a arrecadação), o que alimenta o debate no Senado, onde Eduardo Braga relata a alíquota a partir de 11/11. A prorrogação para cooperativas até 30/11 segue em discussão, sem ato publicado, e a MP do Imposto Seletivo ainda não saiu. Nova rodada: a Frente Parlamentar do Empreendedorismo e a oposição anunciam pressão no Senado contra a CBS de 11,3%, sem ato oficial.",
@@ -53,6 +135,10 @@
     "evento": "Abre a janela de cancelamento das opções pelo Simples e pelo regime regular de IBS/CBS (até 20/12/2026)."
    },
    {
+    "data": "2026-11-03",
+    "evento": "Governo deve publicar a medida provisória com as alíquotas do Imposto Seletivo, segundo a imprensa (ainda sem confirmação no Diário Oficial)."
+   },
+   {
     "data": "2026-11-11",
     "evento": "Início previsto do debate da alíquota da CBS na CAE do Senado, segundo a imprensa (relator: Eduardo Braga)."
    },
@@ -87,6 +173,10 @@
    {
     "data": "2027-01-01",
     "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes."
+   },
+   {
+    "data": "2027-02-01",
+    "evento": "Início provável da cobrança do Imposto Seletivo, se a MP sair em novembro e for respeitado o prazo de 90 dias, segundo a imprensa (em discussão)."
    },
    {
     "data": "2027-03-01",
