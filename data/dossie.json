@@ -263,7 +263,8 @@
    "Plano de saúde pago a empregados por exigência de convenção ou acordo coletivo gera crédito para a empresa do regime regular (LC 214, art. 238, parágrafo único).",
    "Split payment previsto na LC 214, arts. 31 a 35, com procedimento padrão e simplificado incluídos pela LC 227/2026.",
    "Comunicado da Receita de 30/09/2026: testes de integração dos prestadores de serviços de pagamento (PSP) com a Plataforma Pública a partir de 15/10/2026, em ambiente controlado e sem transações definitivas.",
-   "O Manual de Tempos v1.0.1 (CGIBS/RFB) trata da Fase 1 do split payment, \"B2B Opcional\". A data de obrigatoriedade geral não foi confirmada em ato oficial."
+   "O Manual de Tempos v1.0.1 (CGIBS/RFB) trata da Fase 1 do split payment, \"B2B Opcional\". A data de obrigatoriedade geral não foi confirmada em ato oficial.",
+   "Segundo o Conjur (04/11), o split payment não começa em janeiro de 2027; ApA-e e RAD (opcional) funcionam desde janeiro."
   ],
   "impacto": "Hospitais e clínicas do regime regular poderão abater o IBS/CBS de aluguel, energia, equipamentos, materiais e serviços terceirizados, o que muda a conta de quem tem muitos insumos. Com o split payment, parte do valor recebido por cartão ou Pix poderá chegar já sem o imposto, o que afeta o caixa.",
   "acao": "Levantar os principais fornecedores dos clientes do regime regular e o regime de cada um (Simples ou regular), para estimar os créditos de 2027. Acompanhar o cronograma do split payment e orientar os clientes a confirmar com os adquirentes e bancos quando a separação automática começará.",
@@ -284,9 +285,13 @@
    {
     "nome": "CGIBS/RFB – Split Payment Manual de Tempos v1.0.1",
     "url": "https://www.cgibs.gov.br/upload/arquivos/202609/24100954-split-payment-manual-de-tempos-v1-0-1.pdf"
+   },
+   {
+    "nome": "Conjur",
+    "url": "https://conjur.com.br/2026-nov-04/reforma-tributaria-split-payment-ainda-nao-mas-apa-e-e-rad-ja-funcionarao-em-janeiro/"
    }
   ],
-  "atualizadoEm": "2026-10-18"
+  "atualizadoEm": "2026-11-04"
  },
  {
   "id": "sociedades-uniprofissionais-iss-fixo",
@@ -364,7 +369,8 @@
    "Segundo cálculo da Folha (via Diário do Comércio e Contábeis, 01/11/2026), a alíquota de 11,3% eleva a carga federal sobre o consumo: a diferença seria de R$ 45 a quase R$ 50 bilhões, por mudança no período de referência que tira o efeito da decisão do STF de 2021; para manter a arrecadação dos dez anos até 2024 bastariam 10,3%. Ainda sem ato oficial.",
    "Em 02/11, segundo a imprensa, a Frente Parlamentar do Empreendedorismo pediu ao Senado que rejeite os 11,3% (setor esperava cerca de 9%) e a oposição disse que atuará para reduzir o percentual; ainda sem proposta formal.",
    "Em 03/11, segundo o InfoMoney, o relator Eduardo Braga disse discordar dos 11,3% (esperava 8% a 9%) e que o TCU enviará os estudos ao Senado em 10/11. Ainda sem proposta formal de alíquota; sem resolução, vale o número do TCU.",
-   "Em 03/11, segundo Metrópoles e Brasil 247, Durigan disse que o TCU apresentou teto de 11,3% e média de cerca de 8,5%, que reduzir a alíquota depende de revisar exceções (discussão a partir de 2027) e que o Senado não pode cortar incentivos já previstos na Constituição antes de 2027. A bancada do agro (FPA) rejeita mudanças. Segundo o Senado, a meta é concluir a votação dos textos prioritários até 17/12. Tudo ainda sem ato oficial."
+   "Em 03/11, segundo Metrópoles e Brasil 247, Durigan disse que o TCU apresentou teto de 11,3% e média de cerca de 8,5%, que reduzir a alíquota depende de revisar exceções (discussão a partir de 2027) e que o Senado não pode cortar incentivos já previstos na Constituição antes de 2027. A bancada do agro (FPA) rejeita mudanças. Segundo o Senado, a meta é concluir a votação dos textos prioritários até 17/12. Tudo ainda sem ato oficial.",
+   "CNC estima (estudo próprio, sem metodologia divulgada) alta de até 54,3% na carga de segmentos de serviços com a CBS de 11,3% (04/11)."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -413,6 +419,10 @@
    {
     "nome": "Metrópoles – Durigan: governo pretende discutir 'exceções' para rever alíquota da CBS",
     "url": "https://www.metropoles.com/brasil/durigan-governo-pretende-discutir-excecoes-para-rever-aliquota-da-cbs"
+   },
+   {
+    "nome": "Portal do Comércio",
+    "url": "https://portaldocomercio.org.br/economia/cbs-em-113-pode-gerar-aumento-da-carga-do-setor-de-servicos-em-ate-543-alerta-cnc/"
    }
   ],
   "atualizadoEm": "2026-11-04"

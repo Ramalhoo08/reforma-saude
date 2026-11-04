@@ -2,7 +2,7 @@
  {
   "data": "2026-11-04",
   "edicao": 15,
-  "resumo": "Para clientes médicos, a novidade é a Operação Fármacos II da Receita (créditos de PIS/Cofins do setor farmacêutico, regularização até 20/01/2027). No geral, Durigan disse que a média da CBS fica perto de 8,5% e que só a revisão de exceções baixa a alíquota, a bancada do agro rejeita mudanças e a MP do Imposto Seletivo foi adiada para 04/11, ainda sem publicação confirmada.",
+  "resumo": "Para clientes médicos, a novidade é a Operação Fármacos II da Receita (créditos de PIS/Cofins do setor farmacêutico, regularização até 20/01/2027). No geral, Durigan disse que a média da CBS fica perto de 8,5% e que só a revisão de exceções baixa a alíquota, a bancada do agro rejeita mudanças e a MP do Imposto Seletivo foi adiada para 04/11, ainda sem publicação confirmada. Rodada das 17h: a CNC estima alta de até 54,3% na carga de parte dos serviços com a CBS de 11,3% (número da própria CNC), e o Conjur informa que o split payment não começa em janeiro de 2027, mas ApA-e e RAD sim.",
   "itens": [
    {
     "titulo": "Fato novo: Durigan diz que média da CBS fica perto de 8,5% e que só revisão das exceções reduz a alíquota; Fazenda não prevê corte imediato",
@@ -106,6 +106,48 @@
      {
       "nome": "Reformatributaria.com – Justiça de SP autoriza empresa a excluir IBS/CBS da base de cálculo do ICMS a partir de 2027",
       "url": "https://www.reformatributaria.com/iva/justica-de-sp-autoriza-empresa-a-excluir-ibs-cbs-da-base-de-calculo-do-icms-a-partir-de-2027/"
+     }
+    ]
+   },
+   {
+    "titulo": "CNC estima que CBS de 11,3% pode elevar a carga de segmentos de serviços em até 54,3%",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-04",
+    "oQueMudou": "Segundo o Portal do Comércio e outros veículos, estudo da CNC diz que a alíquota de referência de 11,3% da CBS (calculada pelo TCU) pode aumentar a carga de parte do setor de serviços em até 54,3%, atingindo mais de 758 mil empresas e 3,2 milhões de empregos. A CNC argumenta que serviços têm cadeia curta e a folha de pagamento não gera crédito, e mobiliza o Senado para revisar as premissas. O número é da própria CNC, sem a metodologia divulgada, e ainda sem ato oficial.",
+    "impacto": "Empresas de serviços, com mão de obra como principal custo, são as mais sensíveis à alíquota. Para clínicas e consultórios, a redução de 60% para serviços de saúde ameniza o efeito, mas o cálculo do TCU ainda pode mudar no Senado (prazo até 15/12).",
+    "acao": "Acompanhar a decisão do Senado sobre a alíquota e evitar prometer a clientes médicos números de carga futura antes disso.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Portal do Comércio",
+      "url": "https://portaldocomercio.org.br/economia/cbs-em-113-pode-gerar-aumento-da-carga-do-setor-de-servicos-em-ate-543-alerta-cnc/"
+     },
+     {
+      "nome": "Panrotas",
+      "url": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/11/cnc-alerta-para-impactos-da-aliquota-de-113-sobre-contribuicao-sobre-bens-e-servicos_233366.html"
+     }
+    ]
+   },
+   {
+    "titulo": "Split payment não começa em janeiro de 2027; ApA-e e RAD funcionarão desde o início",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-04",
+    "oQueMudou": "Segundo o Conjur (04/11), o split payment não fica pronto em janeiro de 2027, mas a Apuração Assistida eletrônica (ApA-e, semelhante à declaração pré-preenchida do IR) e o Recolhimento pelo Adquirente (RAD, opcional) funcionarão em janeiro. Veículos como Contábeis e DComercio e a notícia anterior do CGIBS indicam que o split começará depois, de forma opcional e entre empresas.",
+    "impacto": "No começo de 2027 o recolhimento continua sendo feito pelo próprio contribuinte; o RAD é opcional e não substitui o split. Clínicas que vendem para hospitais e operadoras podem ser procuradas por compradores que queiram adotar o RAD.",
+    "acao": "Não montar fluxo de caixa contando com split payment em 2027; avaliar com cada cliente se vale usar a ApA-e e o RAD.",
+    "prazo": "2027-01-01",
+    "fontes": [
+     {
+      "nome": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-04/reforma-tributaria-split-payment-ainda-nao-mas-apa-e-e-rad-ja-funcionarao-em-janeiro/"
+     },
+     {
+      "nome": "Contábeis",
+      "url": "https://www.contabeis.com.br/noticias/78723/split-payment-nao-comeca-em-janeiro-de-2027-entenda/"
      }
     ]
    }
