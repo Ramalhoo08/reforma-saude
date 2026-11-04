@@ -363,7 +363,8 @@
    "Segundo o InfoMoney (31/10/2026), Eduardo Braga (MDB-AM) será relator da resolução na CAE do Senado; o debate deve começar em 11/11, com convite a Dario Durigan e Vital do Rêgo. Ainda sem ato oficial do Senado.",
    "Segundo cálculo da Folha (via Diário do Comércio e Contábeis, 01/11/2026), a alíquota de 11,3% eleva a carga federal sobre o consumo: a diferença seria de R$ 45 a quase R$ 50 bilhões, por mudança no período de referência que tira o efeito da decisão do STF de 2021; para manter a arrecadação dos dez anos até 2024 bastariam 10,3%. Ainda sem ato oficial.",
    "Em 02/11, segundo a imprensa, a Frente Parlamentar do Empreendedorismo pediu ao Senado que rejeite os 11,3% (setor esperava cerca de 9%) e a oposição disse que atuará para reduzir o percentual; ainda sem proposta formal.",
-   "Em 03/11, segundo o InfoMoney, o relator Eduardo Braga disse discordar dos 11,3% (esperava 8% a 9%) e que o TCU enviará os estudos ao Senado em 10/11. Ainda sem proposta formal de alíquota; sem resolução, vale o número do TCU."
+   "Em 03/11, segundo o InfoMoney, o relator Eduardo Braga disse discordar dos 11,3% (esperava 8% a 9%) e que o TCU enviará os estudos ao Senado em 10/11. Ainda sem proposta formal de alíquota; sem resolução, vale o número do TCU.",
+   "Em 03/11, segundo Metrópoles e Brasil 247, Durigan disse que o TCU apresentou teto de 11,3% e média de cerca de 8,5%, que reduzir a alíquota depende de revisar exceções (discussão a partir de 2027) e que o Senado não pode cortar incentivos já previstos na Constituição antes de 2027. A bancada do agro (FPA) rejeita mudanças. Segundo o Senado, a meta é concluir a votação dos textos prioritários até 17/12. Tudo ainda sem ato oficial."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -408,9 +409,13 @@
    {
     "nome": "InfoMoney – Relator da CBS, Eduardo Braga diz não estar de acordo com alíquota de 11,3%",
     "url": "https://www.infomoney.com.br/economia/relator-da-cbs-eduardo-braga-diz-nao-estar-de-acordo-com-aliquota-de-113/"
+   },
+   {
+    "nome": "Metrópoles – Durigan: governo pretende discutir 'exceções' para rever alíquota da CBS",
+    "url": "https://www.metropoles.com/brasil/durigan-governo-pretende-discutir-excecoes-para-rever-aliquota-da-cbs"
    }
   ],
-  "atualizadoEm": "2026-11-03"
+  "atualizadoEm": "2026-11-04"
  },
  {
   "id": "renda-lei-15270-dividendos",
