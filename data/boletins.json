@@ -2,7 +2,7 @@
  {
   "data": "2026-11-05",
   "edicao": 16,
-  "resumo": "Sem fato novo específico para clínicas e médicos hoje. No geral, o governo publicou a MP do Imposto Seletivo (cobrança a partir de 02/02/2027), OAB e CNI pediram adiar a reforma para 2028 e uma PEC foi protocolada (a Fazenda é contra), e a CAE do Senado marcou audiência sobre a CBS de 11,3%.",
+  "resumo": "Sem fato novo específico para clínicas e médicos hoje. No geral, o governo publicou a MP do Imposto Seletivo (cobrança a partir de 02/02/2027), OAB e CNI pediram adiar a reforma para 2028 e uma PEC foi protocolada (a Fazenda é contra), e a CAE do Senado marcou audiência sobre a CBS de 11,3%. Atualização da tarde: governo enviou PEC para manter o IPI em janeiro de 2027 e Durigan reafirmou o início em janeiro, com possível flexibilização de prazos e multas (sem ato oficial).",
   "itens": [
    {
     "titulo": "Imposto Seletivo: governo publica MP com as alíquotas de 2027; cobrança começa em 02/02/2027",
@@ -93,6 +93,48 @@
      {
       "nome": "Correio Braziliense – Simples Nacional: mudança pode gerar perda de R$ 21 bi",
       "url": "https://www.correiobraziliense.com.br/economia/2026/06/7439931-simples-nacional-mudanca-pode-gerar-perda-de-rs-21-bi-e-afetar-pmes.html"
+     }
+    ]
+   },
+   {
+    "titulo": "Governo envia PEC para manter o IPI em janeiro de 2027, até o Imposto Seletivo começar a valer em 02/02/2027",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-04",
+    "oQueMudou": "Segundo a CNN Brasil, o governo enviou ao Congresso na quarta-feira (04/11) uma PEC para prorrogar o IPI sobre os bens que passarão ao Imposto Seletivo, evitando que fiquem sem tributação em janeiro de 2027. A medida foi acertada com os setores afetados e valeria só para janeiro, porque a MP 1.399/2026 (Imposto Seletivo) começa a cobrar em 02/02/2027, pela noventena. O texto da PEC ainda não tinha sido divulgado e ainda não há ato oficial aprovado.",
+    "impacto": "Afeta fabricantes e vendedores de veículos, bebidas e cigarros. Para clínicas e médicos, não há efeito direto.",
+    "acao": "Sem providência para clientes médicos. Acompanhar a tramitação apenas para clientes com indústria ou comércio de bens afetados.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-envia-pec-que-prorroga-ipi-para-bens-afetados-pelo-imposto-seletivo/"
+     },
+     {
+      "nome": "Agência Brasil (MP do Imposto Seletivo)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-publica-mp-das-aliquotas-do-imposto-seletivo-para-2027"
+     }
+    ]
+   },
+   {
+    "titulo": "Durigan reafirma início em janeiro de 2027 e diz que prazos e multas podem ser flexibilizados para quem agir de boa-fé",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-05",
+    "oQueMudou": "Segundo Poder360 e outros veículos, o ministro da Fazenda, Dario Durigan, disse em 05/11 que não haverá adiamento da reforma, apesar do pedido de OAB e CNI e da PEC da deputada Any Ortiz, que ainda recolhe as 171 assinaturas necessárias. Ele afirmou que prazos de entrega de informações e cobrança de multas podem ser prorrogados em casos de boa-fé do contribuinte. Ainda sem ato oficial sobre essa flexibilização.",
+    "impacto": "O calendário de 2027 segue valendo para todas as empresas, inclusive clínicas e consultórios. A flexibilização seria só de prazos e multas, e ainda não foi formalizada.",
+    "acao": "Manter o planejamento para janeiro de 2027 e não contar com adiamento nem com flexibilização de multas até sair ato oficial.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/reforma-tributaria-2027/reforma-tributaria-nao-sera-adiada-e-comeca-em-2027-diz-durigan/"
+     },
+     {
+      "nome": "JOTA",
+      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/deputada-any-ortiz-busca-apoio-para-pec-que-adia-reforma-tributaria"
      }
     ]
    }
