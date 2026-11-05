@@ -1,5 +1,170 @@
 [
  {
+  "data": "2026-11-05",
+  "edicao": 16,
+  "resumo": "Sem fato novo específico para clínicas e médicos hoje. No geral, o governo publicou a MP do Imposto Seletivo (cobrança a partir de 02/02/2027), OAB e CNI pediram adiar a reforma para 2028 e uma PEC foi protocolada (a Fazenda é contra), e a CAE do Senado marcou audiência sobre a CBS de 11,3%.",
+  "itens": [
+   {
+    "titulo": "Imposto Seletivo: governo publica MP com as alíquotas de 2027; cobrança começa em 02/02/2027",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-04",
+    "oQueMudou": "Segundo CNN Brasil, Agência Brasil e outros veículos, o governo publicou na noite de 04/11 a medida provisória com as alíquotas do Imposto Seletivo (IS). Pela noventena, a cobrança começa em 02/02/2027. Segundo a imprensa, as alíquotas de 2027 seguem as do IPI atual: cigarros 66,7% (mais R$ 3,50 por vintena), cerveja 4,2%, bebidas açucaradas 2,6%, destilados e vinhos até 24%; minerais ficam em zero até o fim de 2027. O governo também enviou uma PEC para manter o IPI em janeiro de 2027 e deve mandar projeto de lei com as alíquotas de 2028 até 31/05/2027. O texto oficial no Diário Oficial não foi conferido nesta rodada.",
+    "impacto": "Não atinge diretamente a prestação de serviços médicos: as reportagens consultadas não incluem serviços ou planos de saúde entre os produtos do IS. Para clientes que vendem ou compram bebidas, cigarros ou veículos (ex.: cantina de hospital), há novo tributo a partir de fevereiro.",
+    "acao": "Avisar apenas clientes com atividade de comércio dos produtos listados. Conferir o texto da MP no Diário Oficial antes de orientar.",
+    "prazo": "2027-02-02",
+    "fontes": [
+     {
+      "nome": "CNN Brasil – Governo envia MP do \"Imposto do Pecado\" ao Congresso Nacional",
+      "url": "https://www.cnnbrasil.com.br/politica/governo-envia-mp-do-imposto-do-pecado-ao-congresso-nacional/"
+     },
+     {
+      "nome": "Atlas Público – MP fixa alíquotas do Imposto Seletivo para 2027",
+      "url": "https://atlaspublico.com.br/noticias/medida-provisoria-fixa-aliquotas-do-imposto-seletivo-para-99158"
+     },
+     {
+      "nome": "Agência Brasil – Governo quer enviar MP do Imposto Seletivo ainda hoje ao Congresso",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-quer-enviar-mp-do-imposto-seletivo-ainda-hoje-ao-congresso"
+     }
+    ]
+   },
+   {
+    "titulo": "OAB e CNI pedem adiar a reforma para 2028 e deputada protocola PEC; Fazenda mantém posição contrária",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-04",
+    "oQueMudou": "Segundo Migalhas e Brasil 247, o Conselho Federal e as seccionais da OAB divulgaram manifesto pedindo que as etapas de 2027 passem para 2028, e a CNI enviou carta aos ministros da Fazenda e do Desenvolvimento pedindo mais um ano de teste e o início efetivo da CBS em 2028. Segundo o Conjur, a deputada Any Ortiz (PP-RS) protocolou PEC nesse sentido, que precisa de 171 assinaturas para tramitar. Como o calendário está na Constituição, o adiamento exigiria PEC aprovada em dois turnos com 3/5 de cada Casa antes de 01/01/2027. A Fazenda já descartou adiamento geral (Durigan, julho); não há resposta formal ao pedido da CNI. Ainda sem ato oficial.",
+    "impacto": "Por ora nada muda: o calendário de 2027 segue valendo (CBS cobrada, PIS/Cofins extintos). A pressão cresce, mas o risco de mudança é incerto.",
+    "acao": "Não suspender a preparação dos clientes (NFS-e com IBS/CBS, escolha Simples × regime regular até 20/12). Acompanhar a PEC.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Migalhas – OAB pede adiamento da reforma tributária para 2028",
+      "url": "https://www.migalhas.com.br/quentes/467893/oab-pede-adiamento-da-reforma-tributaria-para-2028"
+     },
+     {
+      "nome": "Brasil 247 – CNI pede ao governo que adie reforma tributária para 2028",
+      "url": "https://www.brasil247.com/economia/cni-pede-ao-governo-que-adie-reforma-tributaria-para-2028/"
+     },
+     {
+      "nome": "Conjur – Deputada protocola PEC para prorrogar cobranças da reforma para 2028",
+      "url": "https://conjur.com.br/2026-nov-04/deputada-protocola-pec-para-adiar-cobrancas-da-reforma-tributaria-para-2028/"
+     }
+    ]
+   },
+   {
+    "titulo": "CAE do Senado aprova audiência pública sobre o cálculo da CBS; prazo do Senado pode ir a 22/12",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-04",
+    "oQueMudou": "Segundo Senado Notícias e Reforma Tributária.com, a CAE aprovou por unanimidade requerimento do senador Izalci Lucas (REQ 107/2026) para audiência pública sobre o cálculo da CBS, e ele pediu dados à Fazenda. Segundo a imprensa, as audiências começam em 10 ou 11/11 (fontes divergem), com convite a Durigan e ao presidente do TCU, e o prazo do Senado (15/12) poderia ser adiado até 22/12. Sem resolução, vale a alíquota do TCU. Ainda sem ato oficial.",
+    "impacto": "A alíquota de 11,3% ainda pode mudar; a redução de 60% da saúde incide sobre o número final.",
+    "acao": "Manter simulações com 11,3% e revisar após a audiência e a resolução do Senado.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Senado Notícias – Senado deve receber cálculo da CBS na próxima terça para definir alíquota",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota"
+     },
+     {
+      "nome": "Reforma Tributária.com – Comissão do Senado fará audiência pública sobre alíquota da CBS",
+      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/comissao-do-senado-fara-audiencia-publica-sobre-aliquota-da-cbs"
+     }
+    ]
+   },
+   {
+    "titulo": "Câmara: parlamentares defendem votar em 2026 a atualização dos tetos do Simples (PLP 108/2021)",
+    "alcance": "geral",
+    "tema": "simples",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-04",
+    "oQueMudou": "Segundo a imprensa, parlamentares da base, da oposição e do centro defenderam em 04/11 a votação ainda em 2026 do projeto que corrige os limites do Simples e do MEI, com recuperação escalonada da inflação até 2029. Estados e municípios resistem (estimam perda de R$ 21 bilhões) e o governo evita se comprometer. Os valores dos novos tetos variam entre reportagens. Ainda sem ato oficial.",
+    "impacto": "Se aprovado, mais clínicas e médicos PJ poderiam permanecer no Simples. Hoje o teto não mudou.",
+    "acao": "Acompanhar; não basear a escolha Simples × regime regular (até 20/12) em teto ainda não aprovado.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Fenacon – Votação de novo teto do Simples pode ocorrer ainda em 2026, afirmam deputados",
+      "url": "https://fenacon.org.br/noticias/votacao-de-novo-teto-do-simples-pode-ocorrer-ainda-em-2026-afirmam-deputados/"
+     },
+     {
+      "nome": "Correio Braziliense – Simples Nacional: mudança pode gerar perda de R$ 21 bi",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/06/7439931-simples-nacional-mudanca-pode-gerar-perda-de-rs-21-bi-e-afetar-pmes.html"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-11-03",
+    "evento": "Abre a janela de cancelamento das opções pelo Simples e pelo regime regular de IBS/CBS (até 20/12/2026)."
+   },
+   {
+    "data": "2026-11-10",
+    "evento": "TCU deve enviar ao Senado os estudos que sustentam a alíquota de 11,3% da CBS (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-11-11",
+    "evento": "Início previsto das audiências da CAE do Senado sobre a alíquota da CBS, segundo a imprensa (algumas fontes citam 10/11); relator: Eduardo Braga."
+   },
+   {
+    "data": "2026-11-15",
+    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde. Segundo sites do setor, o prazo não é prorrogado mesmo caindo em domingo."
+   },
+   {
+    "data": "2026-11-16",
+    "evento": "Fim do prazo de contribuições à consulta do STF (Edital 05/2026) sobre julgamento conjunto de ações de IBS e CBS."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+   },
+   {
+    "data": "2026-12-01",
+    "evento": "NFS-e com IBS/CBS obrigatória para locações e cessões de imóveis e demais casos residuais (ex.: sublocação de salas)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027 (a imprensa cita possível adiamento até 22/12)."
+   },
+   {
+    "data": "2026-12-17",
+    "evento": "Meta do Senado para concluir a votação dos textos prioritários do ano, entre eles a regulamentação da CBS, segundo a líder do governo (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes."
+   },
+   {
+    "data": "2027-01-20",
+    "evento": "Prazo da Receita para regularização voluntária na Operação Fármacos II (créditos presumidos de PIS/Cofins do setor farmacêutico)."
+   },
+   {
+    "data": "2027-02-02",
+    "evento": "Início da cobrança do Imposto Seletivo, conforme a MP publicada em 04/11/2026 (noventena), segundo a imprensa."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   },
+   {
+    "data": "2027-05-31",
+    "evento": "Prazo para o governo enviar projeto de lei com as alíquotas do Imposto Seletivo de 2028, segundo a imprensa."
+   }
+  ]
+ },
+ {
   "data": "2026-11-04",
   "edicao": 15,
   "resumo": "Para clientes médicos, a novidade é a Operação Fármacos II da Receita (créditos de PIS/Cofins do setor farmacêutico, regularização até 20/01/2027). No geral, Durigan disse que a média da CBS fica perto de 8,5% e que só a revisão de exceções baixa a alíquota, a bancada do agro rejeita mudanças e a MP do Imposto Seletivo foi adiada para 04/11, ainda sem publicação confirmada. Rodada das 17h: a CNC estima alta de até 54,3% na carga de parte dos serviços com a CBS de 11,3% (número da própria CNC), e o Conjur informa que o split payment não começa em janeiro de 2027, mas ApA-e e RAD sim.",
@@ -163,11 +328,11 @@
    },
    {
     "data": "2026-11-10",
-    "evento": "TCU deve enviar ao Senado os estudos que sustentam a alíquota de 11,3% da CBS, segundo o relator Eduardo Braga (ainda sem ato oficial)."
+    "evento": "TCU deve enviar ao Senado os estudos que sustentam a alíquota de 11,3% da CBS (ainda sem ato oficial)."
    },
    {
     "data": "2026-11-11",
-    "evento": "Início previsto do debate da alíquota da CBS na CAE do Senado, segundo a imprensa (relator: Eduardo Braga)."
+    "evento": "Início previsto das audiências da CAE do Senado sobre a alíquota da CBS, segundo a imprensa (algumas fontes citam 10/11); relator: Eduardo Braga."
    },
    {
     "data": "2026-11-15",
@@ -187,7 +352,7 @@
    },
    {
     "data": "2026-12-15",
-    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027."
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027 (a imprensa cita possível adiamento até 22/12)."
    },
    {
     "data": "2026-12-17",
