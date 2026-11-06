@@ -2,7 +2,7 @@
  {
   "data": "2026-11-06",
   "edicao": 17,
-  "resumo": "Sem fato novo específico para clientes médicos hoje. No geral, a pressão por adiar a reforma segue (Appy aparece entre os que pedem mais prazo, segundo a imprensa) e a MP 1.399/2026 do Imposto Seletivo começa a tramitar no Congresso. Semana que vem: TCU entrega os estudos da CBS ao Senado (10/11) e a CAE começa a debater a alíquota.",
+  "resumo": "Sem fato novo específico para clientes médicos hoje. No geral, a pressão por adiar a reforma segue (Appy aparece entre os que pedem mais prazo, segundo a imprensa) e a MP 1.399/2026 do Imposto Seletivo começa a tramitar no Congresso. Semana que vem: TCU entrega os estudos da CBS ao Senado (10/11) e a CAE começa a debater a alíquota. Na rodada da tarde, a Receita publicou a NT 13/2026 da EFD-Contribuições, com as regras de escrituração dos créditos de CBS e dos saldos de PIS/Cofins em 2027.",
   "itens": [
    {
     "titulo": "Appy aparece entre os que defendem mais prazo; governo mantém janeiro de 2027 e qualquer adiamento exige PEC",
@@ -39,6 +39,27 @@
      {
       "nome": "CartaCapital: Governo Lula publica medida provisória do Imposto Seletivo",
       "url": "https://www.cartacapital.com.br/politica/governo-lula-publica-medida-provisoria-do-imposto-seletivo/"
+     }
+    ]
+   },
+   {
+    "titulo": "EFD-Contribuições: Nota Técnica 13/2026 define como escriturar créditos da CBS e saldos de PIS/Cofins em 2027",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-05",
+    "oQueMudou": "A Receita publicou em 05/11/2026 a NT 13/2026 da EFD-Contribuições, que complementa a NT 11/2026. Ela trata do controle dos saldos credores de PIS/Cofins acumulados até 31/12/2026, dos créditos presumidos de CBS sobre o imobilizado (registros F120 e F130) e do estoque de abertura de 1º/01/2027, que deve ser informado no registro F150 em uma única EFD entre janeiro e junho de 2027. Em 2027 a escrituração segue ativa só para finalidades específicas, como o regime de caixa de PIS/Cofins, e não para novos fatos geradores. Segundo o comunicado do Sped, a versão do programa para os saldos de 2026 está prevista para o fim de novembro e a da CBS para a segunda quinzena de dezembro.",
+    "impacto": "Empresas que escrituram a EFD-Contribuições (lucro presumido e real, incluindo clínicas e hospitais) precisam controlar os saldos de PIS/Cofins e o estoque de abertura para aproveitar os créditos de CBS. Efeito indireto nos clientes médicos PJ que usam essa escrituração.",
+    "acao": "Identificar quais clientes entregam a EFD-Contribuições, levantar saldos credores de PIS/Cofins em 31/12/2026 e o estoque de abertura, e acompanhar a liberação do programa PGE.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Sped (gov.br): EFD-Contribuições - Publicação da Nota Técnica 13/2026",
+      "url": "https://www.gov.br/sped/pt-br/assuntos/comunicados/efd-contribuicoes/efd-contribuicoes-publicacao-da-nota-tecnica-13-2026"
+     },
+     {
+      "nome": "Portal Contábeis: EFD-Contribuições: NT 13/2026 orienta transição para a CBS",
+      "url": "https://www.contabeis.com.br/noticias/80665/efd-contribuicoes-nt-13-2026-orienta-transicao-para-a-cbs/"
      }
     ]
    }
