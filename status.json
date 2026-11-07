@@ -1,0 +1,25 @@
+{
+ "gerado_em": "2026-11-07 06:51",
+ "fontes": {
+  "google:reforma:1d": "ok, 100 notícias",
+  "google:reforma:2d": "ok, 100 notícias",
+  "google:reforma:7d": "ok, 100 notícias",
+  "google:ibs_cbs:1d": "ok, 100 notícias",
+  "google:ibs_cbs:2d": "ok, 100 notícias",
+  "google:ibs_cbs:7d": "ok, 100 notícias",
+  "google:saude:1d": "ok, 13 notícias",
+  "google:saude:2d": "ok, 25 notícias",
+  "google:saude:7d": "ok, 28 notícias",
+  "google:simples_nfse:1d": "ok, 28 notícias",
+  "google:simples_nfse:2d": "ok, 30 notícias",
+  "google:simples_nfse:7d": "ok, 54 notícias",
+  "google:renda:1d": "ok, 4 notícias",
+  "google:renda:2d": "ok, 7 notícias",
+  "google:renda:7d": "ok, 17 notícias",
+  "pagina:receita-2026-11": "ok, 21 linhas",
+  "pagina:fazenda": "ok, 41 linhas",
+  "pagina:senado": "ok, 24 linhas",
+  "pagina:cgibs": "ok, 7 linhas",
+  "pagina:fenacon": "ok, 17 linhas"
+ }
+}
