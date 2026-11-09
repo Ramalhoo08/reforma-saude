@@ -158,7 +158,8 @@
    "Dispositivos do Anexo XII têm alíquota zero. Os do Anexo IV também ficam com alíquota zero quando comprados pela administração pública ou por entidades de saúde imunes com CEBAS por serviços ao SUS (LC 214, art. 144).",
    "Medicamentos registrados na Anvisa ou de manipulação: redução de 60% (LC 214, art. 133). A redução depende de o fabricante ou importador ter compromisso com a União e o CGIBS ou cumprir a sistemática da CMED.",
    "Medicamentos do Anexo XIV têm alíquota zero; qualquer medicamento registrado tem alíquota zero quando comprado por órgão público ou entidade CEBAS-SUS (LC 214, art. 146).",
-   "As listas são revistas por ato conjunto do Ministério da Fazenda e do CGIBS: a cada 120 dias para dispositivos e anualmente para o Anexo XIV."
+   "As listas são revistas por ato conjunto do Ministério da Fazenda e do CGIBS: a cada 120 dias para dispositivos e anualmente para o Anexo XIV.",
+   "Em 08/11/2026, seis entidades da cadeia farmacêutica pediram adiamento de um ano da CBS por risco de desabastecimento, segundo Estadão e Gazeta do Povo; ainda sem ato oficial."
   ],
   "impacto": "Hospitais, clínicas cirúrgicas e laboratórios compram esses itens com carga menor. No regime regular, o IBS/CBS pago na compra vira crédito. Entidades filantrópicas com CEBAS-SUS compram com alíquota zero.",
   "acao": "Revisar o cadastro de produtos (NCM) dos clientes hospitalares e laboratoriais para identificar o que está nos Anexos IV, XII e XIV. Conferir se os fornecedores destacam corretamente a redução. Para entidades CEBAS, verificar se a certificação está válida.",
@@ -167,9 +168,13 @@
    {
     "nome": "LC 214/2025 – arts. 131, 133, 144 e 146 e Anexos IV, XII e XIV (Planalto)",
     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+   },
+   {
+    "nome": "Gazeta do Povo",
+    "url": "https://www.gazetadopovo.com.br/economia/setor-farmaceutico-cita-risco-de-desabastecimento-e-pede-adiamento-da-reforma-tributaria/"
    }
   ],
-  "atualizadoEm": "2026-10-18"
+  "atualizadoEm": "2026-11-09"
  },
  {
   "id": "planos-de-saude-operadoras-cooperativas",
@@ -219,7 +224,8 @@
    "A partir de 2027 o regime de caixa deixa de existir no Simples: a base mensal passa a ser a receita faturada, em regra na emissão do documento fiscal (Receita, 14/08/2026).",
    "Sublimite de R$ 3,6 milhões passa a considerar o IBS, além de ICMS e ISS; a Defis passa a ser informada no PGDAS-D, de janeiro a março.",
    "Em 16/10/2026 a Receita contava 917.331 pedidos de opção pelo regime regular de IBS/CBS.",
-   "Em 29/10/2026 a Receita informou 1.000.142 optantes pelo regime regular de IBS/CBS; o prazo de 30/10 não seria prorrogado e o cancelamento vai até 20/12/2026."
+   "Em 29/10/2026 a Receita informou 1.000.142 optantes pelo regime regular de IBS/CBS; o prazo de 30/10 não seria prorrogado e o cancelamento vai até 20/12/2026.",
+   "PLP 108/2021: o relator diz ter compromisso do presidente da Câmara para votar em novembro tetos de R$ 870 mil (ME) e R$ 8,7 milhões (EPP), de forma gradual até 2029; ainda sem votação marcada."
   ],
   "impacto": "Para a clínica do Simples que atende principalmente pacientes pessoa física e operadoras, sair do DAS tende a trazer pouco benefício de crédito ao tomador e mais trabalho. Para quem presta a empresas do regime regular (hospitais, medicina do trabalho para empresas), o crédito integral pode fazer diferença no preço. O fim do regime de caixa antecipa o imposto de quem fatura e só recebe depois (convênios com prazo longo).",
   "acao": "Até 30/10/2026, simular para cada cliente do Simples as duas opções (DAS × regime regular), olhando o perfil dos tomadores, a margem e as compras com crédito. Registrar a decisão por escrito com o cliente. Ajustar o fluxo de caixa de 2027 de quem hoje usa regime de caixa. Lembrar da janela de cancelamento de 03/11 a 20/12/2026.",
@@ -248,9 +254,13 @@
    {
     "nome": "Receita Federal – Mais de 1 milhão de contribuintes já optaram pelo regime regular (29/10/2026)",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs"
+   },
+   {
+    "nome": "Fenacon",
+    "url": "https://fenacon.org.br/noticias/votacao-de-novo-teto-do-simples-pode-ocorrer-ainda-em-2026-afirmam-deputados/"
    }
   ],
-  "atualizadoEm": "2026-10-31"
+  "atualizadoEm": "2026-11-09"
  },
  {
   "id": "creditos-split-payment",

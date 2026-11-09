@@ -1,5 +1,171 @@
 [
  {
+  "data": "2026-11-09",
+  "edicao": 18,
+  "resumo": "Para a saúde: seis entidades da cadeia farmacêutica pedem adiar a CBS em um ano por risco de desabastecimento de medicamentos (ainda sem ato oficial). No geral: a PEC de adiamento ainda coleta assinaturas, o governo mantém janeiro de 2027, o TCU entrega amanhã (10/11) ao Senado o estudo da CBS e o relator do PLP 108 diz que os novos tetos do Simples podem ser votados em novembro.",
+  "itens": [
+   {
+    "titulo": "Seis entidades da cadeia farmacêutica pedem adiamento de um ano da CBS por risco de desabastecimento de medicamentos",
+    "alcance": "saúde",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "Segundo o Estadão e a Gazeta do Povo, seis entidades do setor farmacêutico enviaram carta aos presidentes do Senado e da Câmara pedindo o adiamento por pelo menos um ano da cobrança da CBS. Elas alertam que rejeição em massa de documentos fiscais, falhas de parametrização ou falta de listas de preços adequadas podem interromper faturamento e circulação de medicamentos nos primeiros dias de 2027. Ainda sem ato oficial; qualquer adiamento exigiria mudança constitucional.",
+    "impacto": "Clínicas, hospitais e laboratórios dependem de medicamentos e insumos: se houver ruptura na cadeia, o efeito chega ao custo e ao abastecimento. O governo mantém janeiro de 2027. Para os clientes médicos nada muda por ora.",
+    "acao": "Pedir aos clientes com compras recorrentes de medicamentos e insumos que revisem fornecedores e cadastros fiscais (NCM, preços) antes de janeiro, e acompanhar se o pedido avança.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/economia/setor-farmaceutico-cita-risco-de-desabastecimento-e-pede-adiamento-da-reforma-tributaria/"
+     },
+     {
+      "nome": "Tribuna do Paraná",
+      "url": "https://www.tribunapr.com.br/noticias/economia/farmaceuticas-alertam-para-risco-de-desabastecimento-com-reforma-tributaria/"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: PEC de Any Ortiz para adiar a CBS e o Imposto Seletivo para 2028 ainda coleta assinaturas; Fenabrave também pede adiamento",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "Segundo a Agência Câmara (via Brasil em Folhas), a deputada Any Ortiz (PP-RS) precisa de 171 assinaturas para protocolar a PEC e, no primeiro dia, seis deputados assinaram; não há número de PEC nem protocolo confirmado. A proposta manteria 2027 como ano de teste (CBS 0,9% e IBS 0,1%) e passaria a cobrança da CBS e do Imposto Seletivo para 2028. A Fenabrave (concessionárias) também pediu adiamento, citando fluxo de caixa, segundo a CNN Brasil. O ministro Durigan mantém janeiro de 2027. Ainda sem ato oficial.",
+    "impacto": "O calendário em vigor segue valendo: uma PEC precisaria de 308 votos na Câmara e 49 no Senado em dois turnos antes de 01/01/2027. Empresas devem se preparar como se a CBS começasse em janeiro.",
+    "acao": "Manter o plano de adequação para janeiro de 2027 e avisar os clientes de que o adiamento é só proposta.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Brasil em Folhas (Agência Câmara)",
+      "url": "https://brasilemfolhas.com.br/2026/11/any-ortiz-propoe-adiamento-da-reforma-tributaria-via-pec/"
+     },
+     {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/fenabrave-agencias-de-veiculos-pedem-adiamento-da-reforma-tributaria/"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: relator do PLP 108 diz ter compromisso de Hugo Motta para votar os novos tetos do Simples em novembro",
+    "alcance": "geral",
+    "tema": "simples",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "Segundo a Fenacon, o relator Jorge Goetten (Republicanos-SC) afirma ter compromisso do presidente da Câmara para aprovar o projeto ainda em novembro. O texto eleva o teto da microempresa de R$ 360 mil para R$ 870 mil e o da empresa de pequeno porte de R$ 4,8 milhões para R$ 8,7 milhões, de forma gradual de 2027 a 2029. A ficha oficial ainda mostra o projeto aguardando parecer do relator na comissão especial; não há votação marcada.",
+    "impacto": "Se aprovado também pelo Senado e sancionado, muda o enquadramento de clínicas e consultórios no Simples a partir de 2027. Há críticas sobre créditos de quem compra de optantes e obrigações do 'Simples híbrido'.",
+    "acao": "Acompanhar a votação e simular, para clientes perto dos tetos atuais, o efeito dos novos limites.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Fenacon",
+      "url": "https://fenacon.org.br/noticias/votacao-de-novo-teto-do-simples-pode-ocorrer-ainda-em-2026-afirmam-deputados/"
+     }
+    ]
+   },
+   {
+    "titulo": "Imposto Seletivo: MP 1.399 recebeu 99 emendas, comissão mista ainda não foi instalada e há 4 ações no STF",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "Segundo o Atlas Público e o site do Congresso, a MP 1.399/2026 aguarda a designação da comissão mista e recebeu 99 emendas (5 retiradas). Quatro ações contra ela estão com o ministro Luiz Fux no STF, sem decisão sobre suspensão. Os prazos de conversão em lei divergem entre as fontes. As alíquotas podem ser confirmadas ou alteradas pelo Congresso.",
+    "impacto": "Afeta sobretudo bebidas, cigarros e veículos; para clínicas e consultórios o efeito direto é pequeno.",
+    "acao": "Só acompanhar.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Atlas Público",
+      "url": "https://atlaspublico.com.br/analises/imposto-seletivo-2027-mp-1399"
+     },
+     {
+      "nome": "Congresso Nacional - MPV 1399/2026",
+      "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/176208"
+     }
+    ]
+   },
+   {
+    "titulo": "NF-e e NFC-e: nova versão da Nota Técnica 2026.008 tira IBS, CBS e IS do campo vProd",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "A versão 1.01 da NT 2026.008 (30/10/2026) deixa o IBS, a CBS e o IS fora do valor do produto (vProd); eles seguem nos totais da nota. Foram criados os campos de valor líquido unitário (vUnComLiq) e total líquido (vProdLiqTot). A rejeição 1115 (falta do grupo IBS/CBS) ainda não tem data para valer em produção, mas o preenchimento continua necessário.",
+    "impacto": "Clientes que emitem NF-e (clínicas com venda de produtos, laboratórios) precisam que o sistema emissor seja ajustado; quem já configurou IBS/CBS dentro do vProd deve rever.",
+    "acao": "Confirmar com o fornecedor do sistema emissor que a NT 2026.008 v1.01 foi aplicada.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Portal Contábeis",
+      "url": "https://www.contabeis.com.br/noticias/80671/nf-e-ibs-e-cbs-ficam-fora-do-campo-vprod/"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-11-10",
+    "evento": "TCU deve enviar ao Senado os estudos que sustentam a alíquota de 11,3% da CBS (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-11-11",
+    "evento": "Início previsto das audiências da CAE do Senado sobre a alíquota da CBS, segundo a imprensa (a Congresso em Foco cita terça, 10/11, com requerimento REQ 107/2026 aprovado; outras fontes citam quarta, 11/11); relator: Eduardo Braga. Data ainda sem confirmação oficial."
+   },
+   {
+    "data": "2026-11-15",
+    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde. Segundo sites do setor, o prazo não é prorrogado mesmo caindo em domingo."
+   },
+   {
+    "data": "2026-11-16",
+    "evento": "Fim do prazo de contribuições à consulta do STF (Edital 05/2026) sobre julgamento conjunto de ações de IBS e CBS."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+   },
+   {
+    "data": "2026-12-01",
+    "evento": "NFS-e com IBS/CBS obrigatória para locações e cessões de imóveis e demais casos residuais (ex.: sublocação de salas)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027 (a imprensa cita possível adiamento até 22/12)."
+   },
+   {
+    "data": "2026-12-17",
+    "evento": "Meta do Senado para concluir a votação dos textos prioritários do ano, entre eles a regulamentação da CBS, segundo a líder do governo (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes."
+   },
+   {
+    "data": "2027-01-20",
+    "evento": "Prazo da Receita para regularização voluntária na Operação Fármacos II (créditos presumidos de PIS/Cofins do setor farmacêutico)."
+   },
+   {
+    "data": "2027-02-02",
+    "evento": "Início da cobrança do Imposto Seletivo, conforme a MP publicada em 04/11/2026 (noventena), segundo a imprensa."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   },
+   {
+    "data": "2027-05-31",
+    "evento": "Prazo para o governo enviar projeto de lei com as alíquotas do Imposto Seletivo de 2028, segundo a imprensa."
+   }
+  ]
+ },
+ {
   "data": "2026-11-06",
   "edicao": 17,
   "resumo": "Sem fato novo específico para clientes médicos hoje. No geral, a pressão por adiar a reforma segue (Appy aparece entre os que pedem mais prazo, segundo a imprensa) e a MP 1.399/2026 do Imposto Seletivo começa a tramitar no Congresso. Semana que vem: TCU entrega os estudos da CBS ao Senado (10/11) e a CAE começa a debater a alíquota. Na rodada da tarde, a Receita publicou a NT 13/2026 da EFD-Contribuições, com as regras de escrituração dos créditos de CBS e dos saldos de PIS/Cofins em 2027.",
