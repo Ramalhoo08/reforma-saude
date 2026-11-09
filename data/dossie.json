@@ -159,7 +159,8 @@
    "Medicamentos registrados na Anvisa ou de manipulação: redução de 60% (LC 214, art. 133). A redução depende de o fabricante ou importador ter compromisso com a União e o CGIBS ou cumprir a sistemática da CMED.",
    "Medicamentos do Anexo XIV têm alíquota zero; qualquer medicamento registrado tem alíquota zero quando comprado por órgão público ou entidade CEBAS-SUS (LC 214, art. 146).",
    "As listas são revistas por ato conjunto do Ministério da Fazenda e do CGIBS: a cada 120 dias para dispositivos e anualmente para o Anexo XIV.",
-   "Em 08/11/2026, seis entidades da cadeia farmacêutica pediram adiamento de um ano da CBS por risco de desabastecimento, segundo Estadão e Gazeta do Povo; ainda sem ato oficial."
+   "Em 08/11/2026, seis entidades da cadeia farmacêutica pediram adiamento de um ano da CBS por risco de desabastecimento, segundo Estadão e Gazeta do Povo; ainda sem ato oficial.",
+   "Em 09/11/2026, segundo o Panorama Farmacêutico, a lista de medicamentos com alíquota zero está em análise final no Ministério da Saúde e deve seguir para a Receita; a indústria pede definição para produtos sem registro na Anvisa. Ainda sem ato oficial."
   ],
   "impacto": "Hospitais, clínicas cirúrgicas e laboratórios compram esses itens com carga menor. No regime regular, o IBS/CBS pago na compra vira crédito. Entidades filantrópicas com CEBAS-SUS compram com alíquota zero.",
   "acao": "Revisar o cadastro de produtos (NCM) dos clientes hospitalares e laboratoriais para identificar o que está nos Anexos IV, XII e XIV. Conferir se os fornecedores destacam corretamente a redução. Para entidades CEBAS, verificar se a certificação está válida.",
@@ -172,6 +173,10 @@
    {
     "nome": "Gazeta do Povo",
     "url": "https://www.gazetadopovo.com.br/economia/setor-farmaceutico-cita-risco-de-desabastecimento-e-pede-adiamento-da-reforma-tributaria/"
+   },
+   {
+    "nome": "Panorama Farmacêutico",
+    "url": "https://panoramafarmaceutico.com.br/ministerio-da-saude-prepara-nova-lista-de-medicamentos-com-aliquota-zero/"
    }
   ],
   "atualizadoEm": "2026-11-09"

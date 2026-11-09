@@ -2,8 +2,25 @@
  {
   "data": "2026-11-09",
   "edicao": 18,
-  "resumo": "Para a saúde: seis entidades da cadeia farmacêutica pedem adiar a CBS em um ano por risco de desabastecimento de medicamentos (ainda sem ato oficial). No geral: a PEC de adiamento ainda coleta assinaturas, o governo mantém janeiro de 2027, o TCU entrega amanhã (10/11) ao Senado o estudo da CBS e o relator do PLP 108 diz que os novos tetos do Simples podem ser votados em novembro.",
+  "resumo": "Para a saúde: a lista de medicamentos com alíquota zero está em fase final de análise no Ministério da Saúde (ainda sem ato oficial) e seis entidades da cadeia farmacêutica pedem adiar a CBS. No geral: Petrobras pede transição sem multas, 1.491 entidades da CACB pedem começar em 2028, o governo mantém janeiro de 2027, o TCU entrega amanhã (10/11) o estudo da CBS ao Senado e os novos tetos do Simples podem ser votados em novembro.",
   "itens": [
+   {
+    "titulo": "Lista de medicamentos com alíquota zero: análise do Ministério da Saúde está em fase final e indústria pede regra para produtos sem registro",
+    "alcance": "saúde",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "Segundo o Panorama Farmacêutico, a relação de medicamentos com alíquota zero (doenças raras, negligenciadas, câncer, diabetes, HIV/Aids e ISTs) foi encaminhada pela CMED ao Ministério da Saúde, cuja análise está em fase final, e deve chegar à Receita Federal em breve. O Sindusfarma pede que o tratamento de produtos ainda sem registro na Anvisa seja definido no registro; o Grupo FarmaBrasil alerta para insegurança jurídica com estoques levados para 2027. Ainda sem ato oficial.",
+    "impacto": "Hospitais, clínicas, laboratórios e farmácias de manipulação só saberão com certeza quais medicamentos têm alíquota zero (e quais ficam com redução de 60%) quando a lista for publicada; estoques comprados em 2026 podem ter tratamento incerto em 2027.",
+    "acao": "Acompanhar a publicação da lista e não fechar a precificação e o cadastro (NCM) de medicamentos dos clientes antes dela; alertar clientes que mantêm estoque relevante de medicamentos.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Panorama Farmacêutico",
+      "url": "https://panoramafarmaceutico.com.br/ministerio-da-saude-prepara-nova-lista-de-medicamentos-com-aliquota-zero/"
+     }
+    ]
+   },
    {
     "titulo": "Seis entidades da cadeia farmacêutica pedem adiamento de um ano da CBS por risco de desabastecimento de medicamentos",
     "alcance": "saúde",
@@ -22,6 +39,48 @@
      {
       "nome": "Tribuna do Paraná",
       "url": "https://www.tribunapr.com.br/noticias/economia/farmaceuticas-alertam-para-risco-de-desabastecimento-com-reforma-tributaria/"
+     }
+    ]
+   },
+   {
+    "titulo": "Petrobras pede ao governo período de transição sem multas na reforma; Fazenda ainda não respondeu",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "A presidente da Petrobras, Magda Chambriard, disse em fórum no Rio que a proposta de um período de transição \"pelo menos sem multa\" já foi apresentada ao Ministério da Fazenda, por causa da incerteza e do risco de autuações em diferentes estados, segundo Brasil 247 e A Gazeta. Ainda sem ato oficial; o ministro Durigan já havia sinalizado flexibilizar prazos e multas para quem agir de boa-fé.",
+    "impacto": "Reforça a pressão por tolerância com penalidades em 2027, mas nada está formalizado: as regras de multa seguem as vigentes.",
+    "acao": "Manter as obrigações em dia e documentar a boa-fé (registros de adequação de sistemas e notas); acompanhar eventual ato da Fazenda ou da Receita sobre flexibilização.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Brasil 247",
+      "url": "https://www.brasil247.com/economia/petrobras-pede-ao-governo-periodo-de-transicao-sem-multas-na-reforma-tributaria/"
+     },
+     {
+      "nome": "A Gazeta",
+      "url": "https://www.agazeta.com.br/economia/petrobras-pede-ao-governo-periodo-sem-multas-na-reforma-tributaria-1126"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: manifesto da CACB com 1.491 entidades pede começar a reforma em 2028; Abrasca decide posição em 11/11",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "A CACB protocolou em 06/11 na Presidência e na Receita um manifesto de 18 federações e 1.473 associações comerciais pedindo que as etapas de 2027 passem para 01/01/2028, usando 2027 como teste, segundo SpaceMoney. Tributaristas ouvidos pelo Poder360 defendem o mesmo, e a Abrasca (companhias abertas) deve fechar posição em 11/11. O governo mantém janeiro de 2027 e a PEC de Any Ortiz ainda coleta assinaturas; sem ato oficial de adiamento.",
+    "impacto": "O calendário vigente não muda: PIS/Cofins dão lugar à CBS em janeiro de 2027, inclusive para clínicas e consultórios.",
+    "acao": "Não contar com adiamento; manter o cronograma de adequação dos clientes.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "SpaceMoney",
+      "url": "https://www.spacemoney.com.br/economia/legislacao/reforma-tributaria-2028"
+     },
+     {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/reforma-tributaria-2027/tributaristas-defendem-adiar-cobranca-da-cbs-para-2028/"
      }
     ]
    },
@@ -108,8 +167,12 @@
     "evento": "TCU deve enviar ao Senado os estudos que sustentam a alíquota de 11,3% da CBS (ainda sem ato oficial)."
    },
    {
+    "data": "2026-11-10",
+    "evento": "Audiência da CAE do Senado sobre a alíquota da CBS (Requerimento 107/2026, de Izalci Lucas), prevista para a reunião de terça (10/11), segundo a Agência Senado; relator: Eduardo Braga. Algumas fontes citam 11/11."
+   },
+   {
     "data": "2026-11-11",
-    "evento": "Início previsto das audiências da CAE do Senado sobre a alíquota da CBS, segundo a imprensa (a Congresso em Foco cita terça, 10/11, com requerimento REQ 107/2026 aprovado; outras fontes citam quarta, 11/11); relator: Eduardo Braga. Data ainda sem confirmação oficial."
+    "evento": "Abrasca (companhias abertas) deve decidir sua posição sobre o adiamento da reforma, segundo o Poder360."
    },
    {
     "data": "2026-11-15",
