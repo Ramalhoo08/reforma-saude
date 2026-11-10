@@ -386,7 +386,8 @@
    "Em 03/11, segundo o InfoMoney, o relator Eduardo Braga disse discordar dos 11,3% (esperava 8% a 9%) e que o TCU enviará os estudos ao Senado em 10/11. Ainda sem proposta formal de alíquota; sem resolução, vale o número do TCU.",
    "Em 03/11, segundo Metrópoles e Brasil 247, Durigan disse que o TCU apresentou teto de 11,3% e média de cerca de 8,5%, que reduzir a alíquota depende de revisar exceções (discussão a partir de 2027) e que o Senado não pode cortar incentivos já previstos na Constituição antes de 2027. A bancada do agro (FPA) rejeita mudanças. Segundo o Senado, a meta é concluir a votação dos textos prioritários até 17/12. Tudo ainda sem ato oficial.",
    "CNC estima (estudo próprio, sem metodologia divulgada) alta de até 54,3% na carga de segmentos de serviços com a CBS de 11,3% (04/11).",
-   "Em 04/11, segundo Senado Notícias e Reforma Tributária.com, a CAE aprovou audiência pública sobre o cálculo da CBS (REQ 107/2026, Izalci Lucas); a imprensa cita audiências em 10 ou 11/11 e possível adiamento do prazo do Senado até 22/12. No mesmo dia, OAB e CNI pediram adiar a CBS para 2028 e foi protocolada PEC nesse sentido (exigiria 3/5 das duas Casas antes de 01/01/2027); a Fazenda é contra. Tudo sem ato oficial."
+   "Em 04/11, segundo Senado Notícias e Reforma Tributária.com, a CAE aprovou audiência pública sobre o cálculo da CBS (REQ 107/2026, Izalci Lucas); a imprensa cita audiências em 10 ou 11/11 e possível adiamento do prazo do Senado até 22/12. No mesmo dia, OAB e CNI pediram adiar a CBS para 2028 e foi protocolada PEC nesse sentido (exigiria 3/5 das duas Casas antes de 01/01/2027); a Fazenda é contra. Tudo sem ato oficial.",
+   "Em 09/11, segundo estudo da Roit citado pela imprensa (Brasil em Folhas, InfoMoney), a alíquota de 11,3% daria à União cerca de R$ 784 bilhões em 2027 contra R$ 636,8 bilhões no projeto de orçamento (R$ 147 bilhões a mais); a Roit propõe alíquota que resultaria em R$ 9.800 por R$ 100 mil de base. Estimativa privada, sem ato oficial."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -447,9 +448,13 @@
    {
     "nome": "Conjur – Deputada protocola PEC para prorrogar cobranças da reforma para 2028",
     "url": "https://conjur.com.br/2026-nov-04/deputada-protocola-pec-para-adiar-cobrancas-da-reforma-tributaria-para-2028/"
+   },
+   {
+    "nome": "Brasil em Folhas – Governo pode arrecadar R$ 147 bilhões a mais com a CBS",
+    "url": "https://brasilemfolhas.com.br/2026/11/governo-pode-arrecadar-r-147-bilhoes-a-mais-com-a-cbs/"
    }
   ],
-  "atualizadoEm": "2026-11-05"
+  "atualizadoEm": "2026-11-10"
  },
  {
   "id": "renda-lei-15270-dividendos",
@@ -463,7 +468,8 @@
    "Não sofrem retenção os lucros apurados até 2025 cuja distribuição foi aprovada até 31/12/2025 e que sejam pagos conforme o ato de aprovação. Para o IR mínimo, a exclusão vale para pagamentos em 2026, 2027 e 2028. Uma liminar do STF (ADIs 7912 e 7914, de 26/12/2025) estendeu o prazo de aprovação para 31/01/2026; o referendo pelo Plenário não foi confirmado até 18/10/2026.",
    "IR mínimo anual (art. 16-A): renda total acima de R$ 600 mil, com alíquota que sobe de 0 a 10% até R$ 1,2 milhão. Há um redutor quando a carga da PJ somada à da PF passa de 34% (art. 16-B). Empresas fora do Lucro Real podem usar o cálculo simplificado do lucro contábil.",
    "Ponto relacionado: a LC 224/2025 aumentou em 10% os percentuais de presunção do Lucro Presumido sobre a parte da receita anual que passa de R$ 5 milhões, a partir de 2026 (IRPJ) e de abril de 2026 (CSLL).",
-   "Não confirmado: uma instrução normativa específica da Receita para a apuração anual do IR mínimo de 2026 (DAA 2027)."
+   "Não confirmado: uma instrução normativa específica da Receita para a apuração anual do IR mínimo de 2026 (DAA 2027).",
+   "Em novembro/2026, segundo Contábeis e TAGD Advogados, decisões de primeira instância (1ª Vara Federal de Botucatu, 9ª Vara Cível Federal de SP) e liminar do TRF-4 afastam ou limitam a retenção de 10% para as partes envolvidas, com tese de retenção progressiva entre R$ 50 mil e R$ 100 mil; as ADIs no STF seguem sem decisão de mérito. Sem efeito geral."
   ],
   "impacto": "Médicos sócios de clínicas lucrativas que retiram mais de R$ 50 mil por mês da mesma empresa já têm retenção de 10%. Na declaração de 2027, quem passar de R$ 600 mil anuais poderá ter IR complementar, conforme a carga efetiva da PJ. Clínicas no Lucro Presumido com receita acima de R$ 5 milhões pagam mais IRPJ e CSLL.",
   "acao": "Revisar a política de distribuição de lucros dos clientes (calendário, valores por sócio e por empresa) e controlar os pagamentos de lucros de 2025 aprovados até 31/12/2025 ou 31/01/2026. Calcular a alíquota efetiva da PJ para estimar o redutor e simular o IR mínimo de 2026 de cada sócio. Conferir a EFD-Reinf R-4010 e os DARFs 1841.",
@@ -488,8 +494,12 @@
    {
     "nome": "Lei Complementar nº 224/2025 (Planalto)",
     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp224.htm"
+   },
+   {
+    "nome": "Contábeis – Juiz limita retenção de IR sobre dividendos acima de R$ 50 mil",
+    "url": "https://www.contabeis.com.br/noticias/80695/juiz-limita-retencao-de-ir-sobre-dividendos-acima-de-r-50-mil/"
    }
   ],
-  "atualizadoEm": "2026-10-18"
+  "atualizadoEm": "2026-11-10"
  }
 ]

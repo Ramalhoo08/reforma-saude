@@ -1,5 +1,179 @@
 [
  {
+  "data": "2026-11-10",
+  "edicao": 19,
+  "resumo": "Para clientes médicos: um alerta da MV sobre sistemas de hospitais e, para sócios, decisões judiciais sobre a retenção de 10% nos dividendos acima de R$ 50 mil (valem só para as partes). No geral: a Receita liberou novas APIs de apuração da CBS, e um estudo da Roit calcula R$ 147 bilhões a mais para a União com a CBS de 11,3%.",
+  "itens": [
+   {
+    "titulo": "Dividendos: decisões judiciais afastam ou limitam a retenção de 10% do IR acima de R$ 50 mil; STF ainda não decidiu",
+    "alcance": "geral",
+    "tema": "renda",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "Segundo o Contábeis (09/11) e o TAGD Advogados, um juiz federal de Botucatu (SP) decidiu que a retenção sobre lucros mensais entre R$ 50 mil e R$ 100 mil siga alíquota progressiva e manteve os 10% lineares acima de R$ 100 mil. Há ainda sentença da 9ª Vara Cível Federal de São Paulo e liminar do TRF-4 em favor de contribuintes. As decisões valem só para as partes, cabem recursos, e as ADIs contra a Lei 15.270/2025 seguem sem decisão de mérito no STF. Ainda sem ato oficial.",
+    "impacto": "A regra de 10% sobre o total continua valendo para quem não tem decisão própria. Médicos sócios que retiram mais de R$ 50 mil por mês continuam sofrendo a retenção; decisão favorável a outra empresa não vale para os seus clientes.",
+    "acao": "Não suspender a retenção sem decisão judicial própria. Se algum cliente quiser discutir o tema, encaminhar ao jurídico e acompanhar as ADIs no STF.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Contábeis – Juiz limita retenção de IR sobre dividendos acima de R$ 50 mil",
+      "url": "https://www.contabeis.com.br/noticias/80695/juiz-limita-retencao-de-ir-sobre-dividendos-acima-de-r-50-mil/"
+     },
+     {
+      "nome": "TAGD Advogados – Juiz aplica progressividade na retenção de IRPF acima de R$ 50 mil",
+      "url": "https://tagdlaw.com.br/juiz-aplica-progressividade-na-retencao-de-irpf-acima-de-r-50-mil/"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita libera acesso às novas APIs de apuração da CBS",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "A Receita Federal comunicou a liberação das novas APIs (versão 2.0) de consulta à apuração de débitos e créditos de CBS, com consultas incrementais (cada consulta traz só o que mudou desde a anterior). O acesso exige chave gerada no serviço \"Gerar Credencial de Acesso\"; quem tinha chaves antigas deve cancelá-las e gerar novas.",
+    "impacto": "Quem desenvolve ou usa sistemas de gestão (clínicas, hospitais, escritórios) poderá conciliar a apuração da CBS com os documentos fiscais já nos ambientes de teste e beta.",
+    "acao": "Avisar os clientes com sistema próprio e o fornecedor de software; gerar nova credencial para o escritório, se for usar as APIs.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Receita Federal – Receita Federal libera acesso às novas APIs de apuração da CBS",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs"
+     },
+     {
+      "nome": "Fenacon – Receita libera acesso às novas APIs de apuração da CBS",
+      "url": "https://fenacon.org.br/reforma-tributaria/receita-libera-acesso-as-novas-apis-de-apuracao-da-cbs/"
+     }
+    ]
+   },
+   {
+    "titulo": "Estudo da Roit: CBS de 11,3% daria à União R$ 147 bilhões a mais em 2027 que o previsto no orçamento",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "Segundo estudo da consultoria Roit divulgado pela imprensa (Poder360, Brasil em Folhas), com a alíquota de 11,3% a arrecadação federal chegaria a cerca de R$ 784 bilhões, contra R$ 636,8 bilhões no projeto de orçamento. A Roit propõe alíquota que daria R$ 9.800 por R$ 100 mil de base, contra R$ 11.300 com os 11,3% do TCU. É estimativa privada, ainda sem ato oficial; o Senado tem até 15/12 para fixar a alíquota.",
+    "impacto": "Reforça o argumento dos que pedem alíquota menor no Senado. Para os clientes médicos, a redução de 60% incide sobre a alíquota de referência que for fixada.",
+    "acao": "Manter as simulações de 2027 com 11,3% e revisar quando o Senado decidir.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Brasil em Folhas – Governo pode arrecadar R$ 147 bilhões a mais com a CBS",
+      "url": "https://brasilemfolhas.com.br/2026/11/governo-pode-arrecadar-r-147-bilhoes-a-mais-com-a-cbs/"
+     },
+     {
+      "nome": "InfoMoney – CBS de 11,3% surpreende e acende alerta para alta de impostos em 2027",
+      "url": "https://www.infomoney.com.br/business/cbs-de-113-surpreende-e-acende-alerta-para-alta-de-impostos-em-2027/"
+     }
+    ]
+   },
+   {
+    "titulo": "MV alerta que atraso na adequação de sistemas pode pressionar o caixa de hospitais e clínicas",
+    "alcance": "saúde",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "Segundo o Saúde Digital News (09/11), a empresa de software hospitalar MV avisa que deixar a adaptação dos sistemas de gestão para a última hora traz risco de passivos fiscais e perda de benefícios, e que a não cumulatividade plena exigirá controle rigoroso dos créditos sobre compras. É alerta de fornecedor de software, não ato oficial.",
+    "impacto": "Hospitais e clínicas com sistemas pouco preparados tendem a sentir mais o efeito no caixa a partir de 2027.",
+    "acao": "Perguntar aos clientes de saúde se o sistema de gestão já emite documentos com IBS/CBS e controla créditos; cobrar o fornecedor de cronograma.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Saúde Digital News – Atraso na adequação de sistemas à Reforma Tributária ameaça fluxo de caixa de hospitais, alerta MV",
+      "url": "https://saudedigitalnews.com.br/09/11/2026/atraso-na-adequacao-de-sistemas-a-reforma-tributaria-ameaca-fluxo-de-caixa-de-hospitais-alerta-mv/"
+     }
+    ]
+   },
+   {
+    "titulo": "Concessionárias estimam pedágios 5% mais caros em 2027 com a CBS; reajuste depende de cada contrato",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-09",
+    "oQueMudou": "Segundo a ABCR, associação das concessionárias, e a imprensa (BNews, Gazeta de SP), a CBS pode elevar tarifas em cerca de 5%. O cálculo usa CBS de 8,8% e economia tributária de 3%. A ANTT propõe cobrir 60% do impacto líquido e a ABCR pede 80%. Nenhum aumento foi autorizado.",
+    "impacto": "Efeito indireto sobre custos de deslocamento; não muda a tributação dos serviços médicos.",
+    "acao": "Nenhuma ação imediata; acompanhar a decisão da ANTT.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "BNews – Concessionárias apontam que pedágios devem ficar 5% mais caros com a reforma tributária",
+      "url": "https://www.bnews.com.br/noticias/economia-e-mercado/concessionarias-apontam-que-pedagios-devem-ficar-5-mais-caros-com-a-reforma-tributaria.html"
+     },
+     {
+      "nome": "Gazeta de São Paulo – Pedágios podem ficar 5% mais caros em 2027",
+      "url": "https://www.gazetasp.com.br/brasil/pedagios-podem-ficar-5-mais-caros-em-2027-com-reforma-tributaria-entenda-o-que-pode-mudar-nas-rodovias/"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-11-10",
+    "evento": "TCU deve enviar ao Senado os estudos que sustentam a alíquota de 11,3% da CBS (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-11-11",
+    "evento": "Audiências públicas da CAE do Senado sobre a alíquota da CBS (Requerimento 107/2026, de Izalci Lucas) devem começar em 11/11, segundo Agência Senado e imprensa; relator: Eduardo Braga. Datas e convidados ainda não divulgados."
+   },
+   {
+    "data": "2026-11-11",
+    "evento": "Abrasca (companhias abertas) deve decidir sua posição sobre o adiamento da reforma, segundo o Poder360."
+   },
+   {
+    "data": "2026-11-15",
+    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde. Segundo sites do setor, o prazo não é prorrogado mesmo caindo em domingo."
+   },
+   {
+    "data": "2026-11-16",
+    "evento": "Fim do prazo de contribuições à consulta do STF (Edital 05/2026) sobre julgamento conjunto de ações de IBS e CBS."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+   },
+   {
+    "data": "2026-12-01",
+    "evento": "NFS-e com IBS/CBS obrigatória para locações e cessões de imóveis e demais casos residuais (ex.: sublocação de salas)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027 (a imprensa cita possível adiamento até 22/12)."
+   },
+   {
+    "data": "2026-12-17",
+    "evento": "Meta do Senado para concluir a votação dos textos prioritários do ano, entre eles a regulamentação da CBS, segundo a líder do governo (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes."
+   },
+   {
+    "data": "2027-01-20",
+    "evento": "Prazo da Receita para regularização voluntária na Operação Fármacos II (créditos presumidos de PIS/Cofins do setor farmacêutico)."
+   },
+   {
+    "data": "2027-02-02",
+    "evento": "Início da cobrança do Imposto Seletivo, conforme a MP publicada em 04/11/2026 (noventena), segundo a imprensa."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   },
+   {
+    "data": "2027-05-31",
+    "evento": "Prazo para o governo enviar projeto de lei com as alíquotas do Imposto Seletivo de 2028, segundo a imprensa."
+   }
+  ]
+ },
+ {
   "data": "2026-11-09",
   "edicao": 18,
   "resumo": "Para a saúde: a lista de medicamentos com alíquota zero está em fase final de análise no Ministério da Saúde (ainda sem ato oficial) e seis entidades da cadeia farmacêutica pedem adiar a CBS. No geral: Petrobras pede transição sem multas, 1.491 entidades da CACB pedem começar em 2028, o governo mantém janeiro de 2027, o TCU entrega amanhã (10/11) o estudo da CBS ao Senado e os novos tetos do Simples podem ser votados em novembro.",
@@ -167,8 +341,8 @@
     "evento": "TCU deve enviar ao Senado os estudos que sustentam a alíquota de 11,3% da CBS (ainda sem ato oficial)."
    },
    {
-    "data": "2026-11-10",
-    "evento": "Audiência da CAE do Senado sobre a alíquota da CBS (Requerimento 107/2026, de Izalci Lucas), prevista para a reunião de terça (10/11), segundo a Agência Senado; relator: Eduardo Braga. Algumas fontes citam 11/11."
+    "data": "2026-11-11",
+    "evento": "Audiências públicas da CAE do Senado sobre a alíquota da CBS (Requerimento 107/2026, de Izalci Lucas) devem começar em 11/11, segundo Agência Senado e imprensa; relator: Eduardo Braga. Datas e convidados ainda não divulgados."
    },
    {
     "data": "2026-11-11",
