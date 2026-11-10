@@ -2,8 +2,96 @@
  {
   "data": "2026-11-10",
   "edicao": 19,
-  "resumo": "Para clientes médicos: um alerta da MV sobre sistemas de hospitais e, para sócios, decisões judiciais sobre a retenção de 10% nos dividendos acima de R$ 50 mil (valem só para as partes). No geral: a Receita liberou novas APIs de apuração da CBS, e um estudo da Roit calcula R$ 147 bilhões a mais para a União com a CBS de 11,3%.",
+  "resumo": "Para clientes médicos: ambiente Beta da DeRE (operadoras) será atualizado em 11/11, antes da primeira entrega mensal em 15/11; seguem a MV sobre sistemas de hospitais e as decisões judiciais sobre dividendos. No geral: CNI e o senador Izalci pressionam por CBS abaixo de 11,3%, TJSP suspende dez decisões sobre IBS/CBS na base do ICMS, bancos projetam split payment em 98% do B2B em outubro de 2027 e a Receita liberou APIs da CBS.",
   "itens": [
+   {
+    "titulo": "DeRE: ambiente Beta será atualizado em 11/11, às 7h; primeira entrega mensal vence em 15/11",
+    "alcance": "saúde",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-10",
+    "oQueMudou": "A Receita Federal e o Comitê Gestor do IBS avisaram que o ambiente de Produção Beta da DeRE será atualizado em 11/11/2026, às 7h, segundo o CRC-MG, que reproduz o comunicado. O comunicado consultado não detalha as mudanças. A DeRE alcança as operadoras de planos de saúde; os eventos mensais (competência de outubro) começam em 15/11.",
+    "impacto": "Atinge operadoras e cooperativas operadoras de planos. Clínicas, hospitais e médicos que apenas prestam atendimento não entregam a DeRE.",
+    "acao": "Se houver cliente operadora de plano de saúde, conferir a atualização do Beta antes de transmitir os eventos de 15/11 e ler o comunicado completo da Receita.",
+    "prazo": "2026-11-15",
+    "fontes": [
+     {
+      "nome": "Receita Federal – Reforma Tributária: Atualização do Ambiente Beta da DeRE",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
+     },
+     {
+      "nome": "CRC-MG – Atualização do Ambiente Beta da DeRE",
+      "url": "https://crcmg.org.br/noticias/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere/"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: TJSP suspende dez decisões que tiravam IBS e CBS da base do ICMS",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-10",
+    "oQueMudou": "Segundo o Conjur e a imprensa jurídica, o presidente do TJSP suspendeu os efeitos de dez decisões (três sentenças e sete liminares) que permitiam excluir IBS e CBS da base de cálculo do ICMS, a pedido do Estado de SP, citando risco de perda anual de cerca de R$ 10,2 bilhões a partir de 2027. A decisão não declara definitivamente legítima a inclusão; o mérito segue nas ações de origem.",
+    "impacto": "A tese do contribuinte perde força em SP no curto prazo; a inclusão de IBS/CBS na base do ICMS em 2027 continua em disputa. Afeta empresas contribuintes de ICMS, como comércio de produtos de saúde; prestadores de serviço médico (ISS) não são diretamente atingidos.",
+    "acao": "Acompanhar; não contar com a exclusão na base do ICMS no planejamento de 2027 de clientes que comercializam mercadorias.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Conjur – TJ-SP suspende decisões e mantém IBS e CBS na base do ICMS",
+      "url": "https://conjur.com.br/2026-nov-10/tj-sp-suspende-decisoes-que-afastavam-ibs-e-cbs-da-base-do-icms/"
+     },
+     {
+      "nome": "Rota da Jurisprudência – TJ-SP suspende decisões que excluíam IBS e CBS da base do ICMS",
+      "url": "https://rotadajurisprudencia.com.br/2026/11/tj-sp-suspende-decisoes-que-excluiam-ibs-e-cbs-da-base-de-calculo-do-icms/"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: CNI pede revisão da CBS de 11,3% e propõe outro período de cálculo; Izalci apresenta projeto para reduzir a alíquota se a arrecadação passar do teto",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-10",
+    "oQueMudou": "Segundo o Brasil 247 e o Contábeis, a CNI contesta o período usado pelo TCU (média de 2012 a 2021) e propõe dados mais recentes, o que reduziria a CBS de 11,3% para 10,3%; o Brasil em Folhas cita 10,8% e a Poder360 também, então o número da CNI varia entre as reportagens. Segundo o Jornal Opção, o senador Izalci Lucas apresentou projeto de lei complementar para baixar a alíquota quando a arrecadação federal superar o teto da reforma, antecipando o ajuste que hoje só vale a partir de 2030. Tudo ainda sem ato oficial; o Senado fixa a alíquota até 15/12.",
+    "impacto": "Aumenta a chance de pressão por alíquota menor que 11,3%, mas nada foi decidido. Para os clientes médicos, a redução de 60% incide sobre a alíquota que o Senado fixar.",
+    "acao": "Manter as simulações em 11,3% e revisar quando o Senado publicar a resolução.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Brasil 247 – Indústria propõe mudança no cálculo da CBS para reduzir alíquota de 11,3% para 10,3%",
+      "url": "https://www.brasil247.com/industria/industria-propoe-mudanca-no-calculo-da-cbs-para-reduzir-aliquota-de-113-para-103/"
+     },
+     {
+      "nome": "Contábeis – CNI questiona CBS de 11,3% e pede revisão ao Senado",
+      "url": "https://www.contabeis.com.br/noticias/80614/cni-questiona-cbs-de-11-3-e-pede-revisao-ao-senado/"
+     },
+     {
+      "nome": "Jornal Opção – Senador Izalci propõe reduzir imposto federal se arrecadação superar limite previsto na reforma",
+      "url": "https://entorno.jornalopcao.com.br/economia/senador-izalci-propoe-reduzir-imposto-federal-se-arrecadacao-superar-limite-previsto-na-reforma-tributaria-36038/"
+     }
+    ]
+   },
+   {
+    "titulo": "Split payment: bancos (Fin) estimam cobrir 98% das operações entre empresas em outubro de 2027; Receita fala em uso facultativo em 2027",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-10",
+    "oQueMudou": "Segundo G1, Estadão e Poder360, a Confederação Nacional das Instituições Financeiras (Fin) estima que cerca de 98% dos pagamentos entre empresas (B2B) estarão cobertos pelo split payment a partir de outubro de 2027; cartões ficam para a segunda etapa. Segundo uma das reportagens, a Receita informou que a adoção é facultativa em 2027 e obrigatória só em 2028. É projeção do setor financeiro, sem ato oficial.",
+    "impacto": "O recolhimento automático do imposto no pagamento pode afetar o fluxo de caixa de clínicas e médicos que vendem para empresas, mas ainda sem regra obrigatória definida para 2027.",
+    "acao": "Acompanhar a regulamentação e avisar clientes que o caixa poderá mudar a partir do segundo semestre de 2027; sem providência agora.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Sem Pauta News – Split payment: 98% das operações devem estar cobertas a partir de outubro de 2027, estima confederação",
+      "url": "https://sempauta.com.br/noticia/52684/split-payment-98-das-operacoes-devem-estar-cobertas-a-partir-de-outubro-de-2027-estima-confederacao.html"
+     },
+     {
+      "nome": "Sem Pauta News – Tributária: Bancos preveem implementação do split payment até outubro de 2027",
+      "url": "https://sempauta.com.br/noticia/52699/tributaria-bancos-preveem-implementacao-do-split-payment-para-empresas-ate-outubro-de-2027.html"
+     }
+    ]
+   },
    {
     "titulo": "Dividendos: decisões judiciais afastam ou limitam a retenção de 10% do IR acima de R$ 50 mil; STF ainda não decidiu",
     "alcance": "geral",
@@ -110,6 +198,10 @@
    {
     "data": "2026-11-10",
     "evento": "TCU deve enviar ao Senado os estudos que sustentam a alíquota de 11,3% da CBS (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-11-11",
+    "evento": "Atualização do ambiente Beta da DeRE, às 7h, segundo a Receita Federal/CGIBS (conteúdo da atualização não detalhado no comunicado consultado)."
    },
    {
     "data": "2026-11-11",
