@@ -2,8 +2,138 @@
  {
   "data": "2026-11-11",
   "edicao": 20,
-  "resumo": "Sem fato novo específico da saúde hoje. No geral, o TCU entregou ao Senado o cálculo da CBS de 11,3% (prazo do Senado: 15/12), a sessão da CAE com Durigan ficou para 17/11, e deputados admitem rever isenções se o IVA passar de 26,5%, mas descartam adiar a reforma.",
+  "resumo": "Para clientes médicos: segundo a imprensa, a Receita concluiu que o home care entre empresas tem retenção de IRPJ, CSLL, PIS e Cofins. No geral, a Receita confirmou a CBS em janeiro de 2027, sem multa para quem agir de boa-fé, e vai propor pagamento definitivo 30 dias depois (opcional); a NF-e do Simples vai a março. Também disse que a CBS cairia a 8,5% sem as isenções. O Senado ouve Durigan e o TCU em 17/11 e a FGV e a OAB em 18/11.",
   "itens": [
+   {
+    "titulo": "Home care entre empresas: Receita diz que serviços médicos têm retenção de IRPJ, CSLL, PIS e Cofins",
+    "alcance": "saúde",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-11",
+    "oQueMudou": "Segundo a imprensa especializada (Atlas Público, Contadores), a Solução de Consulta nº 4.042, da Superintendência da 4ª Região Fiscal, assinada em 09/11 e publicada no DOU de 11/11/2026, concluiu que os serviços médicos de home care prestados entre empresas sofrem retenção na fonte de IRPJ, CSLL, PIS e Cofins. Só ficam fora da retenção os serviços de ambulatório, banco de sangue, casa de saúde, casa de recuperação ou repouso sob orientação médica, hospital e pronto-socorro. Não conferimos o texto integral no site da Receita; o número da consulta vem da imprensa.",
+    "impacto": "Empresas de home care que prestam serviço a outras empresas (por exemplo, operadoras e hospitais) podem passar a ter valores retidos na fonte pelo tomador. Solução de consulta orienta a Receita, mas a regra geral de retenção já existia e a tese não é nova para o setor.",
+    "acao": "Conferir o texto da solução de consulta no site da Receita e checar se algum cliente de home care sofre ou deixou de reter; avisar os clientes afetados e revisar a conciliação de retenções e o fluxo de caixa.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Atlas Público – Receita Federal: serviços médicos de home care prestados entre empresas têm retenção de IRPJ, CSLL, PIS e Cofins",
+      "url": "https://atlaspublico.com.br/noticias/receita-federal-servicos-medicos-de-home-care-prestados-100597"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita anuncia adiar para março de 2027 a NF-e e NFC-e do Simples; NFS-e de serviços segue obrigatória",
+    "alcance": "geral",
+    "tema": "simples",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-11",
+    "oQueMudou": "Em coletiva em 11/11, o secretário da Receita, Robinson Barreirinhas, anunciou, segundo BPMoney e SpaceMoney, que a exigência dos novos modelos de NF-e e NFC-e para empresas do Simples Nacional que vendem mercadorias passa de janeiro para março de 2027. A prestação de serviços fica de fora: a NFS-e continua obrigatória desde o início de novembro e, segundo ele, está pronta para o destaque automático da CBS. Não encontramos a nota oficial; ainda sem ato publicado.",
+    "impacto": "Para clínicas e médicos no Simples, que emitem NFS-e, nada muda: a nota de serviço segue valendo nas regras atuais. O adiamento alcança quem vende mercadorias (fornecedores, por exemplo).",
+    "acao": "Confirmar que os clientes do Simples emitem NFS-e Nacional corretamente; acompanhar o ato oficial do adiamento de NF-e/NFC-e para os clientes que também vendem produtos.",
+    "prazo": "2027-03-01",
+    "fontes": [
+     {
+      "nome": "BPMoney – Receita adia para março de 2027 emissão de notas fiscais do Simples, exceto serviços",
+      "url": "https://bpmoney.com.br/economia/receita-adia-marco-2027-nota-fiscal-simples-nacional/"
+     },
+     {
+      "nome": "SpaceMoney – Notas fiscais do Simples Nacional: prazo vai a março de 2027",
+      "url": "https://www.spacemoney.com.br/noticias/simples-nacional-prazo-notas-fiscais"
+     }
+    ]
+   },
+   {
+    "titulo": "Governo vai propor ao Congresso adiar em 30 dias, de forma opcional, o pagamento definitivo da CBS em 2027",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-11",
+    "oQueMudou": "Segundo Agência Brasil, Bahia Notícias e Money Times, Barreirinhas anunciou em 11/11 que o governo enviará ao Congresso uma regra opcional para adiar em um mês o recolhimento definitivo da CBS em 2027 (o primeiro pagamento iria para fevereiro). A CBS continua valendo em janeiro de 2027, e a empresa poderia apurar com estimativa de créditos e corrigir a diferença no mês seguinte. Depende de aprovação do Congresso e ainda não há texto nem ato oficial.",
+    "impacto": "Alivia o caixa e o trabalho do primeiro mês, mas só vale se for aprovado. O calendário de 01/01/2027 se mantém e a Receita descartou adiar a reforma.",
+    "acao": "Preparar a apuração de janeiro/2027 sem contar com o adiamento; acompanhar o envio do texto ao Congresso.",
+    "prazo": "2027-01-01",
+    "fontes": [
+     {
+      "nome": "Agência Brasil – Governo apresentará texto que facilita adaptação à reforma tributária",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-apresentara-texto-que-facilita-adaptacao-a-reforma-tributaria"
+     },
+     {
+      "nome": "Bahia Notícias – Receita propõe prazo extra de 30 dias para pagamento definitivo da CBS",
+      "url": "https://www.bahianoticias.com.br/noticia/323558-receita-propoe-prazo-extra-de-30-dias-para-pagamento-definitivo-da-cbs"
+     },
+     {
+      "nome": "Money Times – Receita anuncia medidas para facilitar transição",
+      "url": "https://www.moneytimes.com.br/receita-anuncia-medidas-para-facilitar-transicao-da-reforma-tributaria/"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita confirma CBS em janeiro de 2027 e promete não multar quem agir de boa-fé; programa de conformidade sai em breve",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-11",
+    "oQueMudou": "Segundo BPMoney, SBT News e InvestNews, a Receita descartou adiar a reforma e disse que não multará o contribuinte que agir de boa-fé e não omitir informações, mesmo errando na apuração, dentro de um programa de conformidade que deve ser publicado entre esta semana e a próxima. Barreirinhas defendeu que a proteção não se limite a 2027. Ainda sem ato oficial; a inércia do contribuinte não é protegida.",
+    "impacto": "Reduz o risco de multa nos erros de início, mas só vale com registro de que a empresa tentou acertar. As regras exatas dependem do programa de conformidade, ainda não publicado.",
+    "acao": "Documentar as decisões e interpretações tomadas pelos clientes na implantação e acompanhar a publicação do programa de conformidade.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "BPMoney – Receita confirma CBS em janeiro de 2027 e garante que erros de boa-fé não serão multados",
+      "url": "https://bpmoney.com.br/economia/receita-confirma-cbs-2027-sem-multa-erros-boa-fe/"
+     },
+     {
+      "nome": "SBT News – Reforma tributária não punirá erros de boa-fé, diz Receita",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/reforma-tributaria-nao-punira-erros-de-boa-fe-diz-receita"
+     },
+     {
+      "nome": "InvestNews – CBS: Receita diz não vai multar empresa que agir de 'boa-fé'",
+      "url": "https://investnews.com.br/economia/receita-mantem-reforma-tributaria-em-2027/"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita: sem as isenções a CBS média seria de 8,5%; reduzir os 11,3% exigiria revisar benefícios",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-11",
+    "oQueMudou": "Segundo Metrópoles e BPMoney, Barreirinhas disse em 11/11 que, sem computar as isenções, a alíquota média da CBS ficaria em torno de 8,5%, e que reduzir a alíquota geral no Congresso exigiria rever benefícios, reduções de alíquota ou alíquotas zero (\"alguém vai ter que pagar a conta\"). O Senado fixa a alíquota até 15/12. Declaração de autoridade, ainda sem proposta formal.",
+    "impacto": "Reforça o risco de que benefícios setoriais entrem na negociação, incluindo a redução de 60% da saúde, se o Senado quiser baixar os 11,3%. Hoje não há proposta que mexa na saúde.",
+    "acao": "Seguir simulando com 11,3% e avisar os clientes médicos se algum texto citar a redução de 60% da saúde.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Metrópoles – CBS: Receita diz que, sem isenções, novo imposto cairia de 11,3% para 8,5%",
+      "url": "https://www.metropoles.com/brasil/cbs-receita-diz-que-sem-isencoes-novo-imposto-cairia-de-113-para-85"
+     },
+     {
+      "nome": "BPMoney – CBS cairia a 8,5% sem benefícios do Congresso, diz Receita",
+      "url": "https://bpmoney.com.br/economia/cbs-sem-beneficios-congresso-cairia-85-por-cento-2027-receita/"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: carta de 74 entidades pede prorrogar os testes da reforma até o fim de 2027; Appy defende o mesmo",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-11",
+    "oQueMudou": "Segundo BPMoney e Midiamax, 74 entidades empresariais (uma reportagem fala em 75) assinaram carta aberta pedindo que a cobrança dos novos tributos só comece em 01/01/2028, citando instabilidade de sistemas e a falta de split payment entre empresas. Segundo o Poder360, Bernard Appy defende estender os testes até o fim de 2027. O governo descarta adiar a reforma e propõe só o pagamento opcional em 30 dias; qualquer adiamento exigiria PEC.",
+    "impacto": "A pressão por adiamento continua, mas o governo mantém 2027. O risco para o planejamento é baixo no curto prazo.",
+    "acao": "Manter o preparo para 01/01/2027.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "BPMoney – Setor produtivo pede adiar novos tributos para 2028",
+      "url": "https://bpmoney.com.br/economia/setor-produtivo-pede-adiar-novos-tributos-2028/"
+     },
+     {
+      "nome": "Midiamax – Entidades empresariais pedem adiamento da Reforma Tributária para 2028",
+      "url": "https://midiamax.com.br/cotidiano/2026/entidades-empresariais-pedem-adiamento-reforma-tributaria-2028/"
+     }
+    ]
+   },
    {
     "titulo": "Fato novo: TCU entregou ao Senado o acórdão da CBS de 11,3%; Durigan e o presidente do TCU devem ir à CAE em 17/11 (e não em 11/11)",
     "alcance": "geral",
@@ -49,10 +179,6 @@
   ],
   "agenda": [
    {
-    "data": "2026-11-11",
-    "evento": "Atualização do ambiente Beta da DeRE, às 7h, segundo a Receita Federal/CGIBS; quem integra com o evento PGCC (operadoras de planos de saúde) deve atualizar o XSD."
-   },
-   {
     "data": "2026-11-15",
     "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde. Segundo sites do setor, o prazo não é prorrogado mesmo caindo em domingo."
    },
@@ -63,6 +189,14 @@
    {
     "data": "2026-11-17",
     "evento": "Sessão da CAE do Senado sobre a alíquota da CBS, com Durigan e o presidente do TCU, segundo O Povo (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-11-18",
+    "evento": "Segunda audiência da CAE do Senado sobre a alíquota da CBS, com FGV, OAB e especialistas, segundo a imprensa (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-11-23",
+    "evento": "Vencem os primeiros 60 dias da MP 1.399 do Imposto Seletivo, prorrogáveis por mais 60, segundo a imprensa."
    },
    {
     "data": "2026-11-30",
@@ -99,6 +233,10 @@
    {
     "data": "2027-02-02",
     "evento": "Início da cobrança do Imposto Seletivo, conforme a MP publicada em 04/11/2026 (noventena), segundo a imprensa."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Novo prazo anunciado pela Receita (ainda sem ato oficial) para NF-e e NFC-e do Simples Nacional que vendem mercadorias; NFS-e de serviços não muda."
    },
    {
     "data": "2027-03-01",

@@ -235,7 +235,8 @@
    "Sublimite de R$ 3,6 milhões passa a considerar o IBS, além de ICMS e ISS; a Defis passa a ser informada no PGDAS-D, de janeiro a março.",
    "Em 16/10/2026 a Receita contava 917.331 pedidos de opção pelo regime regular de IBS/CBS.",
    "Em 29/10/2026 a Receita informou 1.000.142 optantes pelo regime regular de IBS/CBS; o prazo de 30/10 não seria prorrogado e o cancelamento vai até 20/12/2026.",
-   "PLP 108/2021: o relator diz ter compromisso do presidente da Câmara para votar em novembro tetos de R$ 870 mil (ME) e R$ 8,7 milhões (EPP), de forma gradual até 2029; ainda sem votação marcada."
+   "PLP 108/2021: o relator diz ter compromisso do presidente da Câmara para votar em novembro tetos de R$ 870 mil (ME) e R$ 8,7 milhões (EPP), de forma gradual até 2029; ainda sem votação marcada.",
+   "Em 11/11, segundo BPMoney, a Receita anunciou adiar para março de 2027 a exigência de NF-e e NFC-e no novo modelo para o Simples que vende mercadorias; a NFS-e de serviços não muda. Ainda sem ato oficial."
   ],
   "impacto": "Para a clínica do Simples que atende principalmente pacientes pessoa física e operadoras, sair do DAS tende a trazer pouco benefício de crédito ao tomador e mais trabalho. Para quem presta a empresas do regime regular (hospitais, medicina do trabalho para empresas), o crédito integral pode fazer diferença no preço. O fim do regime de caixa antecipa o imposto de quem fatura e só recebe depois (convênios com prazo longo).",
   "acao": "Até 30/10/2026, simular para cada cliente do Simples as duas opções (DAS × regime regular), olhando o perfil dos tomadores, a margem e as compras com crédito. Registrar a decisão por escrito com o cliente. Ajustar o fluxo de caixa de 2027 de quem hoje usa regime de caixa. Lembrar da janela de cancelamento de 03/11 a 20/12/2026.",
@@ -268,9 +269,13 @@
    {
     "nome": "Fenacon",
     "url": "https://fenacon.org.br/noticias/votacao-de-novo-teto-do-simples-pode-ocorrer-ainda-em-2026-afirmam-deputados/"
+   },
+   {
+    "nome": "BPMoney – Receita adia para março de 2027 emissão de notas fiscais do Simples, exceto serviços",
+    "url": "https://bpmoney.com.br/economia/receita-adia-marco-2027-nota-fiscal-simples-nacional/"
    }
   ],
-  "atualizadoEm": "2026-11-09"
+  "atualizadoEm": "2026-11-11"
  },
  {
   "id": "creditos-split-payment",
@@ -394,7 +399,8 @@
    "Em 04/11, segundo Senado Notícias e Reforma Tributária.com, a CAE aprovou audiência pública sobre o cálculo da CBS (REQ 107/2026, Izalci Lucas); a imprensa cita audiências em 10 ou 11/11 e possível adiamento do prazo do Senado até 22/12. No mesmo dia, OAB e CNI pediram adiar a CBS para 2028 e foi protocolada PEC nesse sentido (exigiria 3/5 das duas Casas antes de 01/01/2027); a Fazenda é contra. Tudo sem ato oficial.",
    "Em 09/11, segundo estudo da Roit citado pela imprensa (Brasil em Folhas, InfoMoney), a alíquota de 11,3% daria à União cerca de R$ 784 bilhões em 2027 contra R$ 636,8 bilhões no projeto de orçamento (R$ 147 bilhões a mais); a Roit propõe alíquota que resultaria em R$ 9.800 por R$ 100 mil de base. Estimativa privada, sem ato oficial.",
    "Em 10/11, segundo Brasil 247 e Contábeis, a CNI contestou o período do cálculo do TCU (2012 a 2021) e propôs dados mais recentes, que reduziriam a CBS para 10,3% (outras reportagens citam 10,8%). Segundo o Jornal Opção, o senador Izalci Lucas apresentou projeto de lei complementar para reduzir a alíquota quando a arrecadação federal superar o teto da reforma. Tudo sem ato oficial.",
-   "Em 10/11, segundo o Senado Notícias, o TCU entregou o acórdão (11,3%) ao Senado; o prazo para fixar a alíquota segue 15/12. Segundo O Povo, a sessão da CAE com Durigan e o presidente do TCU foi marcada para 17/11, não 11/11. Também em 10/11, segundo a Agência Brasil, deputados admitiram rever isenções se o IVA passar de 26,5% e descartaram adiar a reforma. Tudo sem ato oficial."
+   "Em 10/11, segundo o Senado Notícias, o TCU entregou o acórdão (11,3%) ao Senado; o prazo para fixar a alíquota segue 15/12. Segundo O Povo, a sessão da CAE com Durigan e o presidente do TCU foi marcada para 17/11, não 11/11. Também em 10/11, segundo a Agência Brasil, deputados admitiram rever isenções se o IVA passar de 26,5% e descartaram adiar a reforma. Tudo sem ato oficial.",
+   "Em 11/11, segundo Metrópoles e BPMoney, o secretário da Receita disse que sem as isenções a alíquota média seria de cerca de 8,5% e que reduzir os 11,3% exigiria rever benefícios e alíquotas reduzidas. Segundo a imprensa, a CAE ouve Durigan e o TCU em 17/11 e FGV e OAB em 18/11. Ainda sem ato oficial."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -479,6 +485,10 @@
    {
     "nome": "Agência Brasil – Deputados admitem rever isenções se IVA superar 26,5%",
     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/deputados-admitem-rever-isencoes-se-iva-superar-265"
+   },
+   {
+    "nome": "Metrópoles – CBS: Receita diz que, sem isenções, novo imposto cairia de 11,3% para 8,5%",
+    "url": "https://www.metropoles.com/brasil/cbs-receita-diz-que-sem-isencoes-novo-imposto-cairia-de-113-para-85"
    }
   ],
   "atualizadoEm": "2026-11-11"
