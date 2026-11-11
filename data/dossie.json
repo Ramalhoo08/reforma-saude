@@ -393,7 +393,8 @@
    "CNC estima (estudo próprio, sem metodologia divulgada) alta de até 54,3% na carga de segmentos de serviços com a CBS de 11,3% (04/11).",
    "Em 04/11, segundo Senado Notícias e Reforma Tributária.com, a CAE aprovou audiência pública sobre o cálculo da CBS (REQ 107/2026, Izalci Lucas); a imprensa cita audiências em 10 ou 11/11 e possível adiamento do prazo do Senado até 22/12. No mesmo dia, OAB e CNI pediram adiar a CBS para 2028 e foi protocolada PEC nesse sentido (exigiria 3/5 das duas Casas antes de 01/01/2027); a Fazenda é contra. Tudo sem ato oficial.",
    "Em 09/11, segundo estudo da Roit citado pela imprensa (Brasil em Folhas, InfoMoney), a alíquota de 11,3% daria à União cerca de R$ 784 bilhões em 2027 contra R$ 636,8 bilhões no projeto de orçamento (R$ 147 bilhões a mais); a Roit propõe alíquota que resultaria em R$ 9.800 por R$ 100 mil de base. Estimativa privada, sem ato oficial.",
-   "Em 10/11, segundo Brasil 247 e Contábeis, a CNI contestou o período do cálculo do TCU (2012 a 2021) e propôs dados mais recentes, que reduziriam a CBS para 10,3% (outras reportagens citam 10,8%). Segundo o Jornal Opção, o senador Izalci Lucas apresentou projeto de lei complementar para reduzir a alíquota quando a arrecadação federal superar o teto da reforma. Tudo sem ato oficial."
+   "Em 10/11, segundo Brasil 247 e Contábeis, a CNI contestou o período do cálculo do TCU (2012 a 2021) e propôs dados mais recentes, que reduziriam a CBS para 10,3% (outras reportagens citam 10,8%). Segundo o Jornal Opção, o senador Izalci Lucas apresentou projeto de lei complementar para reduzir a alíquota quando a arrecadação federal superar o teto da reforma. Tudo sem ato oficial.",
+   "Em 10/11, segundo o Senado Notícias, o TCU entregou o acórdão (11,3%) ao Senado; o prazo para fixar a alíquota segue 15/12. Segundo O Povo, a sessão da CAE com Durigan e o presidente do TCU foi marcada para 17/11, não 11/11. Também em 10/11, segundo a Agência Brasil, deputados admitiram rever isenções se o IVA passar de 26,5% e descartaram adiar a reforma. Tudo sem ato oficial."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -466,9 +467,21 @@
    {
     "nome": "Jornal Opção – Izalci propõe reduzir imposto federal se arrecadação superar limite",
     "url": "https://entorno.jornalopcao.com.br/economia/senador-izalci-propoe-reduzir-imposto-federal-se-arrecadacao-superar-limite-previsto-na-reforma-tributaria-36038/"
+   },
+   {
+    "nome": "Senado Notícias – Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs"
+   },
+   {
+    "nome": "O Povo – Calheiros afirma que Durigan participará de sessão da CAE",
+    "url": "https://www.opovo.com.br/noticias/economia/2026/11/10/calheiros-afirma-que-durigan-participara-de-sessao-da-cae-para-debater-aliquota-da-cbs.html"
+   },
+   {
+    "nome": "Agência Brasil – Deputados admitem rever isenções se IVA superar 26,5%",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/deputados-admitem-rever-isencoes-se-iva-superar-265"
    }
   ],
-  "atualizadoEm": "2026-11-10"
+  "atualizadoEm": "2026-11-11"
  },
  {
   "id": "renda-lei-15270-dividendos",
