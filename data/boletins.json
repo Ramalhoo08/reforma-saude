@@ -2,7 +2,7 @@
  {
   "data": "2026-11-12",
   "edicao": 21,
-  "resumo": "Para clientes médicos: a CAS do Senado aprovou projeto que mantém créditos de CBS/IBS para entidades filantrópicas de saúde (ainda vai à CAE). No geral, o TCU pede prioridade às normas críticas e ao plano do split payment, e o Sescon-SP vai à Justiça contra IBS/CBS na base do ISS paulistano.",
+  "resumo": "Para clientes médicos: a CAS do Senado aprovou projeto que mantém créditos de CBS/IBS para entidades filantrópicas de saúde (ainda vai à CAE). No geral, o TCU pede prioridade às normas críticas e ao plano do split payment, e o Sescon-SP vai à Justiça contra IBS/CBS na base do ISS paulistano. Rodada das 17h: Comitê Gestor do IBS anuncia prorrogação da DeRE (novo prazo a confirmar; atinge operadoras); Senado analisa o PLP 299/2026 do ajuste fiscal, que mexe no lucro presumido acima de R$ 5 milhões; MP do Imposto Seletivo recebe 179 emendas.",
   "itens": [
    {
     "titulo": "CAS do Senado aprova projeto que mantém créditos de CBS/IBS para entidades filantrópicas de saúde; texto segue para a CAE",
@@ -66,12 +66,83 @@
       "url": "https://www.bra1.com.br/economia/id-724593/sindicado_de_contabeis_processa_prefeitura_de_sp_para_barrar_aumento_do_imposto_sobre_servicos"
      }
     ]
+   },
+   {
+    "titulo": "DeRE: Comitê Gestor do IBS anuncia que prorrogou a declaração; novo prazo ainda não confirmado",
+    "alcance": "saúde",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-12",
+    "oQueMudou": "O Comitê Gestor do IBS publicou a notícia \"CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE em reunião em Joinville\" (também registrada pelo Comsefaz). Nas buscas desta rodada não foi possível ler o texto, então o novo prazo e o alcance da prorrogação não estão confirmados. Até aqui, a primeira entrega mensal (competência outubro/2026) vencia em 15/11, domingo, sem prorrogação em fim de semana.",
+    "impacto": "A DeRE alcança as operadoras de planos de saúde, e não os médicos e clínicas que apenas atendem pacientes. Para clientes que são operadoras ou cooperativas médicas com plano, o prazo de 15/11 pode ter mudado.",
+    "acao": "Abrir a notícia no site do CGIBS e conferir o novo prazo antes de 15/11; só então avisar os clientes que são operadoras.",
+    "prazo": "2026-11-15",
+    "fontes": [
+     {
+      "nome": "CGIBS - CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE",
+      "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville"
+     },
+     {
+      "nome": "Contábeis - DeRE: CGIBS e RFB esclarecem prazos de entrega",
+      "url": "https://www.contabeis.com.br/noticias/79034/dere-cgibs-e-rfb-esclarecem-prazos-de-entrega/"
+     }
+    ]
+   },
+   {
+    "titulo": "PLP 299/2026 (ajuste fiscal): Senado analisa elevar em 20% a base do lucro presumido acima de R$ 5 milhões e limitar créditos a 80%",
+    "alcance": "geral",
+    "tema": "renda",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-12",
+    "oQueMudou": "Segundo a imprensa, o projeto de lei complementar, relatado por Eduardo Braga, eleva em 20% os percentuais de presunção do lucro presumido sobre a parcela da receita bruta anual acima de R$ 5 milhões, amplia de 10% para 20% o corte de benefícios da LC 224/2025, limita a 80% o aproveitamento de créditos tributários e reduz o teto de alta real das despesas para 2% ao ano. Impacto estimado em R$ 50 a 60 bilhões em 2027. A votação foi suspensa na quarta (11) e remarcada para quinta (12) às 16h, podendo ficar para a próxima semana; precisa de 41 votos e depois vai à Câmara. Fenacon, CNI e OAB criticam; Fiesp calcula alta de até R$ 40 bilhões nos impostos. Ainda sem ato oficial.",
+    "impacto": "Empresas e clínicas no lucro presumido com receita acima de R$ 5 milhões por ano podem pagar mais IRPJ e CSLL em 2027. Não está confirmado como o texto trata os percentuais reduzidos de serviços hospitalares.",
+    "acao": "Acompanhar a votação e simular o efeito nos clientes médicos PJ no lucro presumido acima de R$ 5 milhões; não alterar planejamento antes da aprovação.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "O Tempo - Alcolumbre suspende sessão e adia votação do pacote fiscal",
+      "url": "https://www.otempo.com.br/politica/congresso/2026/11/11/alcolumbre-suspende-sessao-e-adia-votacao-de-pacote-fiscal-que-pode-melhorar-contas-em-r-54-bilhoes"
+     },
+     {
+      "nome": "Rota da Jurisprudência - Senado pode votar projeto que eleva em 20% os percentuais de presunção",
+      "url": "https://rotadajurisprudencia.com.br/2026/11/ajuste-fiscal-senado-pode-votar-hoje-projeto-que-eleva-em-20-os-percentuais-de-presuncao-do-lucro-presumido-e-amplia-cobranca-de-impostos/"
+     },
+     {
+      "nome": "Senado - PLP 299/2026",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: MP do Imposto Seletivo recebeu cerca de 179 emendas, mais da metade para reduzir a tributação",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-12",
+    "oQueMudou": "Segundo a imprensa, o prazo de emendas à MP 1.399/2026 terminou em 10/11 com 179 emendas (duas retiradas), a maioria para excluir produtos ou reduzir alíquotas (agro, veículos, bebidas). Antes noticiavam-se 99. Os primeiros 60 dias da MP vencem em 23/11 e a cobrança começa em 02/02/2027. Ainda sem ato oficial de mudança.",
+    "impacto": "Alíquotas e produtos do Imposto Seletivo podem mudar no Congresso. Para clínicas e médicos, o efeito é indireto (preço de insumos e veículos).",
+    "acao": "Acompanhar a comissão mista e a votação; sem ação imediata para clientes médicos.",
+    "prazo": "2026-11-23",
+    "fontes": [
+     {
+      "nome": "Canal Rural - Emendas ao Imposto Seletivo incluem pedidos de isenção para itens ligados ao agro",
+      "url": "https://www.canalrural.com.br/politica/emendas-ao-imposto-seletivo-incluem-pedidos-de-isencao-para-itens-ligados-ao-agro/"
+     },
+     {
+      "nome": "Boca - Deputados e senadores apresentam emendas à MP do Imposto Seletivo",
+      "url": "https://boca.com.br/politica/deputados-senadores-emendas-mp-imposto-seletivo"
+     }
+    ]
    }
   ],
   "agenda": [
    {
     "data": "2026-11-15",
     "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde. Segundo sites do setor, o prazo não é prorrogado mesmo caindo em domingo."
+   },
+   {
+    "data": "2026-11-13",
+    "evento": "Receita e CGIBS preveem publicar o formulário de adesão aos testes da Plataforma Pública do split payment; inscrições diretas de prestadores de pagamento em 16/11, segundo o Contábeis (previsão)."
    },
    {
     "data": "2026-11-16",
