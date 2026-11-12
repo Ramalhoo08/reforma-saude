@@ -400,7 +400,8 @@
    "Em 09/11, segundo estudo da Roit citado pela imprensa (Brasil em Folhas, InfoMoney), a alíquota de 11,3% daria à União cerca de R$ 784 bilhões em 2027 contra R$ 636,8 bilhões no projeto de orçamento (R$ 147 bilhões a mais); a Roit propõe alíquota que resultaria em R$ 9.800 por R$ 100 mil de base. Estimativa privada, sem ato oficial.",
    "Em 10/11, segundo Brasil 247 e Contábeis, a CNI contestou o período do cálculo do TCU (2012 a 2021) e propôs dados mais recentes, que reduziriam a CBS para 10,3% (outras reportagens citam 10,8%). Segundo o Jornal Opção, o senador Izalci Lucas apresentou projeto de lei complementar para reduzir a alíquota quando a arrecadação federal superar o teto da reforma. Tudo sem ato oficial.",
    "Em 10/11, segundo o Senado Notícias, o TCU entregou o acórdão (11,3%) ao Senado; o prazo para fixar a alíquota segue 15/12. Segundo O Povo, a sessão da CAE com Durigan e o presidente do TCU foi marcada para 17/11, não 11/11. Também em 10/11, segundo a Agência Brasil, deputados admitiram rever isenções se o IVA passar de 26,5% e descartaram adiar a reforma. Tudo sem ato oficial.",
-   "Em 11/11, segundo Metrópoles e BPMoney, o secretário da Receita disse que sem as isenções a alíquota média seria de cerca de 8,5% e que reduzir os 11,3% exigiria rever benefícios e alíquotas reduzidas. Segundo a imprensa, a CAE ouve Durigan e o TCU em 17/11 e FGV e OAB em 18/11. Ainda sem ato oficial."
+   "Em 11/11, segundo Metrópoles e BPMoney, o secretário da Receita disse que sem as isenções a alíquota média seria de cerca de 8,5% e que reduzir os 11,3% exigiria rever benefícios e alíquotas reduzidas. Segundo a imprensa, a CAE ouve Durigan e o TCU em 17/11 e FGV e OAB em 18/11. Ainda sem ato oficial.",
+   "Em 11/11 o TCU também recomendou à Receita e à Fazenda priorizar as normas críticas da CBS e um plano com marcos para o split payment (O Povo). CAE ouve Durigan, Receita e TCU em 17/11 e especialistas em 18/11; se o Senado não votar até 15/12, vale a alíquota do TCU (segundo a imprensa)."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -489,9 +490,13 @@
    {
     "nome": "Metrópoles – CBS: Receita diz que, sem isenções, novo imposto cairia de 11,3% para 8,5%",
     "url": "https://www.metropoles.com/brasil/cbs-receita-diz-que-sem-isencoes-novo-imposto-cairia-de-113-para-85"
+   },
+   {
+    "nome": "O Povo – TCU pede priorização das normas críticas",
+    "url": "https://www.opovo.com.br/noticias/economia/2026/11/11/tcu-pede-que-governo-priorize-normas-criticas-da-reforma-tributaria-incluindo-split-payment.html"
    }
   ],
-  "atualizadoEm": "2026-11-11"
+  "atualizadoEm": "2026-11-12"
  },
  {
   "id": "renda-lei-15270-dividendos",
