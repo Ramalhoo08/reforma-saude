@@ -199,14 +199,14 @@
    "Regime específico para seguradoras, administradoras de benefícios, cooperativas operadoras e demais operadoras (LC 214, arts. 234 a 243).",
    "A base de cálculo da operadora é formada por prêmios e contraprestações recebidos, menos as indenizações pagas (custos assistenciais com prestadores e reembolsos), pelo regime de caixa (art. 235).",
    "Alíquota igual à de referência com redução de 60% (art. 237). O adquirente do plano não toma crédito, salvo a empresa que paga plano a empregados por exigência de convenção ou acordo coletivo (art. 238, com redação da LC 227/2026).",
-   "As operadoras entregam a DeRE (Declaração de Regimes Específicos) e não destacam IBS/CBS em nota (FAQ DeRE da Receita). Os eventos de tabela da DeRE começaram em 01/10/2026; os eventos mensais começam em 15/11/2026, com a competência de outubro/2026 (Ato Conjunto nº 4/2026).",
+   "As operadoras entregam a DeRE (Declaração de Regimes Específicos) e não destacam IBS/CBS em nota (FAQ DeRE da Receita). Os eventos de tabela da DeRE começaram em 01/10/2026; os eventos mensais começavam em 15/11/2026 (Ato Conjunto nº 4/2026); a 1ª entrega foi adiada para 15/12/2026, com competência de novembro (Ato Conjunto nº 7/2026).",
    "Cooperativas (por exemplo, de trabalho médico) podem optar pelo regime específico do art. 271 da LC 214, com alíquota zero nas operações previstas em lei. A opção para 2027 vai até 31/10/2026 e exige enviar a lista de cooperados (Orientação Conjunta RFB/CGIBS de 18/09/2026).",
    "Leitura do art. 235: a operadora abate da base o valor pago ao prestador, qualquer que seja o regime dele. Por isso, nas receitas de convênio, o crédito não pesa como argumento para o prestador sair do Simples. Esta é uma análise do texto legal, sem ato oficial específico.",
    "Em 10/11, a Receita e o CGIBS avisaram que o ambiente Beta da DeRE será atualizado em 11/11/2026, às 7h (CRC-MG, reproduzindo o comunicado).",
-   "Em 13/11/2026, o CGIBS divulgou que o Conselho Superior, reunido em Joinville (SC), aprovou a prorrogação da DeRE e ajustes na versão 2 do Regulamento do IBS (três artigos do setor financeiro). Segundo o Correio Braziliense, a 2ª fase dos eventos mensais passou de 15/12/2026 para 15/02/2027. A primeira entrega mensal, de 15/11/2026 (competência de outubro), não foi adiada por nenhuma das fontes."
+   "Em 13/11/2026, o CGIBS divulgou a prorrogação da DeRE aprovada pelo Conselho Superior (Joinville/SC). Segundo CGIBS, Fazenda do RS e Contábeis, o Ato Conjunto RFB/CGIBS nº 7/2026 passou a 1ª entrega mensal de 15/11 para 15/12/2026 (competência de novembro) e os eventos da alínea “c” para 15/02/2027. Corrige a informação da manhã de que a entrega de 15/11 continuava de pé. Texto do ato não lido diretamente."
   ],
   "impacto": "A relação clínica–operadora não muda na forma de faturar, mas a nota passa a ter IBS/CBS, a glosa não paga sai da base do prestador e a operadora passa a controlar mais os documentos (manifestação do adquirente na NFS-e). Médicos cooperados e cooperativas médicas precisam decidir sobre o regime das cooperativas até 31/10/2026.",
-  "acao": "Para clientes que faturam a operadoras: revisar contratos e tabelas, alinhar o tratamento das glosas e avisar que a operadora poderá contestar a NFS-e. Para operadoras e cooperativas obrigadas à DeRE: garantir a entrega de 15/11/2026 e reprogramar a 2ª fase dos eventos mensais para 15/02/2027, conferindo a data no ato publicado pelo CGIBS.",
+  "acao": "Para clientes que faturam a operadoras: revisar contratos e tabelas, alinhar o tratamento das glosas e avisar que a operadora poderá contestar a NFS-e. Para operadoras e cooperativas obrigadas à DeRE: programar a 1ª entrega mensal para 15/12/2026 (competência de novembro) e os eventos da alínea “c” para 15/02/2027, conferindo a data no Ato Conjunto nº 7.",
   "status": "regulamentado",
   "fontes": [
    {
@@ -234,8 +234,12 @@
     "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville"
    },
    {
-    "nome": "Correio Braziliense – CG-IBS adia prazos para regularização de documentos fiscais",
-    "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536849-reforma-tributaria-cg-ibs-adia-prazos-para-regularizacao-de-documentos-fiscais.html"
+    "nome": "Secretaria da Fazenda do RS – CGIBS aprova ajustes ao Regulamento e prorroga a DeRE por um mês",
+    "url": "https://fazenda.rs.gov.br/cgibs-aprova-ajustes-ao-regulamento-e-prorroga-a-dere-por-um-mes"
+   },
+   {
+    "nome": "Contábeis – IBS e CBS: Receita e CGIBS alteram prazos dos documentos fiscais",
+    "url": "https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/"
    }
   ],
   "atualizadoEm": "2026-11-13"
@@ -254,7 +258,8 @@
    "Em 16/10/2026 a Receita contava 917.331 pedidos de opção pelo regime regular de IBS/CBS.",
    "Em 29/10/2026 a Receita informou 1.000.142 optantes pelo regime regular de IBS/CBS; o prazo de 30/10 não seria prorrogado e o cancelamento vai até 20/12/2026.",
    "PLP 108/2021: o relator diz ter compromisso do presidente da Câmara para votar em novembro tetos de R$ 870 mil (ME) e R$ 8,7 milhões (EPP), de forma gradual até 2029; ainda sem votação marcada.",
-   "Em 11/11, segundo BPMoney, a Receita anunciou adiar para março de 2027 a exigência de NF-e e NFC-e no novo modelo para o Simples que vende mercadorias; a NFS-e de serviços não muda. Ainda sem ato oficial."
+   "Em 11/11, segundo BPMoney, a Receita anunciou adiar para março de 2027 a exigência de NF-e e NFC-e no novo modelo para o Simples que vende mercadorias; a NFS-e de serviços não muda. Ainda sem ato oficial.",
+   "Em 13/11/2026 a Receita informou que o PGDAS-D foi atualizado para a reforma a partir dos períodos 11/2026 e 12/2026: competência obrigatória em 2027, folha de 12 meses (FS12) obrigatória e Defis dentro do PGDAS-D, de janeiro a março."
   ],
   "impacto": "Para a clínica do Simples que atende principalmente pacientes pessoa física e operadoras, sair do DAS tende a trazer pouco benefício de crédito ao tomador e mais trabalho. Para quem presta a empresas do regime regular (hospitais, medicina do trabalho para empresas), o crédito integral pode fazer diferença no preço. O fim do regime de caixa antecipa o imposto de quem fatura e só recebe depois (convênios com prazo longo).",
   "acao": "Até 30/10/2026, simular para cada cliente do Simples as duas opções (DAS × regime regular), olhando o perfil dos tomadores, a margem e as compras com crédito. Registrar a decisão por escrito com o cliente. Ajustar o fluxo de caixa de 2027 de quem hoje usa regime de caixa. Lembrar da janela de cancelamento de 03/11 a 20/12/2026.",
@@ -291,9 +296,13 @@
    {
     "nome": "BPMoney – Receita adia para março de 2027 emissão de notas fiscais do Simples, exceto serviços",
     "url": "https://bpmoney.com.br/economia/receita-adia-marco-2027-nota-fiscal-simples-nacional/"
+   },
+   {
+    "nome": "Receita Federal – PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026"
    }
   ],
-  "atualizadoEm": "2026-11-11"
+  "atualizadoEm": "2026-11-13"
  },
  {
   "id": "creditos-split-payment",

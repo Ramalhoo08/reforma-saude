@@ -2,30 +2,106 @@
  {
   "data": "2026-11-13",
   "edicao": 22,
-  "resumo": "Para os clientes da saúde, o CGIBS confirmou a prorrogação da DeRE — a 2ª fase dos eventos mensais vai de 15/12/2026 para 15/02/2027, segundo o Correio Braziliense —, mas a primeira entrega mensal continua em 15/11. No geral, o Ato Conjunto RFB/CGIBS nº 7, publicado hoje, empurra para 01/03/2027 a NF-e das empresas do Simples, o BP-e e a NFS-e de plataformas digitais, e leva para 01/01/2027 as locações e receitas condominiais. O Senado aprovou por 45 a 31 o texto-base do ajuste fiscal (PLP 299/2026), que pode dobrar o acréscimo na presunção do Lucro Presumido acima de R$ 5 milhões; os destaques ficam para 17/11.",
+  "resumo": "Para os clientes da saúde, correção importante: o Ato Conjunto RFB/CGIBS nº 7 adia a 1ª entrega mensal da DeRE (operadoras) de 15/11 para 15/12/2026, segundo o CGIBS, a Fazenda do RS e o Contábeis; a etapa seguinte vai para 15/02/2027. No geral, a CAE do Senado ouve Durigan, Barreirinhas e o TCU sobre a CBS na terça (17/11), a Receita atualizou o PGDAS-D, prevê abrir o piloto a todos até o fim de novembro e recebeu nove propostas de CFC e Fenacon. O ajuste fiscal (PLP 299/2026) segue com destaques em 17/11.",
   "itens": [
    {
-    "titulo": "DeRE: novo prazo confirmado — a 2ª fase dos eventos mensais passa de 15/12/2026 para 15/02/2027; a entrega de 15/11 continua de pé",
+    "titulo": "Fato novo: DeRE adiada em um mês — a 1ª entrega mensal passa de 15/11 para 15/12/2026 (competência de novembro) e a etapa seguinte vai para 15/02/2027",
     "alcance": "saúde",
     "tema": "obrigacoes",
     "status": "regulamentado",
     "dataPublicacao": "2026-11-13",
-    "oQueMudou": "O Conselho Superior do CGIBS, reunido em Joinville (SC), aprovou a prorrogação da DeRE — a declaração de regimes específicos do IBS e da CBS, que alcança serviços financeiros, planos de assistência à saúde e concursos de prognósticos — e ajustes na versão 2 do Regulamento do IBS (três artigos do setor financeiro, por sugestão da PGFN e da Receita). Segundo o CGIBS, o reescalonamento serve para dar tempo de adequação e não elimina a obrigação. O Correio Braziliense informa que o prazo da 2ª fase dos eventos mensais da DeRE foi estendido de 15/12/2026 para 15/02/2027. Nenhuma das fontes aponta adiamento da 1ª entrega mensal, marcada para 15/11/2026 (competência de outubro/2026). Na mesma reunião foi aprovado ato conjunto que dispensa de inscrição no CNPJ, de 01/01/2027 a 31/12/2028, o produtor rural pessoa física e o transportador autônomo de cargas que não optarem pelo regime regular.",
-    "impacto": "Para o escritório, muda o calendário das operadoras de planos de saúde e cooperativas médicas que operam plano próprio: a entrega de 15/11 segue valendo, mas os eventos mensais da 2ª fase ganham três meses a mais. Clínicas, consultórios e laboratórios que apenas prestam serviço a operadoras não entregam a DeRE — continuam na NFS-e com IBS/CBS.",
-    "acao": "Confirmar que os clientes obrigados fecharão a entrega de 15/11/2026 (eventos de tabela enviados antes dos eventos mensais) e reprogramar o cronograma interno da 2ª fase para 15/02/2027. Como a data nova foi divulgada pela imprensa, conferir o texto do ato no site do CGIBS antes de comunicar formalmente ao cliente.",
-    "prazo": "2026-11-15",
+    "oQueMudou": "Correção da edição da manhã, que dizia que a entrega de 15/11 continuava de pé. Segundo o CGIBS, a Secretaria da Fazenda do RS e o Contábeis, o Conselho Superior do CGIBS (Joinville/SC) prorrogou a DeRE — declaração de regimes específicos do IBS e da CBS, que alcança serviços financeiros, planos de saúde e prognósticos — e o Ato Conjunto RFB/CGIBS nº 7/2026, publicado em 13/11, muda a 1ª entrega mensal de 15/11 para 15/12/2026, agora com dados de novembro e não de outubro. Os eventos da alínea “c” (como D-1121 e D-2102) começam em 15/02/2027, com janeiro de 2027 como 1º período. A 3ª fase segue em 01/01/2027. O mesmo pacote inclui ajustes em três artigos do Regulamento do IBS (setor financeiro) e a dispensa de CNPJ, de 01/01/2027 a 31/12/2028, para produtor rural PF e transportador autônomo de cargas que não optarem pelo regime regular. As fontes divergem em detalhes (nomenclatura das fases e data da reunião); o texto do Ato nº 7 não foi lido diretamente.",
+    "impacto": "Operadoras de planos de saúde e cooperativas médicas com plano próprio ganham um mês na 1ª entrega mensal e mais tempo nos eventos seguintes. Clínicas, consultórios e laboratórios que só prestam serviço às operadoras não entregam a DeRE.",
+    "acao": "Reprogramar a entrega das operadoras clientes para 15/12/2026 (competência de novembro), mantendo os eventos de tabela antes dos mensais e a etapa seguinte para 15/02/2027. Conferir o texto do Ato Conjunto nº 7 no site do CGIBS antes de comunicar formalmente ao cliente.",
+    "prazo": "2026-12-15",
     "fontes": [
      {
       "nome": "CGIBS – CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE (reunião em Joinville)",
       "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville"
      },
      {
-      "nome": "Fenacon – CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE",
-      "url": "https://fenacon.org.br/reforma-tributaria/cgibs-aprova-ajustes-ao-regulamento-do-imposto-sobre-bens-e-servicos-e-prorroga-a-dere-em-reuniao-ordinaria/"
+      "nome": "Secretaria da Fazenda do RS – CGIBS aprova ajustes ao Regulamento e prorroga a DeRE por um mês",
+      "url": "https://fazenda.rs.gov.br/cgibs-aprova-ajustes-ao-regulamento-e-prorroga-a-dere-por-um-mes"
      },
      {
-      "nome": "Correio Braziliense – CG-IBS adia prazos para regularização de documentos fiscais",
-      "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536849-reforma-tributaria-cg-ibs-adia-prazos-para-regularizacao-de-documentos-fiscais.html"
+      "nome": "Contábeis – IBS e CBS: Receita e CGIBS alteram prazos dos documentos fiscais",
+      "url": "https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/"
+     },
+     {
+      "nome": "Fenacon – CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE",
+      "url": "https://fenacon.org.br/reforma-tributaria/cgibs-aprova-ajustes-ao-regulamento-do-imposto-sobre-bens-e-servicos-e-prorroga-a-dere-em-reuniao-ordinaria/"
+     }
+    ]
+   },
+   {
+    "titulo": "Senado: CAE ouve o ministro Durigan, o secretário da Receita e o presidente do TCU sobre a alíquota da CBS na terça (17/11), às 10h",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "Segundo a Agência Senado, a Comissão de Assuntos Econômicos realiza duas audiências sobre a alíquota de referência da CBS: em 17/11 falam o ministro da Fazenda, Dario Durigan, o secretário da Receita, Robinson Barreirinhas, e o presidente do TCU, Vital do Rêgo; em 18/11 a lista inclui representantes da FGV, da OAB e especialistas, segundo a imprensa. O TCU calculou 11,3%, mas o valor definitivo sai de resolução do Senado, com prazo final de 15/12 (a imprensa cita a possibilidade de 22/12). A audiência partiu de requerimento do senador Izalci Lucas (REQ 107/2026-CAE).",
+    "impacto": "É a primeira discussão pública no Senado do número que define a CBS de 2027 e, para clientes médicos, a base da redução de 60% da saúde (40% da alíquota cheia).",
+    "acao": "Acompanhar as audiências e refazer as simulações de carga das clínicas e sociedades médicas se o Senado sinalizar alíquota diferente de 11,3%.",
+    "prazo": "2026-11-17",
+    "fontes": [
+     {
+      "nome": "Agência Senado – CAE: ministro da Fazenda debate alíquota da CBS na terça-feira",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita atualiza o PGDAS-D para a reforma: folha de 12 meses obrigatória, competência obrigatória e Defis dentro do programa a partir de 2027",
+    "alcance": "geral",
+    "tema": "simples",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "Nota da Receita de 13/11 informa que o PGDAS-D foi atualizado para a Reforma Tributária do Consumo, com mudanças a partir dos períodos de apuração 11/2026 e 12/2026. Em 2027 todas as apurações serão por competência (sem escolha entre caixa e competência), será obrigatório informar a folha de salários dos últimos 12 meses (FS12) em todas as atividades, e a Defis passa a ser prestada no próprio PGDAS-D, uma vez por ano, entre janeiro e março. No Simples híbrido, CBS e IBS saem do DAS e seguem regras próprias; o sublimite de R$ 3,6 milhões passa a valer também para o IBS.",
+    "impacto": "Clínicas e consultórios do Simples precisam ter a folha dos últimos 12 meses organizada para declarar, e quem recebe com prazo longo (convênios) passa a recolher pelo faturamento.",
+    "acao": "Revisar a rotina de apuração dos clientes do Simples nos períodos 11/2026 e 12/2026, conferir a folha de 12 meses e avisar os que dependiam do regime de caixa.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Receita Federal – PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita prevê abrir o ambiente piloto da reforma a todos os contribuintes até o fim de novembro",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "Segundo o Contábeis, o ambiente de testes, hoje com cerca de 500 empresas, deve ser aberto a todos os contribuintes até o fim de novembro, sem efeito fiscal. A ferramenta de ajuste da apuração assistida terá o leiaute apresentado em novembro e protótipo em dezembro, e as normas complementares (atos conjuntos Receita/CGIBS) devem sair até o início de dezembro. Dia e forma de acesso ainda não foram definidos.",
+    "impacto": "Será a chance de testar emissão de notas e apuração antes da cobrança real da CBS em janeiro de 2027.",
+    "acao": "Cadastrar os clientes (clínicas maiores e operadoras) assim que o acesso abrir e reservar tempo para simulações em dezembro.",
+    "prazo": "2026-11-30",
+    "fontes": [
+     {
+      "nome": "Contábeis – Receita prevê abrir piloto da reforma tributária em novembro",
+      "url": "https://www.contabeis.com.br/noticias/80798/receita-preve-abrir-piloto-da-reforma-tributaria-em-novembro/"
+     }
+    ]
+   },
+   {
+    "titulo": "CFC e Fenacon entregam à Receita nove propostas para a transição de 2027, entre elas não rejeitar notas nem multar erros de IBS/CBS",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "Segundo o CFC e o Contábeis, as entidades entregaram em 10/11 manifestação técnica com nove propostas, assinada por CFC, 27 CRCs, Fenacon e 41 sindicatos: sem rejeição de documentos nem multa por falta ou erro de IBS/CBS na transição, regulamentar o Programa Nacional de Conformidade antes de 2027, boa-fé presumida para quem seguir a Cosit, ampliar testes e a apuração assistida, e criar sala de situação permanente. A Receita se comprometeu a analisar e anunciou medidas em 11/11 (programa de conformidade, ainda sem ato). Não há confirmação de que as propostas foram aceitas.",
+    "impacto": "Se aceitas, reduzem o risco de multa do escritório e dos clientes nos primeiros meses de 2027.",
+    "acao": "Acompanhar o ato que formalizar o programa de conformidade e manter registro das orientações seguidas, por precaução.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "CFC – CFC e Fenacon entregam à Receita nove propostas para a reforma tributária",
+      "url": "https://cfc.org.br/noticias/cfc-e-fenacon-entregam-a-receita-nove-propostas-para-a-reforma-tributaria/"
+     },
+     {
+      "nome": "Contábeis – CFC e Fenacon levam nove propostas à Receita",
+      "url": "https://www.contabeis.com.br/noticias/80807/reforma-tributaria-cfc-e-fenacon-levam-nove-propostas-a-receita/"
      }
     ]
    },
@@ -82,10 +158,6 @@
   ],
   "agenda": [
    {
-    "data": "2026-11-15",
-    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde. Nenhum ato apontou adiamento desta entrega, mesmo caindo em domingo."
-   },
-   {
     "data": "2026-11-16",
     "evento": "Abrem as inscrições diretas dos demais prestadores de serviços de pagamento nos testes da Plataforma Pública do split payment; os formulários e manuais estavam previstos para 13/11, segundo o Contábeis."
    },
@@ -95,7 +167,7 @@
    },
    {
     "data": "2026-11-17",
-    "evento": "Senado retoma o PLP 299/2026 (ajuste fiscal) para votar quatro destaques; no mesmo dia, a CAE ouve Durigan (Fazenda) e Vital do Rêgo (TCU) sobre a alíquota da CBS, segundo a imprensa."
+    "evento": "Senado retoma o PLP 299/2026 (ajuste fiscal) para votar quatro destaques; às 10h, a CAE ouve Durigan (Fazenda), Barreirinhas (Receita) e Vital do Rêgo (TCU) sobre a alíquota da CBS (Agência Senado)."
    },
    {
     "data": "2026-11-18",
@@ -110,8 +182,16 @@
     "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
    },
    {
+    "data": "2026-11-30",
+    "evento": "Receita prevê abrir o ambiente piloto a todos os contribuintes até o fim de novembro, segundo o Contábeis (dia ainda não definido)."
+   },
+   {
     "data": "2026-12-15",
     "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027; se não houver resolução, vale a alíquota calculada pelo TCU (11,3%), segundo a imprensa (possível adiamento até 22/12)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Nova data da 1ª entrega mensal da DeRE (competência de novembro/2026), pelo Ato Conjunto RFB/CGIBS nº 7, segundo CGIBS, Fazenda do RS e Contábeis."
    },
    {
     "data": "2026-12-17",
@@ -139,7 +219,7 @@
    },
    {
     "data": "2027-02-15",
-    "evento": "Novo prazo da 2ª fase dos eventos mensais da DeRE, antes em 15/12/2026, segundo o Correio Braziliense."
+    "evento": "Início dos eventos da alínea “c” da DeRE (primeiro período: janeiro/2027), segundo o Ato Conjunto nº 7 noticiado por Fazenda do RS e Contábeis."
    },
    {
     "data": "2027-03-01",
