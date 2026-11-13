@@ -1,5 +1,157 @@
 [
  {
+  "data": "2026-11-13",
+  "edicao": 22,
+  "resumo": "Para os clientes da saúde, o CGIBS confirmou a prorrogação da DeRE — a 2ª fase dos eventos mensais vai de 15/12/2026 para 15/02/2027, segundo o Correio Braziliense —, mas a primeira entrega mensal continua em 15/11. No geral, o Ato Conjunto RFB/CGIBS nº 7, publicado hoje, empurra para 01/03/2027 a NF-e das empresas do Simples, o BP-e e a NFS-e de plataformas digitais, e leva para 01/01/2027 as locações e receitas condominiais. O Senado aprovou por 45 a 31 o texto-base do ajuste fiscal (PLP 299/2026), que pode dobrar o acréscimo na presunção do Lucro Presumido acima de R$ 5 milhões; os destaques ficam para 17/11.",
+  "itens": [
+   {
+    "titulo": "DeRE: novo prazo confirmado — a 2ª fase dos eventos mensais passa de 15/12/2026 para 15/02/2027; a entrega de 15/11 continua de pé",
+    "alcance": "saúde",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "O Conselho Superior do CGIBS, reunido em Joinville (SC), aprovou a prorrogação da DeRE — a declaração de regimes específicos do IBS e da CBS, que alcança serviços financeiros, planos de assistência à saúde e concursos de prognósticos — e ajustes na versão 2 do Regulamento do IBS (três artigos do setor financeiro, por sugestão da PGFN e da Receita). Segundo o CGIBS, o reescalonamento serve para dar tempo de adequação e não elimina a obrigação. O Correio Braziliense informa que o prazo da 2ª fase dos eventos mensais da DeRE foi estendido de 15/12/2026 para 15/02/2027. Nenhuma das fontes aponta adiamento da 1ª entrega mensal, marcada para 15/11/2026 (competência de outubro/2026). Na mesma reunião foi aprovado ato conjunto que dispensa de inscrição no CNPJ, de 01/01/2027 a 31/12/2028, o produtor rural pessoa física e o transportador autônomo de cargas que não optarem pelo regime regular.",
+    "impacto": "Para o escritório, muda o calendário das operadoras de planos de saúde e cooperativas médicas que operam plano próprio: a entrega de 15/11 segue valendo, mas os eventos mensais da 2ª fase ganham três meses a mais. Clínicas, consultórios e laboratórios que apenas prestam serviço a operadoras não entregam a DeRE — continuam na NFS-e com IBS/CBS.",
+    "acao": "Confirmar que os clientes obrigados fecharão a entrega de 15/11/2026 (eventos de tabela enviados antes dos eventos mensais) e reprogramar o cronograma interno da 2ª fase para 15/02/2027. Como a data nova foi divulgada pela imprensa, conferir o texto do ato no site do CGIBS antes de comunicar formalmente ao cliente.",
+    "prazo": "2026-11-15",
+    "fontes": [
+     {
+      "nome": "CGIBS – CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE (reunião em Joinville)",
+      "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville"
+     },
+     {
+      "nome": "Fenacon – CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE",
+      "url": "https://fenacon.org.br/reforma-tributaria/cgibs-aprova-ajustes-ao-regulamento-do-imposto-sobre-bens-e-servicos-e-prorroga-a-dere-em-reuniao-ordinaria/"
+     },
+     {
+      "nome": "Correio Braziliense – CG-IBS adia prazos para regularização de documentos fiscais",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536849-reforma-tributaria-cg-ibs-adia-prazos-para-regularizacao-de-documentos-fiscais.html"
+     }
+    ]
+   },
+   {
+    "titulo": "Ato Conjunto RFB/CGIBS nº 7 muda o cronograma dos documentos fiscais: NF-e do Simples, BP-e e NFS-e de plataformas vão para 01/03/2027",
+    "alcance": "geral",
+    "tema": "nfse",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "Segundo o Atlas Público e o Correio Braziliense, foi publicado em 13/11/2026 o Ato Conjunto RFB/CGIBS nº 7 (assinado em 11/11), que altera o cronograma do Ato Conjunto nº 4/2026 e vale desde a publicação. Treze documentos fiscais mudam de data: passam para 01/03/2027 a NF-e das empresas do Simples Nacional, a NF-e ABI, o BP-e e a NFS-e de plataformas digitais e de serviços dos subitens 1.03, 1.05, 1.09 e 16.01 da lista do ISS; passam para 01/01/2027 a NFGas (modelo 76) e a NFAg (modelo 75). Locações e arrendamentos, receitas condominiais e demais serviços ficam em 01/01/2027. A justificativa oficial é que cerca de 1,1 milhão de empresas ainda emitem documentos pela regra antiga.",
+    "impacto": "Para as empresas em geral, é mais prazo para ajustar o emissor, sem mudar a apuração: a CBS continua começando em 01/01/2027 e a contabilidade precisará ajustar a apuração das receitas de janeiro e fevereiro de quem ainda não se adequou. Para clientes médicos, a NFS-e de serviços de saúde (item 4 da lista do ISS) não está entre os subitens adiados e segue no cronograma anterior; o que muda é a data das clínicas do Simples que também emitem NF-e de mercadoria (materiais, órteses, próteses) e a receita de sublocação de salas, que sai de 01/12/2026 para 01/01/2027.",
+    "acao": "Ler o Ato Conjunto nº 7 no site do CGIBS e refazer a tabela de datas por tipo de documento e por cliente. Avisar as clínicas do Simples que emitem NF-e de mercadoria do novo prazo (01/03/2027) e corrigir a previsão de 01/12/2026 das receitas de locação e sublocação.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Atlas Público – Receita e CGIBS alteram datas de início da emissão de documentos fiscais eletrônicos do IBS e da CBS",
+      "url": "https://atlaspublico.com.br/noticias/receita-e-cgibs-alteram-datas-de-inicio-da-emissao-de-101717"
+     },
+     {
+      "nome": "Correio Braziliense – CG-IBS adia prazos para regularização de documentos fiscais",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536849-reforma-tributaria-cg-ibs-adia-prazos-para-regularizacao-de-documentos-fiscais.html"
+     },
+     {
+      "nome": "Fenacon – Receita Federal e CGIBS ajustam cronograma de emissão de documentos fiscais",
+      "url": "https://fenacon.org.br/reforma-tributaria/publicado-novo-cronograma-para-emissao-de-documentos-fiscais-da-reforma-tributaria/"
+     }
+    ]
+   },
+   {
+    "titulo": "Senado aprova o texto-base do ajuste fiscal (PLP 299/2026) por 45 a 31; quatro destaques ficam para 17/11",
+    "alcance": "geral",
+    "tema": "renda",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-12",
+    "oQueMudou": "O Plenário do Senado aprovou em 12/11/2026, por 45 votos a 31, o texto-base do PLP 299/2026 (ajuste fiscal), na forma do substitutivo do relator Eduardo Braga (MDB-AM) ao projeto de Jaques Wagner (PT-BA). Quatro destaques ficaram para a terça-feira, 17/11. O projeto original eleva de 10% para 20% o acréscimo sobre os percentuais de presunção do IRPJ e da CSLL — criado pela LC 224/2025 — na parte da receita bruta anual acima de R$ 5 milhões, e permite restringir compensações tributárias. As reportagens sobre o substitutivo não confirmam se esse ponto foi mantido, alterado ou retirado no texto aprovado, e o projeto ainda terá de passar pela Câmara.",
+    "impacto": "Se o aumento da presunção for confirmado, clínicas, laboratórios e médicos PJ no Lucro Presumido com receita acima de R$ 5 milhões por ano pagam mais IRPJ e CSLL sobre a parcela excedente. Segundo cálculo citado pela imprensa, no setor de serviços a base presumida passaria de 35,2% para 38,4%, e a carga sobre cada R$ 100 de receita excedente subiria de R$ 10,88 para R$ 13,06. Para as empresas em geral, há ainda o limite a compensações tributárias.",
+    "acao": "Separar os clientes do Lucro Presumido com receita projetada acima de R$ 5 milhões em 2027 e simular o IRPJ e a CSLL com acréscimo de 20% na presunção, para comparar com o Lucro Real. Acompanhar a votação dos destaques em 17/11 e só orientar mudança de regime quando o texto final for conhecido.",
+    "prazo": "2026-11-17",
+    "fontes": [
+     {
+      "nome": "Senado – tramitação e votações do PLP 299/2026",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328"
+     },
+     {
+      "nome": "Fenacon – Texto principal do ajuste fiscal é aprovado pelo Senado",
+      "url": "https://fenacon.org.br/noticias/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado/"
+     },
+     {
+      "nome": "Atlas Público – Senado aprova texto-base do PLP 299/2026 por 45 a 31; destaques ficam para depois",
+      "url": "https://atlaspublico.com.br/senado/noticias/senado-aprova-texto-base-do-plp-299-2026-de-ajuste-fiscal-101632"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-11-15",
+    "evento": "Primeira entrega dos eventos mensais da DeRE (competência de outubro/2026), que alcança operadoras de planos de saúde. Nenhum ato apontou adiamento desta entrega, mesmo caindo em domingo."
+   },
+   {
+    "data": "2026-11-16",
+    "evento": "Abrem as inscrições diretas dos demais prestadores de serviços de pagamento nos testes da Plataforma Pública do split payment; os formulários e manuais estavam previstos para 13/11, segundo o Contábeis."
+   },
+   {
+    "data": "2026-11-16",
+    "evento": "Fim do prazo de contribuições à consulta do STF (Edital 05/2026) sobre julgamento conjunto de ações de IBS e CBS."
+   },
+   {
+    "data": "2026-11-17",
+    "evento": "Senado retoma o PLP 299/2026 (ajuste fiscal) para votar quatro destaques; no mesmo dia, a CAE ouve Durigan (Fazenda) e Vital do Rêgo (TCU) sobre a alíquota da CBS, segundo a imprensa."
+   },
+   {
+    "data": "2026-11-18",
+    "evento": "Segunda audiência da CAE do Senado sobre a alíquota da CBS e audiência pública da Comissão de Finanças e Tributação da Câmara, às 10h, com o secretário da Receita, Robinson Barreirinhas."
+   },
+   {
+    "data": "2026-11-23",
+    "evento": "Vencem os primeiros 60 dias da MP 1.399 do Imposto Seletivo, prorrogáveis por mais 60, segundo a imprensa."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027; se não houver resolução, vale a alíquota calculada pelo TCU (11,3%), segundo a imprensa (possível adiamento até 22/12)."
+   },
+   {
+    "data": "2026-12-17",
+    "evento": "Meta do Senado para concluir a votação dos textos prioritários do ano, entre eles a regulamentação da CBS, segundo a líder do governo (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026. É também o prazo para a MP 1.399 do Imposto Seletivo ser convertida em lei e produzir efeitos em 2027."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes. Pelo Ato Conjunto nº 7, entram nesta data a NFS-e de locações, arrendamentos e receitas condominiais (antes 01/12/2026), a NFGas e a NFAg."
+   },
+   {
+    "data": "2027-01-20",
+    "evento": "Prazo da Receita para regularização voluntária na Operação Fármacos II (créditos presumidos de PIS/Cofins do setor farmacêutico)."
+   },
+   {
+    "data": "2027-02-02",
+    "evento": "Início da cobrança do Imposto Seletivo, conforme a MP publicada em 04/11/2026 (noventena), segundo a imprensa."
+   },
+   {
+    "data": "2027-02-15",
+    "evento": "Novo prazo da 2ª fase dos eventos mensais da DeRE, antes em 15/12/2026, segundo o Correio Braziliense."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Pelo Ato Conjunto RFB/CGIBS nº 7: NF-e e NFC-e das empresas do Simples Nacional, NF-e ABI, BP-e e NFS-e de plataformas digitais e dos subitens 1.03, 1.05, 1.09 e 16.01 da lista do ISS."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   }
+  ]
+ },
+ {
   "data": "2026-11-12",
   "edicao": 21,
   "resumo": "Para clientes médicos: a CAS do Senado aprovou projeto que mantém créditos de CBS/IBS para entidades filantrópicas de saúde (ainda vai à CAE). No geral, o TCU pede prioridade às normas críticas e ao plano do split payment, e o Sescon-SP vai à Justiça contra IBS/CBS na base do ISS paulistano. Rodada das 17h: Comitê Gestor do IBS anuncia prorrogação da DeRE (novo prazo a confirmar; atinge operadoras); Senado analisa o PLP 299/2026 do ajuste fiscal, que mexe no lucro presumido acima de R$ 5 milhões; MP do Imposto Seletivo recebe 179 emendas.",

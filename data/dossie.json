@@ -79,7 +79,7 @@
   "id": "nfse-nacional-ibs-cbs",
   "ordem": 3,
   "titulo": "NFS-e Nacional e campos de IBS/CBS",
-  "resumo": "Para serviços da lista do ISS, como os médicos, os campos de IBS/CBS na NFS-e são obrigatórios desde 01/10/2026 para quem está no regime regular. Para optantes do Simples, a obrigação começa em 01/01/2027, e o Emissor Nacional da NFS-e passa a ser obrigatório para ME/EPP em 01/11/2026.",
+  "resumo": "Para serviços da lista do ISS, como os médicos, os campos de IBS/CBS na NFS-e são obrigatórios desde 01/10/2026 para quem está no regime regular. O Ato Conjunto RFB/CGIBS nº 7, de 11/11/2026 (publicado em 13/11), remarcou treze documentos: a NF-e das empresas do Simples, o BP-e, a NF-e ABI e a NFS-e de plataformas digitais e dos subitens 1.03, 1.05, 1.09 e 16.01 passam para 01/03/2027; locações, arrendamentos e receitas condominiais ficam em 01/01/2027. O Emissor Nacional da NFS-e é obrigatório para ME/EPP desde 01/11/2026.",
   "pontos": [
    "O Ato Conjunto RFB/CGIBS nº 4, de 30/07/2026, fixa a NFS-e com IBS/CBS em 01/10/2026 para serviços da lista da LC 116/2003 (inclui os serviços de saúde do item 4), exceto subitens 1.03, 1.05, 1.09 e 16.01.",
    "Locação de bens móveis e locação ou cessão de imóveis fora da lista do ISS entram em 01/12/2026. Isso alcança clínicas que sublocam salas ou consultórios.",
@@ -87,10 +87,11 @@
    "A Resolução CGSN nº 191, de 04/08/2026, obriga ME e EPP do Simples a emitir NFS-e pelo Emissor Nacional (web ou API) a partir de 01/11/2026. A data anterior, 01/09/2026, foi revogada.",
    "O Ato Técnico Conjunto RFB/CGIBS nº 7, publicado em 01/10/2026, aprovou a NT 009 v1.01 da NFS-e (leiaute RTC, Anexos VI e VII) e a NT 010 (Evento de Manifestação do Adquirente). Com a NT 010, o tomador pode confirmar a nota ou informar divergência ou desconhecimento.",
    "O Anexo VIII v1.01 da documentação técnica faz a correlação entre item de serviço, NBS, cClassTrib e cIndOp. Pelo próprio portal, ainda é um trabalho inicial.",
-   "Portal da NFS-e (29/10/2026): o leiaute da NT 009 está em produção restrita (testes), e a ausência do grupo de IBS/CBS não gera rejeição técnica no ambiente nacional, mesmo para quem é obrigado; a partir de 01/01/2027 o valor 'Desconhecido' deixa de ser aceito."
+   "Portal da NFS-e (29/10/2026): o leiaute da NT 009 está em produção restrita (testes), e a ausência do grupo de IBS/CBS não gera rejeição técnica no ambiente nacional, mesmo para quem é obrigado; a partir de 01/01/2027 o valor 'Desconhecido' deixa de ser aceito.",
+   "Ato Conjunto RFB/CGIBS nº 7, assinado em 11/11/2026 e publicado em 13/11/2026 (segundo o Atlas Público e o Correio Braziliense): altera o Ato Conjunto nº 4 e muda as datas de treze documentos fiscais. Para 01/03/2027: NF-e e NFC-e das empresas do Simples Nacional, NF-e ABI, BP-e e NFS-e de plataformas digitais e dos subitens 1.03, 1.05, 1.09 e 16.01. Para 01/01/2027: NFGas (modelo 76), NFAg (modelo 75), locações e arrendamentos, receitas condominiais e demais serviços — a data de 01/12/2026 das locações deixa de valer. A NFS-e dos serviços de saúde (item 4 da lista do ISS) não está entre os documentos adiados."
   ],
   "impacto": "Uma nota com NBS ou classificação tributária errada perde a redução de 60% da saúde e pode gerar divergência com o tomador (operadora, hospital), que poderá contestar a nota pelo evento de manifestação. Clínicas do Simples que ainda emitem pelo sistema da prefeitura precisam migrar até 01/11/2026.",
-  "acao": "Conferir se o emissor de cada cliente já está no leiaute RTC (NT 009 v1.01). Montar a tabela item LC 116 → NBS → cClassTrib por tipo de serviço (consulta, exame, cirurgia, imagem, laboratório). Migrar os clientes do Simples para o Emissor Nacional antes de 01/11/2026. Mapear as receitas de sublocação de salas para 01/12/2026.",
+  "acao": "Conferir se o emissor de cada cliente já está no leiaute RTC (NT 009 v1.01). Montar a tabela item LC 116 → NBS → cClassTrib por tipo de serviço (consulta, exame, cirurgia, imagem, laboratório). Refazer o calendário por cliente com o Ato Conjunto nº 7: clínicas do Simples que emitem NF-e de mercadoria vão para 01/03/2027 e as receitas de sublocação de salas, para 01/01/2027.",
   "status": "regulamentado",
   "fontes": [
    {
@@ -116,9 +117,17 @@
    {
     "nome": "Portal da NFS-e – orientações sobre leiaute em produção e status da NT 009 (29/10/2026)",
     "url": "https://www.gov.br/nfse/pt-br/noticias/nfs-e-nacional-confira-oas-rientacoes-sobre-leiaute-em-producao-regras-de-preenchimento-de-ibs-cbs-e-status-da-nota-tecnica-009"
+   },
+   {
+    "nome": "Atlas Público – Receita e CGIBS alteram datas de início da emissão de documentos fiscais eletrônicos do IBS e da CBS",
+    "url": "https://atlaspublico.com.br/noticias/receita-e-cgibs-alteram-datas-de-inicio-da-emissao-de-101717"
+   },
+   {
+    "nome": "Correio Braziliense – CG-IBS adia prazos para regularização de documentos fiscais",
+    "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536849-reforma-tributaria-cg-ibs-adia-prazos-para-regularizacao-de-documentos-fiscais.html"
    }
   ],
-  "atualizadoEm": "2026-10-31"
+  "atualizadoEm": "2026-11-13"
  },
  {
   "id": "reducao-60-servicos-saude",
@@ -193,10 +202,11 @@
    "As operadoras entregam a DeRE (Declaração de Regimes Específicos) e não destacam IBS/CBS em nota (FAQ DeRE da Receita). Os eventos de tabela da DeRE começaram em 01/10/2026; os eventos mensais começam em 15/11/2026, com a competência de outubro/2026 (Ato Conjunto nº 4/2026).",
    "Cooperativas (por exemplo, de trabalho médico) podem optar pelo regime específico do art. 271 da LC 214, com alíquota zero nas operações previstas em lei. A opção para 2027 vai até 31/10/2026 e exige enviar a lista de cooperados (Orientação Conjunta RFB/CGIBS de 18/09/2026).",
    "Leitura do art. 235: a operadora abate da base o valor pago ao prestador, qualquer que seja o regime dele. Por isso, nas receitas de convênio, o crédito não pesa como argumento para o prestador sair do Simples. Esta é uma análise do texto legal, sem ato oficial específico.",
-   "Em 10/11, a Receita e o CGIBS avisaram que o ambiente Beta da DeRE será atualizado em 11/11/2026, às 7h (CRC-MG, reproduzindo o comunicado)."
+   "Em 10/11, a Receita e o CGIBS avisaram que o ambiente Beta da DeRE será atualizado em 11/11/2026, às 7h (CRC-MG, reproduzindo o comunicado).",
+   "Em 13/11/2026, o CGIBS divulgou que o Conselho Superior, reunido em Joinville (SC), aprovou a prorrogação da DeRE e ajustes na versão 2 do Regulamento do IBS (três artigos do setor financeiro). Segundo o Correio Braziliense, a 2ª fase dos eventos mensais passou de 15/12/2026 para 15/02/2027. A primeira entrega mensal, de 15/11/2026 (competência de outubro), não foi adiada por nenhuma das fontes."
   ],
   "impacto": "A relação clínica–operadora não muda na forma de faturar, mas a nota passa a ter IBS/CBS, a glosa não paga sai da base do prestador e a operadora passa a controlar mais os documentos (manifestação do adquirente na NFS-e). Médicos cooperados e cooperativas médicas precisam decidir sobre o regime das cooperativas até 31/10/2026.",
-  "acao": "Para clientes que faturam a operadoras: revisar contratos e tabelas, alinhar o tratamento das glosas e avisar que a operadora poderá contestar a NFS-e. Para cooperativas médicas atendidas pelo escritório: verificar até 31/10/2026 se a opção pelo regime específico e a lista de associados foram enviadas.",
+  "acao": "Para clientes que faturam a operadoras: revisar contratos e tabelas, alinhar o tratamento das glosas e avisar que a operadora poderá contestar a NFS-e. Para operadoras e cooperativas obrigadas à DeRE: garantir a entrega de 15/11/2026 e reprogramar a 2ª fase dos eventos mensais para 15/02/2027, conferindo a data no ato publicado pelo CGIBS.",
   "status": "regulamentado",
   "fontes": [
    {
@@ -218,9 +228,17 @@
    {
     "nome": "Receita Federal – Atualização do Ambiente Beta da DeRE",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
+   },
+   {
+    "nome": "CGIBS – CGIBS aprova ajustes ao Regulamento do IBS e prorroga a DeRE (reunião em Joinville)",
+    "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville"
+   },
+   {
+    "nome": "Correio Braziliense – CG-IBS adia prazos para regularização de documentos fiscais",
+    "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536849-reforma-tributaria-cg-ibs-adia-prazos-para-regularizacao-de-documentos-fiscais.html"
    }
   ],
-  "atualizadoEm": "2026-11-10"
+  "atualizadoEm": "2026-11-13"
  },
  {
   "id": "simples-nacional-ibs-cbs",
@@ -511,10 +529,11 @@
    "IR mínimo anual (art. 16-A): renda total acima de R$ 600 mil, com alíquota que sobe de 0 a 10% até R$ 1,2 milhão. Há um redutor quando a carga da PJ somada à da PF passa de 34% (art. 16-B). Empresas fora do Lucro Real podem usar o cálculo simplificado do lucro contábil.",
    "Ponto relacionado: a LC 224/2025 aumentou em 10% os percentuais de presunção do Lucro Presumido sobre a parte da receita anual que passa de R$ 5 milhões, a partir de 2026 (IRPJ) e de abril de 2026 (CSLL).",
    "Não confirmado: uma instrução normativa específica da Receita para a apuração anual do IR mínimo de 2026 (DAA 2027).",
-   "Em novembro/2026, segundo Contábeis e TAGD Advogados, decisões de primeira instância (1ª Vara Federal de Botucatu, 9ª Vara Cível Federal de SP) e liminar do TRF-4 afastam ou limitam a retenção de 10% para as partes envolvidas, com tese de retenção progressiva entre R$ 50 mil e R$ 100 mil; as ADIs no STF seguem sem decisão de mérito. Sem efeito geral."
+   "Em novembro/2026, segundo Contábeis e TAGD Advogados, decisões de primeira instância (1ª Vara Federal de Botucatu, 9ª Vara Cível Federal de SP) e liminar do TRF-4 afastam ou limitam a retenção de 10% para as partes envolvidas, com tese de retenção progressiva entre R$ 50 mil e R$ 100 mil; as ADIs no STF seguem sem decisão de mérito. Sem efeito geral.",
+   "PLP 299/2026 (ajuste fiscal): o Senado aprovou o texto-base em 12/11/2026, por 45 a 31, no substitutivo de Eduardo Braga, com quatro destaques adiados para 17/11. O projeto original eleva de 10% para 20% o acréscimo nos percentuais de presunção do IRPJ e da CSLL acima de R$ 5 milhões de receita anual e permite restringir compensações. As reportagens não confirmam se o ponto foi mantido no substitutivo, e o texto ainda irá à Câmara."
   ],
   "impacto": "Médicos sócios de clínicas lucrativas que retiram mais de R$ 50 mil por mês da mesma empresa já têm retenção de 10%. Na declaração de 2027, quem passar de R$ 600 mil anuais poderá ter IR complementar, conforme a carga efetiva da PJ. Clínicas no Lucro Presumido com receita acima de R$ 5 milhões pagam mais IRPJ e CSLL.",
-  "acao": "Revisar a política de distribuição de lucros dos clientes (calendário, valores por sócio e por empresa) e controlar os pagamentos de lucros de 2025 aprovados até 31/12/2025 ou 31/01/2026. Calcular a alíquota efetiva da PJ para estimar o redutor e simular o IR mínimo de 2026 de cada sócio. Conferir a EFD-Reinf R-4010 e os DARFs 1841.",
+  "acao": "Revisar a política de distribuição de lucros dos clientes (calendário, valores por sócio e por empresa) e controlar os pagamentos de lucros de 2025 aprovados até 31/12/2025 ou 31/01/2026. Calcular a alíquota efetiva da PJ para estimar o redutor e simular o IR mínimo de 2026 de cada sócio. Conferir a EFD-Reinf R-4010 e os DARFs 1841. Simular o Lucro Presumido de 2027 com acréscimo de 20% na presunção para os clientes acima de R$ 5 milhões, acompanhando a votação do PLP 299/2026.",
   "status": "em vigor",
   "fontes": [
    {
@@ -540,8 +559,12 @@
    {
     "nome": "Contábeis – Juiz limita retenção de IR sobre dividendos acima de R$ 50 mil",
     "url": "https://www.contabeis.com.br/noticias/80695/juiz-limita-retencao-de-ir-sobre-dividendos-acima-de-r-50-mil/"
+   },
+   {
+    "nome": "Senado – tramitação e votações do PLP 299/2026",
+    "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328"
    }
   ],
-  "atualizadoEm": "2026-11-10"
+  "atualizadoEm": "2026-11-13"
  }
 ]
