@@ -1,0 +1,20 @@
+# fenacon
+Fonte: https://fenacon.org.br/reforma-tributaria/
+
+[13 de novembro de 2026 Fenacon alerta para impactos do PLP 299/2026 e defende revisão de medidas que ampliam a carga tributária](https://fenacon.org.br/noticias/fenacon-alerta-para-impactos-do-plp-299-2026-e-defende-revisao-de-medidas-que-ampliam-a-carga-tributaria/)
+[13 de novembro de 2026 Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária](https://fenacon.org.br/reforma-tributaria/comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria/)
+[13 de novembro de 2026 CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária](https://fenacon.org.br/reforma-tributaria/cgibs-aprova-ajustes-ao-regulamento-do-imposto-sobre-bens-e-servicos-e-prorroga-a-dere-em-reuniao-ordinaria/)
+[13 de novembro de 2026 Reforma tributária: CNC reforça pedido por ajustes no cronograma de implementação](https://fenacon.org.br/reforma-tributaria/reforma-tributaria-cnc-reforca-pedido-por-ajustes-no-cronograma-de-implementacao/)
+[12 de novembro de 2026 Campinas recebe mais uma edição do Seminário Reforma Tributária pelo Brasil](https://fenacon.org.br/noticias/campinas-recebe-mais-uma-edicao-do-seminario-reforma-tributaria-pelo-brasil/)
+[12 de novembro de 2026 Fenacon reforça compromisso com a segurança jurídica e a preparação das empresas para a Reforma Tributária](https://fenacon.org.br/noticias/fenacon-reforca-compromisso-com-a-seguranca-juridica-e-a-preparacao-das-empresas-para-a-reforma-tributaria/)
+[12 de novembro de 2026 Fisco adia para março de 2027 exigências da reforma tributária para empresas do Simples](https://fenacon.org.br/noticias/fisco-adia-para-marco-de-2027-exigencias-da-reforma-tributaria-para-empresas-do-simples/)
+[12 de novembro de 2026 CAS garante créditos de tributos sobre consumo para entidades filantrópicas](https://fenacon.org.br/reforma-tributaria/cas-garante-creditos-de-tributos-sobre-consumo-para-entidades-filantropicas/)
+[12 de novembro de 2026 Proposta que facilita transição tributária será enviada ao Congresso](https://fenacon.org.br/reforma-tributaria/proposta-que-facilita-transicao-tributaria-sera-enviada-ao-congresso/)
+[11 de novembro de 2026 Inscreva-se no webinar do Ibracon sobre os impactos da Reforma Tributária na Auditoria Independente](https://fenacon.org.br/reforma-tributaria/inscreva-se-no-webinar-do-ibracon-sobre-os-impactos-da-reforma-tributaria-na-auditoria-independente/)
+[11 de novembro de 2026 Fenacon, CFC, Receita Federal, CGIBS e Sebrae realizam entrevista coletiva sobre a Reforma Tributária do Consumo](https://fenacon.org.br/noticias/fenacon-cfc-receita-federal-cgibs-e-sebrae-realizam-entrevista-coletiva-sobre-a-reforma-tributaria-do-consumo/)
+[11 de novembro de 2026 Receita Federal atualiza Ambiente Beta da DeRE](https://fenacon.org.br/reforma-tributaria/receita-federal-atualiza-ambiente-beta-da-dere/)
+[28 de setembro de 2026 Receita Federal esclarece regras para isenção de ganho de capital na venda de imóveis residenciais](https://fenacon.org.br/noticias/receita-federal-esclarece-regras-para-isencao-de-ganho-de-capital-na-venda-de-imoveis-residenciais/)
+[26 de outubro de 2026 Governo vai apresentar projeto de lei para perdoar dívidas dos setores de eventos, bares e restaurantes](https://fenacon.org.br/noticias/governo-vai-apresentar-projeto-de-lei-para-perdoar-dividas-dos-setores-de-eventos-bares-e-restaurantes/)
+[17 de setembro de 2026 Novo cálculo da receita bruta apurada no Simples Nacional](https://fenacon.org.br/reforma-tributaria/novo-calculo-da-receita-bruta-apurada-no-simples-nacional/)
+[22 de outubro de 2026 Projeto dobra limite de isenção de Imposto de Renda na venda de bens de pequeno valor](https://fenacon.org.br/noticias/projeto-dobra-limite-de-isencao-de-imposto-de-renda-na-venda-de-bens-de-pequeno-valor/)
+[6 de outubro de 2026 Receita Federal e PGFN abrem transação para débitos relacionados à multa substitutiva da pena de perdimento](https://fenacon.org.br/noticias/receita-federal-e-pgfn-abrem-transacao-para-debitos-relacionados-a-multa-substitutiva-da-pena-de-perdimento/)
