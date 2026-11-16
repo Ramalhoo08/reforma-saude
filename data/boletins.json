@@ -1,5 +1,241 @@
 [
  {
+  "data": "2026-11-16",
+  "edicao": 23,
+  "resumo": "Para clientes médicos: o PLP 45/2026, que mantém créditos de IBS/CBS das filantrópicas de saúde, segue para a CAE com pedido de urgência (ainda sem ato oficial). No geral, o PT protocolou projeto de 15% de IR sobre dividendos, o regulamento versão 2 de IBS/CBS deve sair nesta semana, e amanhã (17/11) a CAE ouve Durigan, a Receita e o TCU sobre a CBS de 11,3%.",
+  "itens": [
+   {
+    "titulo": "Regulamento do IBS: CGIBS aprovou os ajustes da versão 2 em 10/11; a Receita espera publicar a versão 2 do regulamento da CBS nesta semana",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "O Conselho Superior do CGIBS aprovou em 10/11, em Joinville, ajustes no regulamento do IBS (três artigos do setor financeiro, por sugestão da PGFN e da Receita). Segundo o Reformatributaria, a Receita disse que a versão 2 do regulamento comum de IBS e CBS sairia na semana de 9 a 13/11 e que o prazo máximo seria esta semana; segundo reportagens reproduzidas pela CACB, a publicação estaria prevista para 16 ou 17/11, após assinatura presidencial. Não encontrei publicação no Diário Oficial até agora.",
+    "impacto": "A versão 2 consolida ajustes pedidos pelo setor (cerca de 4.800 contribuições). Pode mexer em regras de crédito, split payment e documentos fiscais que valem a partir de 2027, inclusive para clínicas e hospitais.",
+    "acao": "Conferir o Diário Oficial a partir de hoje e, quando sair, comparar com a versão de abril (Decreto 12.955/2026 e Resolução CGIBS 6/2026) para avisar os clientes.",
+    "prazo": "2026-11-17",
+    "fontes": [
+     {
+      "nome": "CGIBS",
+      "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville"
+     },
+     {
+      "nome": "Reformatributaria.com",
+      "url": "https://www.reformatributaria.com/iva/versao-2-0-do-regulamento-de-ibs-cbs-deve-sair-esta-semana-diz-receita/"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: PLP 45/2026 das filantrópicas de saúde segue para a CAE com pedido de urgência para ir ao Plenário",
+    "alcance": "saúde",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "Segundo a Rádio Senado e o Senado Notícias, o PLP 45/2026, aprovado na CAS em 11/11, permite que entidades filantrópicas de saúde, educação e assistência mantenham ou recuperem os créditos de IBS e CBS embutidos nas compras. O texto vai à CAE com pedido de urgência para votação no Plenário e, por alterar lei complementar, ainda precisa passar pela Câmara. Ainda sem ato oficial.",
+    "impacto": "Hospitais e clínicas filantrópicas (com CEBAS) hoje anulam esses créditos por causa da imunidade; a justificativa do projeto estima em 26% a carga de IBS e CBS sobre as compras dessas entidades. Não vale para clínicas privadas comuns.",
+    "acao": "Se algum cliente for filantrópico, acompanhar a votação na CAE e não mudar o planejamento de preços antes da aprovação final.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Rádio Senado (13/11)",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/11/13/protecao-de-entidades-filantropicas-contra-aumento-de-custos-avanca-no-senado"
+     },
+     {
+      "nome": "Senado Notícias (11/11)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cas-garante-creditos-de-tributos-sobre-consumo-para-entidades-filantropicas"
+     }
+    ]
+   },
+   {
+    "titulo": "Simples Nacional: processamento final das opções para 2027 poderá ser consultado a partir de 20/11",
+    "alcance": "geral",
+    "tema": "simples",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "A Receita e a Fazenda informaram (13/11) que o resultado do processamento final das solicitações de opção pelo Simples Nacional para 2027 poderá ser consultado a partir de 20/11.",
+    "impacto": "Clínicas que pediram opção pelo Simples ou pelo regime regular de IBS/CBS terão a confirmação nessa data.",
+    "acao": "Conferir o resultado de cada cliente em 20/11 e, se houver divergência, corrigir antes de 20/12 (último dia para cancelar as opções).",
+    "prazo": "2026-11-20",
+    "fontes": [
+     {
+      "nome": "Receita Federal",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/processamento-final-das-solicitacoes-de-opcao-pelo-simples-nacional-para-2027"
+     },
+     {
+      "nome": "Ministério da Fazenda",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/processamento-final-de-solicitacao-de-opcao-pelo-simples-nacional-para-2027-pode-ser-consultado-a-partir-de-20-11"
+     }
+    ]
+   },
+   {
+    "titulo": "Imposto Seletivo: comissão mista da MP 1.399 foi designada em 09/11 e ainda não foi instalada; MP precisa virar lei até 31/12 para valer em 2027",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-16",
+    "oQueMudou": "Segundo o Congresso Nacional e análises de Migalhas e Atlas Público, a comissão mista da MP 1.399/2026 foi designada em 09/11 e aguarda instalação. A MP tem 99 emendas e 4 ações no STF. Uma leitura é que, se não for convertida em lei até 31/12/2026, os efeitos podem ir para 2028; a data em que vencem os primeiros 60 dias é divergente entre as fontes (23/11 ou, contando o recesso, 12/02/2027).",
+    "impacto": "A cobrança do Imposto Seletivo está prevista para 02/02/2027 e não atinge serviços médicos; o efeito aparece em fornecedores (bebidas, veículos, etc.) e na base de cálculo de IBS/CBS.",
+    "acao": "Sem ação imediata para clientes de saúde; acompanhar a instalação da comissão.",
+    "prazo": "2026-12-31",
+    "fontes": [
+     {
+      "nome": "Congresso Nacional - MPV 1399/2026",
+      "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/176208"
+     },
+     {
+      "nome": "Migalhas",
+      "url": "https://www.migalhas.com.br/depeso/468048/mp-do-imposto-seletivo-o-espelho-do-ipi-e-o-relogio-de-31-de-dezembro"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: PT protocola PL 5.854/2026 com retenção de 15% de IR sobre lucros e dividendos, sem o limite de R$ 50 mil por mês",
+    "alcance": "geral",
+    "tema": "renda",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-14",
+    "oQueMudou": "Segundo Gazeta do Povo e outros veículos, a bancada do PT na Câmara protocolou na sexta (13/11) quatro projetos: retenção de 15% de IR sobre lucros e dividendos pagos a pessoas físicas (PL 5.854/2026), imposto sobre grandes fortunas (patrimônio acima de R$ 15 milhões, de 0,7% a 3%) e 7,5% sobre rendimentos de LCI e LCA. Os projetos ainda precisam passar pelas comissões, pela Câmara e pelo Senado; sem estimativa de impacto fiscal divulgada.",
+    "impacto": "Para médicos sócios de clínicas, a proposta mudaria a regra atual de dividendos da Lei 15.270/2025 (retenção de 10% acima de R$ 50 mil por mês). Por ora nada muda: é só projeto.",
+    "acao": "Informar os clientes sócios de clínicas que é proposta e manter o planejamento de distribuição de lucros atual; acompanhar a tramitação.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/economia/pt-impostos-lucros-dividendos-lci-lca-grandes-fortunas/"
+     },
+     {
+      "nome": "Guia do Investidor",
+      "url": "https://guiadoinvestidor.com.br/economia/pt-protocola-pacote-de-quatro-projetos-para-criar-novos-impostos-sobre-dividendos-lci-lca-e-grandes-fortunas/"
+     }
+    ]
+   },
+   {
+    "titulo": "Cashback da reforma: Receita prevê devolução de CBS a cerca de 70 milhões de pessoas do CadÚnico a partir de janeiro de 2027",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-15",
+    "oQueMudou": "Segundo reportagens que reproduzem o anúncio da Receita (15/11), famílias do CadÚnico com renda per capita até meio salário mínimo terão 100% da CBS devolvida em luz, água, esgoto, gás canalizado e telefone e 20% nas demais compras (exceto produtos com Imposto Seletivo). Pedir o CPF na nota é necessário. A primeira parcela (jan-mar) sai até 25/04/2027; a devolução do IBS fica para etapa posterior. Não localizei o ato oficial.",
+    "impacto": "Clínicas precisarão registrar o CPF do paciente na nota para o paciente do CadÚnico receber a devolução; custo estimado de cerca de R$ 10 bilhões no primeiro ano.",
+    "acao": "Orientar a recepção a pedir e informar o CPF do paciente na nota fiscal a partir de janeiro.",
+    "prazo": "2027-01-01",
+    "fontes": [
+     {
+      "nome": "ND Mais",
+      "url": "https://ndmais.com.br/economia/cashback-da-reforma-tributaria-comeca-em-janeiro-quem-tem-direito-quanto-volta-e-o-que-fazer-para-receber/"
+     },
+     {
+      "nome": "Mix Vale",
+      "url": "https://www.mixvale.com.br/2026/11/15/receita-federal-libera-cashback-da-cbs-para-familias-do-cadunico-em/"
+     }
+    ]
+   },
+   {
+    "titulo": "CGIBS e Receita dispensam CNPJ de produtor rural e transportador autônomo em 2027 e 2028; nanoempreendedor segue dispensado",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-13",
+    "oQueMudou": "Pelo ato conjunto aprovado pelo CGIBS em Joinville, o produtor rural pessoa física (receita abaixo de R$ 3,6 milhões) e o transportador autônomo de cargas que não optarem pelo regime regular ficam dispensados do CNPJ de 01/01/2027 a 31/12/2028 e seguem identificados pelo CPF. Para pessoas físicas em geral, a dispensa do nanoempreendedor vale até R$ 40,5 mil de faturamento anual.",
+    "impacto": "Não vale para médicos PF autônomos acima de R$ 40,5 mil por ano, que seguem as regras já publicadas (CNPJ e notas a partir de 2027).",
+    "acao": "Nenhuma ação para clientes de saúde; só não confundir a dispensa do agro com a regra do médico PF.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "CGIBS",
+      "url": "https://www.cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville"
+     },
+     {
+      "nome": "Contábeis",
+      "url": "https://www.contabeis.com.br/noticias/80866/cgibs-anuncia-dispensa-de-cnpj-para-produtor-rural-e-autonomo/"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-11-16",
+    "evento": "Abrem as inscrições dos demais prestadores de serviços de pagamento nos testes da Plataforma Pública do split payment; não confirmei que formulários e manuais já foram divulgados (Contábeis)."
+   },
+   {
+    "data": "2026-11-16",
+    "evento": "Fim do prazo de contribuições à consulta do STF (Edital 05/2026) sobre julgamento conjunto de ações de IBS e CBS."
+   },
+   {
+    "data": "2026-11-17",
+    "evento": "Senado retoma o PLP 299/2026 (ajuste fiscal) para votar quatro destaques; às 10h, a CAE ouve Durigan (Fazenda), Barreirinhas (Receita) e Vital do Rêgo (TCU) sobre a alíquota da CBS (Agência Senado)."
+   },
+   {
+    "data": "2026-11-17",
+    "evento": "Prevista a publicação da versão 2 do regulamento de IBS/CBS (16 ou 17/11, segundo a imprensa; sem ato publicado até a pesquisa)."
+   },
+   {
+    "data": "2026-11-18",
+    "evento": "Segunda audiência da CAE do Senado sobre a alíquota da CBS e audiência pública da Comissão de Finanças e Tributação da Câmara, às 10h, com o secretário da Receita, Robinson Barreirinhas."
+   },
+   {
+    "data": "2026-11-20",
+    "evento": "Processamento final das opções pelo Simples Nacional para 2027 passa a poder ser consultado (Receita e Fazenda)."
+   },
+   {
+    "data": "2026-11-23",
+    "evento": "Possível vencimento dos primeiros 60 dias da MP 1.399 do Imposto Seletivo (23/11 segundo Atlas Público; outra leitura conta o recesso e aponta 12/02/2027). A MP precisa virar lei até 31/12 para valer em 2027."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Receita prevê abrir o ambiente piloto a todos os contribuintes até o fim de novembro, segundo o Contábeis (dia ainda não definido)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027; se não houver resolução, vale a alíquota calculada pelo TCU (11,3%), segundo a imprensa (possível adiamento até 22/12)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Nova data da 1ª entrega mensal da DeRE (competência de novembro/2026), pelo Ato Conjunto RFB/CGIBS nº 7, segundo CGIBS, Fazenda do RS e Contábeis."
+   },
+   {
+    "data": "2026-12-17",
+    "evento": "Meta do Senado para concluir a votação dos textos prioritários do ano, entre eles a regulamentação da CBS, segundo a líder do governo (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026. É também o prazo para a MP 1.399 do Imposto Seletivo ser convertida em lei e produzir efeitos em 2027."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes. Pelo Ato Conjunto nº 7, entram nesta data a NFS-e de locações, arrendamentos e receitas condominiais (antes 01/12/2026), a NFGas e a NFAg."
+   },
+   {
+    "data": "2027-01-20",
+    "evento": "Prazo da Receita para regularização voluntária na Operação Fármacos II (créditos presumidos de PIS/Cofins do setor farmacêutico)."
+   },
+   {
+    "data": "2027-02-02",
+    "evento": "Início da cobrança do Imposto Seletivo, conforme a MP publicada em 04/11/2026 (noventena), segundo a imprensa."
+   },
+   {
+    "data": "2027-02-15",
+    "evento": "Início dos eventos da alínea “c” da DeRE (primeiro período: janeiro/2027), segundo o Ato Conjunto nº 7 noticiado por Fazenda do RS e Contábeis."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Pelo Ato Conjunto RFB/CGIBS nº 7: NF-e e NFC-e das empresas do Simples Nacional, NF-e ABI, BP-e e NFS-e de plataformas digitais e dos subitens 1.03, 1.05, 1.09 e 16.01 da lista do ISS."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   }
+  ]
+ },
+ {
   "data": "2026-11-13",
   "edicao": 22,
   "resumo": "Para os clientes da saúde, correção importante: o Ato Conjunto RFB/CGIBS nº 7 adia a 1ª entrega mensal da DeRE (operadoras) de 15/11 para 15/12/2026, segundo o CGIBS, a Fazenda do RS e o Contábeis; a etapa seguinte vai para 15/02/2027. No geral, a CAE do Senado ouve Durigan, Barreirinhas e o TCU sobre a CBS na terça (17/11), a Receita atualizou o PGDAS-D, prevê abrir o piloto a todos até o fim de novembro e recebeu nove propostas de CFC e Fenacon. O ajuste fiscal (PLP 299/2026) segue com destaques em 17/11.",
@@ -159,7 +395,7 @@
   "agenda": [
    {
     "data": "2026-11-16",
-    "evento": "Abrem as inscrições diretas dos demais prestadores de serviços de pagamento nos testes da Plataforma Pública do split payment; os formulários e manuais estavam previstos para 13/11, segundo o Contábeis."
+    "evento": "Abrem as inscrições dos demais prestadores de serviços de pagamento nos testes da Plataforma Pública do split payment; não confirmei que formulários e manuais já foram divulgados (Contábeis)."
    },
    {
     "data": "2026-11-16",
@@ -170,12 +406,20 @@
     "evento": "Senado retoma o PLP 299/2026 (ajuste fiscal) para votar quatro destaques; às 10h, a CAE ouve Durigan (Fazenda), Barreirinhas (Receita) e Vital do Rêgo (TCU) sobre a alíquota da CBS (Agência Senado)."
    },
    {
+    "data": "2026-11-17",
+    "evento": "Prevista a publicação da versão 2 do regulamento de IBS/CBS (16 ou 17/11, segundo a imprensa; sem ato publicado até a pesquisa)."
+   },
+   {
     "data": "2026-11-18",
     "evento": "Segunda audiência da CAE do Senado sobre a alíquota da CBS e audiência pública da Comissão de Finanças e Tributação da Câmara, às 10h, com o secretário da Receita, Robinson Barreirinhas."
    },
    {
+    "data": "2026-11-20",
+    "evento": "Processamento final das opções pelo Simples Nacional para 2027 passa a poder ser consultado (Receita e Fazenda)."
+   },
+   {
     "data": "2026-11-23",
-    "evento": "Vencem os primeiros 60 dias da MP 1.399 do Imposto Seletivo, prorrogáveis por mais 60, segundo a imprensa."
+    "evento": "Possível vencimento dos primeiros 60 dias da MP 1.399 do Imposto Seletivo (23/11 segundo Atlas Público; outra leitura conta o recesso e aponta 12/02/2027). A MP precisa virar lei até 31/12 para valer em 2027."
    },
    {
     "data": "2026-11-30",
