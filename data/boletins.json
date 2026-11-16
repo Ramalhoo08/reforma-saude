@@ -2,7 +2,7 @@
  {
   "data": "2026-11-16",
   "edicao": 23,
-  "resumo": "Para clientes médicos: o PLP 45/2026, que mantém créditos de IBS/CBS das filantrópicas de saúde, segue para a CAE com pedido de urgência (ainda sem ato oficial). No geral, o PT protocolou projeto de 15% de IR sobre dividendos, o regulamento versão 2 de IBS/CBS deve sair nesta semana, e amanhã (17/11) a CAE ouve Durigan, a Receita e o TCU sobre a CBS de 11,3%.",
+  "resumo": "Para clientes médicos: o PLP 45/2026, que mantém créditos de IBS/CBS das filantrópicas de saúde, segue para a CAE com pedido de urgência (ainda sem ato oficial). No geral, o PT protocolou projeto de 15% de IR sobre dividendos, o regulamento versão 2 de IBS/CBS deve sair nesta semana, e amanhã (17/11) a CAE ouve Durigan, a Receita e o TCU sobre a CBS de 11,3%. Atualização da tarde: a audiência da Câmara de 18/11 foi cancelada, a Receita diz que o ajuste fiscal não restringe créditos da CBS e Tarcísio e Tereza Cristina falam em reduzir a alíquota (tudo geral, sem ato oficial).",
   "itens": [
    {
     "titulo": "Regulamento do IBS: CGIBS aprovou os ajustes da versão 2 em 10/11; a Receita espera publicar a versão 2 do regulamento da CBS nesta semana",
@@ -26,6 +26,27 @@
     ]
    },
    {
+    "titulo": "Fato novo: Receita diz que o ajuste fiscal (PLP 299) não restringe os créditos da CBS",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-16",
+    "oQueMudou": "O secretário da Receita, Robinson Barreirinhas, disse em 16/11 que o texto-base do ajuste fiscal não restringe os créditos da CBS e que o crédito da CBS, que começa em janeiro, sempre poderá ser compensado, segundo o Metrópoles. Entidades empresariais criticam o dispositivo que permite ao Executivo reduzir por ato próprio a compensação de tributos com créditos; o texto ainda depende de destaques no Senado e da análise da Câmara. Ainda sem ato oficial.",
+    "impacto": "Para as empresas, a dúvida é se haverá limite à compensação de créditos federais. Para clínicas e médicos PJ, que dependem de créditos de PIS/Cofins e, em 2027, de CBS, o ponto afeta o fluxo de caixa.",
+    "acao": "Acompanhar os destaques do PLP 299 no Senado em 17/11 e avisar clientes que a regra de compensação pode mudar.",
+    "prazo": "2026-11-17",
+    "fontes": [
+     {
+      "nome": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/receita-diz-que-texto-de-ajuste-fiscal-nao-afeta-credito-tributario-da-cbs"
+     },
+     {
+      "nome": "Correio Braziliense (Capital S/A)",
+      "url": "https://blogs.correiobraziliense.com.br/capital-sa/2026/11/16/entidades-empresariais-reagem-a-projeto-de-ajuste-fiscal-do-governo-fim-do-mundo-2-0/"
+     }
+    ]
+   },
+   {
     "titulo": "Fato novo: PLP 45/2026 das filantrópicas de saúde segue para a CAE com pedido de urgência para ir ao Plenário",
     "alcance": "saúde",
     "tema": "consumo",
@@ -43,6 +64,27 @@
      {
       "nome": "Senado Notícias (11/11)",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cas-garante-creditos-de-tributos-sobre-consumo-para-entidades-filantropicas"
+     }
+    ]
+   },
+   {
+    "titulo": "Tarcísio defende que o Senado reduza a CBS de 11,3%; Tereza Cristina diz que a alíquota pode mudar, mas não vê adiamento",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-16",
+    "oQueMudou": "Em 16/11, o governador Tarcísio de Freitas pediu que o Senado reduza a alíquota da CBS calculada pelo TCU (11,3468%) e criticou o ajuste fiscal. A senadora Tereza Cristina disse que o Senado pode mexer na alíquota, tem dúvidas sobre a metodologia do TCU e não acredita em adiamento da reforma, segundo Exame e Seu Dinheiro. Ainda sem ato oficial; o Senado decide até 15/12.",
+    "impacto": "Uma CBS menor reduz a carga de todas as empresas. Para serviços de saúde, a redução de 60% incide sobre a alíquota final, então qualquer corte baixa também o imposto de clínicas e médicos PJ.",
+    "acao": "Seguir a CAE de 17/11 e preparar cenários de preço com a CBS de 11,3% e com alíquota menor.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Exame",
+      "url": "https://exame.com/brasil/tarcisio-defende-que-senado-reduza-aliquota-da-cbs-e-diz-que-projeto-de-ajuste-de-lula-pune-estados/"
+     },
+     {
+      "nome": "Seu Dinheiro",
+      "url": "https://www.seudinheiro.com/2026/politica/senado-pode-reduzir-aliquota-de-113-da-reforma-tributaria-diz-tereza-cristina-entenda-o-que-esta-em-jogo-jcav/"
      }
     ]
    },
@@ -150,6 +192,78 @@
       "url": "https://www.contabeis.com.br/noticias/80866/cgibs-anuncia-dispensa-de-cnpj-para-produtor-rural-e-autonomo/"
      }
     ]
+   },
+   {
+    "titulo": "Fato novo: audiência da Câmara com a Receita sobre a reforma, marcada para 18/11, foi cancelada",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-16",
+    "oQueMudou": "A Comissão de Finanças e Tributação da Câmara cancelou o debate com o secretário da Receita, que seria na quarta (18/11), a pedido do deputado Luiz Carlos Hauly, segundo a Agência Câmara. Não há nova data.",
+    "impacto": "Sem a audiência, o secretário da Receita deixa de explicar na Câmara a regulamentação e as alíquotas; o foco fica na CAE do Senado em 17/11.",
+    "acao": "Retirar a audiência de 18/11 da agenda dos clientes e acompanhar a CAE do Senado.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Agência Câmara",
+      "url": "https://www.camara.leg.br/noticias/1319043-cancelado-debate-na-comissao-de-financas-sobre-regulamentacao-da-reforma-tributaria"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita publica no GitHub o código-fonte aberto da Calculadora de Tributos da reforma",
+    "alcance": "geral",
+    "tema": "nfse",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-16",
+    "oQueMudou": "A Portaria Cotec nº 342, de 12/11/2026, e a Receita publicaram o código da Calculadora de Tributos em três repositórios públicos (regime regular, Simples Nacional e gerador de DANFSe), com licença MIT, segundo a Receita.",
+    "impacto": "Fornecedores de software e empresas podem usar a mesma lógica de cálculo da Receita para conferir CBS e IBS nos sistemas.",
+    "acao": "Avisar clientes e fornecedores de sistemas médicos que o código pode ser usado para validar os cálculos.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Receita Federal",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+     }
+    ]
+   },
+   {
+    "titulo": "CFC, Fenacon e Receita instalam sala de situação com reuniões semanais para a transição de 2027",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-16",
+    "oQueMudou": "A sala de situação, com Sebrae, fez a primeira reunião em Brasília e terá encontros semanais, alternando entre o CFC e a Receita, para tratar das dificuldades de empresas e contadores, segundo Contábeis e Jornal Contábil. Nasceu das nove propostas entregues em 10/11. Ainda sem ato oficial.",
+    "impacto": "Cria canal direto para levar problemas de notas fiscais, apuração assistida e penalidades à Receita antes de 2027.",
+    "acao": "Levar ao CFC ou à Fenacon os problemas recorrentes dos clientes médicos com notas e sistemas.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Contábeis",
+      "url": "https://www.contabeis.com.br/noticias/80861/sala-de-situacao-comeca-a-discutir-desafios-da-reforma-tributaria/"
+     },
+     {
+      "nome": "Jornal Contábil",
+      "url": "https://jornalcontabil.com.br/noticia/reforma-tributaria-cfc-fenacon-e-receita-criam-grupo-para-resolver-problemas-da-transicao/"
+     }
+    ]
+   },
+   {
+    "titulo": "PLP 300/2026 propõe diferimento opcional de IBS e CBS na venda de produtos agropecuários in natura",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-16",
+    "oQueMudou": "O deputado Alceu Moreira apresentou em 11/11 o projeto que permite adiar a cobrança nas vendas entre contribuintes do regime regular, preservando os créditos, segundo o CompreRural. Só foi protocolado.",
+    "impacto": "Interessa ao agro; não muda nada hoje para clínicas e médicos.",
+    "acao": "Apenas acompanhar; sem ação para clientes médicos.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "CompreRural",
+      "url": "https://www.comprerural.com/diferimento-ibs-cbs-producao-rural-plp-300/"
+     }
+    ]
    }
   ],
   "agenda": [
@@ -171,7 +285,7 @@
    },
    {
     "data": "2026-11-18",
-    "evento": "Segunda audiência da CAE do Senado sobre a alíquota da CBS e audiência pública da Comissão de Finanças e Tributação da Câmara, às 10h, com o secretário da Receita, Robinson Barreirinhas."
+    "evento": "Segunda audiência da CAE do Senado sobre a alíquota da CBS. A audiência da Comissão de Finanças da Câmara com a Receita, antes marcada para esta data, foi cancelada, sem nova data (Agência Câmara)."
    },
    {
     "data": "2026-11-20",
