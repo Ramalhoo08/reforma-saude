@@ -429,7 +429,8 @@
    "Em 10/11, segundo o Senado Notícias, o TCU entregou o acórdão (11,3%) ao Senado; o prazo para fixar a alíquota segue 15/12. Segundo O Povo, a sessão da CAE com Durigan e o presidente do TCU foi marcada para 17/11, não 11/11. Também em 10/11, segundo a Agência Brasil, deputados admitiram rever isenções se o IVA passar de 26,5% e descartaram adiar a reforma. Tudo sem ato oficial.",
    "Em 11/11, segundo Metrópoles e BPMoney, o secretário da Receita disse que sem as isenções a alíquota média seria de cerca de 8,5% e que reduzir os 11,3% exigiria rever benefícios e alíquotas reduzidas. Segundo a imprensa, a CAE ouve Durigan e o TCU em 17/11 e FGV e OAB em 18/11. Ainda sem ato oficial.",
    "Em 11/11 o TCU também recomendou à Receita e à Fazenda priorizar as normas críticas da CBS e um plano com marcos para o split payment (O Povo). CAE ouve Durigan, Receita e TCU em 17/11 e especialistas em 18/11; se o Senado não votar até 15/12, vale a alíquota do TCU (segundo a imprensa).",
-   "16/11: Tarcísio pede ao Senado que reduza a CBS de 11,3%; Tereza Cristina diz que a alíquota pode mudar, mas não vê adiamento (Exame, Seu Dinheiro; sem ato oficial)."
+   "16/11: Tarcísio pede ao Senado que reduza a CBS de 11,3%; Tereza Cristina diz que a alíquota pode mudar, mas não vê adiamento (Exame, Seu Dinheiro; sem ato oficial).",
+   "17/11: na CAE, segundo a CNN Brasil, Durigan defendeu rever isenções e regimes diferenciados para reduzir a CBS em 2028, repetiu a média de 8,5% e o presidente do TCU atribuiu o 11,3% às exceções da lei; sem resolução até 15/12 vale o cálculo do TCU. Segunda audiência (especialistas) em 18/11. Ainda sem ato oficial do Senado."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -526,9 +527,17 @@
    {
     "nome": "Exame",
     "url": "https://exame.com/brasil/tarcisio-defende-que-senado-reduza-aliquota-da-cbs-e-diz-que-projeto-de-ajuste-de-lula-pune-estados/"
+   },
+   {
+    "nome": "CNN Brasil – Durigan defende revisar regimes especiais para reduzir CBS em 2028",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-defende-revisar-regimes-especiais-para-reduzir-cbs-em-2028/"
+   },
+   {
+    "nome": "Senado Notícias – No Senado, ministro da Fazenda defende novo tributo sobre o consumo",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo"
    }
   ],
-  "atualizadoEm": "2026-11-16"
+  "atualizadoEm": "2026-11-17"
  },
  {
   "id": "renda-lei-15270-dividendos",

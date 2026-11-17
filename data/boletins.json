@@ -2,8 +2,29 @@
  {
   "data": "2026-11-17",
   "edicao": 24,
-  "resumo": "Para clientes médicos: nenhum fato novo específico no radar; seguem pendentes a votação do PLP 45/2026 (filantrópicas de saúde) na CAE e a alíquota da CBS. No geral, hoje o Senado vota os destaques do ajuste fiscal (PLP 299) e a CAE ouve Fazenda, Receita e TCU às 10h; a Fenacon pediu revisão do aumento do lucro presumido e a Receita confirmou o perdão automático das dívidas do MEI.",
+  "resumo": "Para clientes médicos: nenhum fato novo específico; seguem pendentes o PLP 45/2026 (filantrópicas de saúde) na CAE e a alíquota da CBS. No geral, na CAE Durigan disse que a CBS só cai com revisão de benefícios, a partir de 2028, e sem resolução do Senado até 15/12 vale o 11,3% do TCU; o Senado votava hoje os destaques do ajuste fiscal (PLP 299), resultado ainda não confirmado; a Fenacon pediu revisão do aumento do lucro presumido e a Receita confirmou o perdão automático das dívidas do MEI.",
   "itens": [
+   {
+    "titulo": "Fato novo: na CAE, Durigan diz que a CBS só cai com revisão de benefícios, a partir de 2028; sem resolução do Senado até 15/12 vale o 11,3% do TCU",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-17",
+    "oQueMudou": "Segundo a CNN Brasil, na audiência da CAE do Senado em 17/11, o ministro Dario Durigan, o presidente do TCU Vital do Rêgo e o secretário da Receita Robinson Barreirinhas trataram da alíquota de referência da CBS de 2027 (11,3%). Durigan defendeu rever isenções, reduções de base e regimes diferenciados para baixar a alíquota em 2028 e repetiu que a média efetiva seria de cerca de 8,5%. Vital do Rêgo atribuiu o 11,3% às exceções previstas na lei. Segundo a imprensa, se o Senado não fixar outra alíquota até 15/12, vale a do TCU. Eduardo Braga é o relator da resolução. Ainda sem ato oficial do Senado.",
+    "impacto": "Para as empresas, o número de partida de 2027 continua 11,3%; o governo sinaliza que a redução virá por revisão de benefícios e não em 2027. Para clientes médicos, a redução de 60% da saúde incide sobre essa referência, então as simulações seguem com 11,3% até a resolução.",
+    "acao": "Manter as simulações de 2027 com 11,3% e acompanhar a 2ª audiência da CAE (18/11) e a resolução do Senado.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "CNN Brasil – Durigan defende revisar regimes especiais para reduzir CBS em 2028",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-defende-revisar-regimes-especiais-para-reduzir-cbs-em-2028/"
+     },
+     {
+      "nome": "Senado Notícias – No Senado, ministro da Fazenda defende novo tributo sobre o consumo",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo"
+     }
+    ]
+   },
    {
     "titulo": "Fato novo: Fenacon pede revisão do PLP 299/2026, que eleva em 20% a base do lucro presumido acima de R$ 5 milhões; Senado vota os destaques hoje (17/11)",
     "alcance": "geral",
