@@ -1,5 +1,183 @@
 [
  {
+  "data": "2026-11-18",
+  "edicao": 25,
+  "resumo": "Para clientes médicos: estimativas indicam que o novo cálculo do piso da Saúde no pacote fiscal pode reduzir o piso de 2027 em R$ 6,8 a R$ 9 bilhões, e o governo contesta. No geral: o relator Braga pede os critérios sigilosos do TCU na CAE, que ouve FGV e OAB hoje; o resultado dos destaques do PLP 299 não está confirmado; e a Receita só liberou a documentação da API do RAD e promete abrir o piloto e publicar as regras de conformidade em dias.",
+  "itens": [
+   {
+    "titulo": "Pacote fiscal (PLP 299): novo cálculo do piso da Saúde pode reduzir o piso de 2027 em R$ 6,8 a R$ 9 bilhões, segundo estimativas; governo contesta",
+    "alcance": "saúde",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-17",
+    "oQueMudou": "Segundo o BPMoney e outros veículos de 17/11, o pacote fiscal em votação no Senado exclui receitas do petróleo da base do piso constitucional da Saúde até 2030. O economista Felipe Salto estima perda de cerca de R$ 9 bilhões em 2027; a Consultoria de Orçamentos do Senado calcula R$ 6,8 bilhões (piso de R$ 272,2 bi contra R$ 279 bi). O ministro do Planejamento, Bruno Moretti, diz que a Saúde terá R$ 20 bilhões a mais em 2027, e o Conselho Nacional de Saúde se opõe à mudança. Ainda sem ato oficial: o projeto não é lei.",
+    "impacto": "Não muda tributo dos clientes médicos, mas pode reduzir o orçamento federal da Saúde (SUS) e afetar repasses e contratos de quem atende o sistema público ou filantrópico.",
+    "acao": "Só acompanhar. Avisar clientes que prestam serviços ao SUS que o orçamento de 2027 pode mudar.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "BPMoney – Pacote fiscal pode tirar R$ 9 bilhões da Saúde em 2027 e frear piso até 2030",
+      "url": "https://bpmoney.com.br/economia/pacote-fiscal-saude-pode-perder-9-bilhoes-2027-piso-ate-2030/"
+     },
+     {
+      "nome": "Brasil 247 – Saúde pode perder R$ 9 bilhões em 2027 com ajuste fiscal do governo",
+      "url": "https://www.brasil247.com/brasilia/saude-pode-perder-r-9-bilhoes-em-2027-com-ajuste-fiscal-do-governo/"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: na CAE, relator Braga pede os critérios sigilosos do TCU; Renan defende manter o cronograma; segunda audiência (FGV e OAB) é hoje, 18/11",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-17",
+    "oQueMudou": "Na audiência de 17/11, segundo o Senado e a Agência Brasil, Durigan disse que os 11,3% são um teto e que a alíquota efetiva média seria de 8,5%. O relator Eduardo Braga (MDB-AM) questionou a diferença para os 9,21% estimados antes pelo governo, pediu os critérios técnicos do TCU (sob sigilo) e preparou um projeto de lei complementar para verificar a alíquota todo ano. Renan Calheiros criticou o adiamento da reforma. Hoje (18/11) a CAE deve ouvir FGV e OAB. Nenhuma data de votação da resolução em plenário foi encontrada; sem ela até 15/12 vale o 11,3% do TCU (possível adiamento até 22/12, segundo a imprensa). Ainda sem ato oficial do Senado.",
+    "impacto": "A alíquota de referência da CBS segue em aberto e é a base da simulação de 2027 dos clientes médicos (a redução de 60% incide sobre ela).",
+    "acao": "Manter as simulações com 11,3% e revisar quando o Senado votar a resolução.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Senado Notícias – No Senado, ministro da Fazenda defende novo tributo sobre o consumo",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo"
+     },
+     {
+      "nome": "Agência Brasil – Durigan explica no Senado alíquota de 11,3% da CBS",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs"
+     }
+    ]
+   },
+   {
+    "titulo": "PLP 299/2026 (ajuste fiscal): resultado dos destaques de 17/11 não confirmado; uma fonte diz que a votação foi adiada",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-17",
+    "oQueMudou": "O texto-base foi aprovado em 12/11 (45 a 31) e inclui o acréscimo de 20% na base do lucro presumido acima de R$ 5 milhões. Os destaques, entre eles o que tira a autorização para o Executivo restringir a compensação de créditos tributários, estavam marcados para 17/11. Nas buscas, nenhuma fonte confirma o resultado; uma fonte de 17/11 diz que o presidente do Senado adiou a votação. O projeto ainda precisa passar pela Câmara e ser sancionado.",
+    "impacto": "Clínicas e médicos no lucro presumido que faturam acima de R$ 5 milhões podem ter base de cálculo maior em 2027 se o texto virar lei.",
+    "acao": "Conferir o resultado no site do Senado antes de comunicar clientes; simular o lucro presumido com o acréscimo de 20% para quem passa de R$ 5 milhões.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Mix Vale – PLP 299/2026: Senado vota nesta terça-feira os destaques",
+      "url": "https://www.mixvale.com.br/2026/11/17/plp-299-2026-senado-vota-nesta-terca-feira-os-destaques-ao-ajuste-fiscal-de-lula/"
+     },
+     {
+      "nome": "Senado Notícias – Texto principal do ajuste fiscal é aprovado pelo Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita libera a documentação técnica da API do RAD (recolhimento pelo adquirente da CBS); a API em produção ainda não tem data",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-17",
+    "oQueMudou": "Em 17/11 a Receita informou que só a documentação técnica da API para emitir o RAD (DARF de recolhimento da CBS pelo adquirente) está disponível, no portal da Apuração Assistida; a API será liberada \"em breve\", sem data. O cronograma de setembro previa o final de novembro nos ambientes de produção restrita e beta.",
+    "impacto": "Quem compra de fornecedor sem recolhimento próprio (por exemplo, serviços de terceiros) poderá recolher a CBS como adquirente; sistemas de gestão de clínicas precisarão se integrar.",
+    "acao": "Perguntar ao fornecedor do sistema de gestão se prevê integração com o RAD.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Receita Federal – Virando a Chave: API do RAD, documentação técnica já está disponível",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita diz que o piloto da apuração assistida abre a todas as empresas ainda esta semana e que as regras de conformidade (sem punição por erro de boa-fé) saem em até uma semana",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-17",
+    "oQueMudou": "Segundo Valor Econômico e UOL (17/11, falas do secretário Robinson Barreirinhas na audiência do Senado), o projeto-piloto da CBS será aberto esta semana às demais pessoas jurídicas e as regras do programa de conformidade serão publicadas até a próxima semana. A imprensa também diz que a Receita descarta punir erros de boa-fé em 2027. Outras fontes falam em abertura até o fim de novembro, sem data certa. Ainda sem ato oficial.",
+    "impacto": "Quem estiver no regime regular de IBS/CBS poderá testar a apuração antes de janeiro; as regras de conformidade devem definir como será a proteção contra multa em 2027.",
+    "acao": "Cadastrar os clientes no ambiente piloto assim que abrir e conferir o ato do programa de conformidade quando sair.",
+    "prazo": "2026-11-30",
+    "fontes": [
+     {
+      "nome": "Contábeis – CBS em 2027: empresas cobram prazo para adaptação",
+      "url": "https://www.contabeis.com.br/noticias/80883/cbs-em-2027-empresas-cobram-prazo-para-adaptacao/"
+     },
+     {
+      "nome": "Conexão Marília – Receita mapeia riscos da reforma e promete orientação na transição",
+      "url": "https://conexaomarilia.com.br/2026/11/18/receita-mapeia-riscos-da-reforma-e-promete-orientacao-na-transicao/"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-11-18",
+    "evento": "Segunda audiência da CAE do Senado sobre a alíquota da CBS, com FGV e OAB (segundo o Senado). A audiência da Comissão de Finanças da Câmara com a Receita, antes marcada para esta data, foi cancelada, sem nova data (Agência Câmara)."
+   },
+   {
+    "data": "2026-11-20",
+    "evento": "Processamento final das opções pelo Simples Nacional para 2027 passa a poder ser consultado (Receita e Fazenda)."
+   },
+   {
+    "data": "2026-11-23",
+    "evento": "Possível vencimento dos primeiros 60 dias da MP 1.399 do Imposto Seletivo (23/11 segundo Atlas Público; outra leitura conta o recesso e aponta 12/02/2027). A MP precisa virar lei até 31/12 para valer em 2027."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Receita prevê abrir o ambiente piloto a todos os contribuintes até o fim de novembro, segundo o Contábeis (dia ainda não definido)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027; se não houver resolução, vale a alíquota calculada pelo TCU (11,3%), segundo a imprensa (possível adiamento até 22/12)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Nova data da 1ª entrega mensal da DeRE (competência de novembro/2026), pelo Ato Conjunto RFB/CGIBS nº 7, segundo CGIBS, Fazenda do RS e Contábeis."
+   },
+   {
+    "data": "2026-12-17",
+    "evento": "Meta do Senado para concluir a votação dos textos prioritários do ano, entre eles a regulamentação da CBS, segundo a líder do governo (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026. É também o prazo para a MP 1.399 do Imposto Seletivo ser convertida em lei e produzir efeitos em 2027."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes. Pelo Ato Conjunto nº 7, entram nesta data a NFS-e de locações, arrendamentos e receitas condominiais (antes 01/12/2026), a NFGas e a NFAg."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "Receita e PGFN passam a aplicar o perdão automático das dívidas previdenciárias do MEI (DAS-MEI vencido até 13/10/2026); para manter o perdão, o MEI precisa pagar o DAS em dia de janeiro a junho de 2027 (Receita Federal)."
+   },
+   {
+    "data": "2027-01-20",
+    "evento": "Prazo da Receita para regularização voluntária na Operação Fármacos II (créditos presumidos de PIS/Cofins do setor farmacêutico)."
+   },
+   {
+    "data": "2027-02-02",
+    "evento": "Início da cobrança do Imposto Seletivo, conforme a MP publicada em 04/11/2026 (noventena), segundo a imprensa."
+   },
+   {
+    "data": "2027-02-15",
+    "evento": "Início dos eventos da alínea “c” da DeRE (primeiro período: janeiro/2027), segundo o Ato Conjunto nº 7 noticiado por Fazenda do RS e Contábeis."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Pelo Ato Conjunto RFB/CGIBS nº 7: NF-e e NFC-e das empresas do Simples Nacional, NF-e ABI, BP-e e NFS-e de plataformas digitais e dos subitens 1.03, 1.05, 1.09 e 16.01 da lista do ISS."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   }
+  ]
+ },
+ {
   "data": "2026-11-17",
   "edicao": 24,
   "resumo": "Para clientes médicos: nenhum fato novo específico; seguem pendentes o PLP 45/2026 (filantrópicas de saúde) na CAE e a alíquota da CBS. No geral, na CAE Durigan disse que a CBS só cai com revisão de benefícios, a partir de 2028, e sem resolução do Senado até 15/12 vale o 11,3% do TCU; o Senado votava hoje os destaques do ajuste fiscal (PLP 299), resultado ainda não confirmado; a Fenacon pediu revisão do aumento do lucro presumido e a Receita confirmou o perdão automático das dívidas do MEI.",
@@ -75,7 +253,7 @@
    },
    {
     "data": "2026-11-18",
-    "evento": "Segunda audiência da CAE do Senado sobre a alíquota da CBS. A audiência da Comissão de Finanças da Câmara com a Receita, antes marcada para esta data, foi cancelada, sem nova data (Agência Câmara)."
+    "evento": "Segunda audiência da CAE do Senado sobre a alíquota da CBS, com FGV e OAB (segundo o Senado). A audiência da Comissão de Finanças da Câmara com a Receita, antes marcada para esta data, foi cancelada, sem nova data (Agência Câmara)."
    },
    {
     "data": "2026-11-20",
