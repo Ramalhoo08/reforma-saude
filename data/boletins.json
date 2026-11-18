@@ -2,8 +2,29 @@
  {
   "data": "2026-11-18",
   "edicao": 25,
-  "resumo": "Para clientes médicos: estimativas indicam que o novo cálculo do piso da Saúde no pacote fiscal pode reduzir o piso de 2027 em R$ 6,8 a R$ 9 bilhões, e o governo contesta. No geral: o relator Braga pede os critérios sigilosos do TCU na CAE, que ouve FGV e OAB hoje; o resultado dos destaques do PLP 299 não está confirmado; e a Receita só liberou a documentação da API do RAD e promete abrir o piloto e publicar as regras de conformidade em dias.",
+  "resumo": "Para clientes médicos: a votação dos destaques do PLP 299, que mexe no piso da Saúde (estimativa de perda de R$ 6,8 bilhões em 2027, contestada pelo governo), foi remarcada para hoje e o resultado ainda não saiu. No geral: Receita promete Regulamento 2.0 e regras de conformidade até a próxima semana; relator Braga pede os critérios do TCU na CAE; a base do governo protocolou projetos para taxar dividendos, fortunas e LCI/LCA.",
   "itens": [
+   {
+    "titulo": "Fato novo: Senado confirma que os destaques do PLP 299/2026 (ajuste fiscal) foram remarcados para hoje, 18/11, a pedido do relator Braga; resultado ainda não confirmado",
+    "alcance": "saúde",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-18",
+    "oQueMudou": "Segundo a Agência Senado e a Agência Câmara, Alcolumbre adiou de 17/11 para 18/11 a votação dos quatro destaques, para o relator Eduardo Braga tentar acordo. O texto-base foi aprovado em 12/11 (45 a 31). Entre os pontos em disputa está a Lei Kandir e o teto de R$ 3 bilhões para compensações previdenciárias. A Consultoria de Orçamentos do Senado estima perda de R$ 6,8 bilhões no piso da Saúde em 2027; o governo contesta. Ainda não há resultado dos destaques.",
+    "impacto": "Esclarece o item anterior: a votação não ocorreu em 17/11 e o texto ainda não foi para a Câmara. O piso da Saúde segue em discussão, o que pode afetar o financiamento de hospitais e clínicas que atendem o SUS.",
+    "acao": "Acompanhar o resultado dos destaques de hoje e a ida do texto à Câmara; avisar clientes de hospitais e clínicas com receita do SUS só quando houver texto final.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Agência Senado: votação de destaques ao ajuste fiscal é remarcada para quarta",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/votacao-de-destaques-ao-ajuste-fiscal-e-remarcada-na-quarta-feira"
+     },
+     {
+      "nome": "Agência Câmara: votação do projeto de ajuste fiscal no Senado fica para esta quarta-feira",
+      "url": "https://www.camara.leg.br/noticias/1320416-votacao-do-projeto-de-ajuste-fiscal-no-senado-fica-para-esta-quarta-feira"
+     }
+    ]
+   },
    {
     "titulo": "Pacote fiscal (PLP 299): novo cálculo do piso da Saúde pode reduzir o piso de 2027 em R$ 6,8 a R$ 9 bilhões, segundo estimativas; governo contesta",
     "alcance": "saúde",
@@ -102,6 +123,44 @@
      {
       "nome": "Conexão Marília – Receita mapeia riscos da reforma e promete orientação na transição",
       "url": "https://conexaomarilia.com.br/2026/11/18/receita-mapeia-riscos-da-reforma-e-promete-orientacao-na-transicao/"
+     }
+    ]
+   },
+   {
+    "titulo": "Base do governo protocola pacote para taxar grandes fortunas, dividendos (15%, sem o limite de R$ 50 mil) e LCI/LCA; sem patrocínio formal do governo",
+    "alcance": "geral",
+    "tema": "renda",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-18",
+    "oQueMudou": "Segundo a imprensa (InvestNews, SpaceMoney, Gazeta do Povo), a bancada do PT, com apoio de mais de 80 parlamentares, protocolou projetos: imposto sobre grandes fortunas (PL 5.852/2026, de 0,7% a 3% sobre patrimônio acima de R$ 15 milhões), retenção de 15% sobre dividendos (PL 5.854/2026), 7,5% sobre LCI, LCA, CRI e CRA e JCP de 17,5% para 20%. Ainda sem ato oficial; os números vêm das reportagens e não foram conferidos nos textos.",
+    "impacto": "São propostas, sem votação marcada. Se avançarem, afetam médicos sócios de clínicas que recebem lucros e quem investe em LCI/LCA.",
+    "acao": "Não alterar a distribuição de lucros por causa dos projetos; acompanhar a tramitação e explicar a clientes que a regra vigente é a da Lei 15.270.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "InvestNews: base governista assusta investidores com pacote que taxa dividendos, produtos isentos e fortunas",
+      "url": "https://investnews.com.br/investimentos/base-governista-assusta-investidores-com-pacote-que-taxa-dividendos-produtos-isentos-e-fortunas/"
+     },
+     {
+      "nome": "Gazeta do Povo: PT propõe taxar dividendos em 15% e tributar LCI, LCA e fortunas",
+      "url": "https://www.gazetadopovo.com.br/economia/pt-impostos-lucros-dividendos-lci-lca-grandes-fortunas/"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: Receita diz que o Regulamento 2.0 e as regras de conformidade saem até a próxima semana e descarta adiar a reforma",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-18",
+    "oQueMudou": "Em declarações no Senado e a veículos (Valor, Tribuna de Minas de 17/11), o secretário Robinson Barreirinhas disse que as regras de conformidade (sem punição por erro de boa-fé) e o Regulamento 2.0 da CBS devem sair nesta semana ou na próxima. Ainda sem ato oficial publicado e sem data exata.",
+    "impacto": "As regras de conformidade definirão como a empresa corrige erros de IBS/CBS em 2027 sem multa.",
+    "acao": "Acompanhar o Diário Oficial e a página da Receita; rever o plano de adequação das clínicas quando o texto sair.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Tribuna de Minas: reforma tributária pode ter pequeno impacto na inflação, mas governo descarta adiamento (17/11)",
+      "url": "https://tribunademinas.com.br/noticias/brasil-e-mundo/17-11-2026/reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-mas-governo-descarta-adiamento.html"
      }
     ]
    }

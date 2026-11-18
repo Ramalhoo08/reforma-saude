@@ -559,7 +559,8 @@
    "Não confirmado: uma instrução normativa específica da Receita para a apuração anual do IR mínimo de 2026 (DAA 2027).",
    "Em novembro/2026, segundo Contábeis e TAGD Advogados, decisões de primeira instância (1ª Vara Federal de Botucatu, 9ª Vara Cível Federal de SP) e liminar do TRF-4 afastam ou limitam a retenção de 10% para as partes envolvidas, com tese de retenção progressiva entre R$ 50 mil e R$ 100 mil; as ADIs no STF seguem sem decisão de mérito. Sem efeito geral.",
    "PLP 299/2026 (ajuste fiscal): o Senado aprovou o texto-base em 12/11/2026, por 45 a 31, no substitutivo de Eduardo Braga, com quatro destaques adiados para 17/11. O projeto original eleva de 10% para 20% o acréscimo nos percentuais de presunção do IRPJ e da CSLL acima de R$ 5 milhões de receita anual e permite restringir compensações. As reportagens não confirmam se o ponto foi mantido no substitutivo, e o texto ainda irá à Câmara.",
-   "13/11/2026: bancada do PT protocolou o PL 5.854/2026, com retenção de 15% de IR sobre lucros e dividendos pagos a pessoas físicas e fim do limite de R$ 50 mil por mês; é só projeto, ainda sem tramitação concluída (Gazeta do Povo)."
+   "13/11/2026: bancada do PT protocolou o PL 5.854/2026, com retenção de 15% de IR sobre lucros e dividendos pagos a pessoas físicas e fim do limite de R$ 50 mil por mês; é só projeto, ainda sem tramitação concluída (Gazeta do Povo).",
+   "Proposta em discussão (18/11/2026): a bancada do PT protocolou projetos para taxar grandes fortunas (PL 5.852/2026) e reter 15% sobre dividendos sem o limite de R$ 50 mil (PL 5.854/2026), segundo a imprensa; sem votação marcada."
   ],
   "impacto": "Médicos sócios de clínicas lucrativas que retiram mais de R$ 50 mil por mês da mesma empresa já têm retenção de 10%. Na declaração de 2027, quem passar de R$ 600 mil anuais poderá ter IR complementar, conforme a carga efetiva da PJ. Clínicas no Lucro Presumido com receita acima de R$ 5 milhões pagam mais IRPJ e CSLL.",
   "acao": "Revisar a política de distribuição de lucros dos clientes (calendário, valores por sócio e por empresa) e controlar os pagamentos de lucros de 2025 aprovados até 31/12/2025 ou 31/01/2026. Calcular a alíquota efetiva da PJ para estimar o redutor e simular o IR mínimo de 2026 de cada sócio. Conferir a EFD-Reinf R-4010 e os DARFs 1841. Simular o Lucro Presumido de 2027 com acréscimo de 20% na presunção para os clientes acima de R$ 5 milhões, acompanhando a votação do PLP 299/2026.",
@@ -596,8 +597,12 @@
    {
     "nome": "Gazeta do Povo (PL 5.854/2026)",
     "url": "https://www.gazetadopovo.com.br/economia/pt-impostos-lucros-dividendos-lci-lca-grandes-fortunas/"
+   },
+   {
+    "nome": "InvestNews: pacote que taxa dividendos, produtos isentos e fortunas",
+    "url": "https://investnews.com.br/investimentos/base-governista-assusta-investidores-com-pacote-que-taxa-dividendos-produtos-isentos-e-fortunas/"
    }
   ],
-  "atualizadoEm": "2026-11-16"
+  "atualizadoEm": "2026-11-18"
  }
 ]
