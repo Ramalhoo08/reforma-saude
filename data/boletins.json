@@ -2,7 +2,7 @@
  {
   "data": "2026-11-19",
   "edicao": 26,
-  "resumo": "Sem fato novo específico da saúde hoje; as notícias do setor (filantrópicas, PLP 45) seguem como estavam. No geral: a CAE pediu ao TCU os estudos da CBS de 11,3% e o Senado concluiu o ajuste fiscal (PLP 299), que vai à Câmara; a Receita atualizou os números das opções do Simples.",
+  "resumo": "Sem fato novo específico da saúde hoje; as notícias do setor (filantrópicas, PLP 45) seguem como estavam. No geral: a CAE pediu ao TCU os estudos da CBS de 11,3% e o Senado concluiu o ajuste fiscal (PLP 299), que vai à Câmara; a Receita atualizou os números das opções do Simples. Atualização das 17h: o líder do PT retirou o projeto que poderia tributar lucros e dividendos a partir de R$ 5 mil por mês, sem mudança nas regras vigentes.",
   "itens": [
    {
     "titulo": "CAE aprova pedido ao TCU pelos estudos da CBS de 11,3%; Braga pede simulações com 12,5%, 11% e 10%",
@@ -106,6 +106,27 @@
      {
       "nome": "Contábeis – IBS e CBS no ISS: empresas questionam cobrança na Justiça",
       "url": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/"
+     }
+    ]
+   },
+   {
+    "titulo": "Dividendos: líder do PT retira projeto que poderia tributar lucros a partir de R$ 5 mil por mês, em até 25%",
+    "alcance": "geral",
+    "tema": "renda",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-19",
+    "oQueMudou": "Segundo InfoMoney e Metrópoles, o líder da bancada do PT, Pedro Uczai, retirou hoje (19/11) o projeto de tributação de lucros e dividendos, que previa isenção até R$ 5 mil por mês e alíquotas progressivas de até 25%, e que gerou temor de atingir MEIs. O gabinete diz que o PT fará novos estudos técnicos. Ainda sem ato oficial; as reportagens divergem nos detalhes e não confirmam a situação do PL 5.854/2026 (retenção de 15% sem o limite de R$ 50 mil).",
+    "impacto": "Nada muda hoje: continua valendo a retenção de 10% sobre lucros acima de R$ 50 mil por mês pagos por uma mesma empresa a um mesmo sócio (Lei 15.270/2025), e o lucro distribuído pelo MEI segue isento nas regras atuais. Para sócios de clínicas, o risco de uma tributação maior de dividendos fica em pausa, mas o debate não acabou.",
+    "acao": "Não alterar a política de distribuição de lucros dos clientes por causa dessa proposta. Acompanhar novos projetos e informar os clientes MEI e sócios de clínicas de que não há mudança nas regras vigentes.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "InfoMoney – PT recua e retira projeto que poderia taxar lucros de MEIs em até 25%",
+      "url": "https://www.infomoney.com.br/politica/pt-recua-e-retira-projeto-que-poderia-taxar-lucros-de-meis-em-ate-25/"
+     },
+     {
+      "nome": "Metrópoles – Líder do PT retira projeto para tributar lucros que poderia atingir MEIs",
+      "url": "https://www.metropoles.com/colunas/andreza-matais/lider-do-pt-retira-projeto-para-tributar-lucros-que-poderia-atingir-meis"
      }
     ]
    }
