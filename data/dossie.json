@@ -259,7 +259,8 @@
    "Em 29/10/2026 a Receita informou 1.000.142 optantes pelo regime regular de IBS/CBS; o prazo de 30/10 não seria prorrogado e o cancelamento vai até 20/12/2026.",
    "PLP 108/2021: o relator diz ter compromisso do presidente da Câmara para votar em novembro tetos de R$ 870 mil (ME) e R$ 8,7 milhões (EPP), de forma gradual até 2029; ainda sem votação marcada.",
    "Em 11/11, segundo BPMoney, a Receita anunciou adiar para março de 2027 a exigência de NF-e e NFC-e no novo modelo para o Simples que vende mercadorias; a NFS-e de serviços não muda. Ainda sem ato oficial.",
-   "Em 13/11/2026 a Receita informou que o PGDAS-D foi atualizado para a reforma a partir dos períodos 11/2026 e 12/2026: competência obrigatória em 2027, folha de 12 meses (FS12) obrigatória e Defis dentro do PGDAS-D, de janeiro a março."
+   "Em 13/11/2026 a Receita informou que o PGDAS-D foi atualizado para a reforma a partir dos períodos 11/2026 e 12/2026: competência obrigatória em 2027, folha de 12 meses (FS12) obrigatória e Defis dentro do PGDAS-D, de janeiro a março.",
+   "Em 18/11/2026 a Receita informou 657.355 pedidos de opção pelo Simples (376.551 deferidos, 280.804 indeferidos) e 1.090.080 pelo regime regular de IBS/CBS; 30.370 cancelamentos do regime regular até então."
   ],
   "impacto": "Para a clínica do Simples que atende principalmente pacientes pessoa física e operadoras, sair do DAS tende a trazer pouco benefício de crédito ao tomador e mais trabalho. Para quem presta a empresas do regime regular (hospitais, medicina do trabalho para empresas), o crédito integral pode fazer diferença no preço. O fim do regime de caixa antecipa o imposto de quem fatura e só recebe depois (convênios com prazo longo).",
   "acao": "Até 30/10/2026, simular para cada cliente do Simples as duas opções (DAS × regime regular), olhando o perfil dos tomadores, a margem e as compras com crédito. Registrar a decisão por escrito com o cliente. Ajustar o fluxo de caixa de 2027 de quem hoje usa regime de caixa. Lembrar da janela de cancelamento de 03/11 a 20/12/2026.",
@@ -300,9 +301,13 @@
    {
     "nome": "Receita Federal – PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026"
+   },
+   {
+    "nome": "Receita Federal – números de opção (18/11/2026)",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
    }
   ],
-  "atualizadoEm": "2026-11-13"
+  "atualizadoEm": "2026-11-19"
  },
  {
   "id": "creditos-split-payment",
@@ -431,7 +436,8 @@
    "Em 11/11 o TCU também recomendou à Receita e à Fazenda priorizar as normas críticas da CBS e um plano com marcos para o split payment (O Povo). CAE ouve Durigan, Receita e TCU em 17/11 e especialistas em 18/11; se o Senado não votar até 15/12, vale a alíquota do TCU (segundo a imprensa).",
    "16/11: Tarcísio pede ao Senado que reduza a CBS de 11,3%; Tereza Cristina diz que a alíquota pode mudar, mas não vê adiamento (Exame, Seu Dinheiro; sem ato oficial).",
    "17/11: na CAE, segundo a CNN Brasil, Durigan defendeu rever isenções e regimes diferenciados para reduzir a CBS em 2028, repetiu a média de 8,5% e o presidente do TCU atribuiu o 11,3% às exceções da lei; sem resolução até 15/12 vale o cálculo do TCU. Segunda audiência (especialistas) em 18/11. Ainda sem ato oficial do Senado.",
-   "18/11: na CAE de 17/11, segundo o Senado Notícias e a Agência Brasil, o relator Braga questionou a diferença para os 9,21% estimados antes pelo governo, pediu os critérios técnicos do TCU (sob sigilo) e preparou projeto de lei complementar com verificação anual da alíquota; Renan Calheiros criticou o adiamento da reforma. A segunda audiência (FGV e OAB) é em 18/11; sem data de votação em plenário; sem resolução até 15/12 vale o 11,3% do TCU. Ainda sem ato oficial."
+   "18/11: na CAE de 17/11, segundo o Senado Notícias e a Agência Brasil, o relator Braga questionou a diferença para os 9,21% estimados antes pelo governo, pediu os critérios técnicos do TCU (sob sigilo) e preparou projeto de lei complementar com verificação anual da alíquota; Renan Calheiros criticou o adiamento da reforma. A segunda audiência (FGV e OAB) é em 18/11; sem data de votação em plenário; sem resolução até 15/12 vale o 11,3% do TCU. Ainda sem ato oficial.",
+   "19/11: após a 2ª audiência, segundo a Money Times, a CAE aprovou requerimento de Braga pedindo ao TCU estudos, metodologias e atas, e à Fazenda informações; Braga pediu simulações com 12,5%, 11% e 10%; especialistas apresentaram 8,62%, 10,3% e 10,91% (cálculos próprios); OAB pediu adiar a reforma. Ainda sem ato oficial."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -540,9 +546,13 @@
    {
     "nome": "Agência Brasil – Durigan explica no Senado alíquota de 11,3% da CBS",
     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs"
+   },
+   {
+    "nome": "Money Times – Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
+    "url": "https://www.moneytimes.com.br/senado-pede-explicacoes-a-tcu-sobre-aliquota-de-113-da-cbs-fets/"
    }
   ],
-  "atualizadoEm": "2026-11-18"
+  "atualizadoEm": "2026-11-19"
  },
  {
   "id": "renda-lei-15270-dividendos",

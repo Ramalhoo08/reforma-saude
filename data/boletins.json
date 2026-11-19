@@ -1,5 +1,183 @@
 [
  {
+  "data": "2026-11-19",
+  "edicao": 26,
+  "resumo": "Sem fato novo específico da saúde hoje; as notícias do setor (filantrópicas, PLP 45) seguem como estavam. No geral: a CAE pediu ao TCU os estudos da CBS de 11,3% e o Senado concluiu o ajuste fiscal (PLP 299), que vai à Câmara; a Receita atualizou os números das opções do Simples.",
+  "itens": [
+   {
+    "titulo": "CAE aprova pedido ao TCU pelos estudos da CBS de 11,3%; Braga pede simulações com 12,5%, 11% e 10%",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-18",
+    "oQueMudou": "Depois de duas audiências (17 e 18/11), a CAE do Senado aprovou, segundo a Money Times, requerimento do relator Eduardo Braga pedindo ao TCU estudos, metodologias e atas que embasaram a alíquota de 11,3%, e informações à Fazenda. Segundo a imprensa, o TCU usou 15,9% em um dos indicadores e Braga pediu à consultoria do Senado simulações com 12,5%, 11% e 10%. Especialistas apresentaram cálculos próprios de 8,62%, 10,3% e 10,91% (não validados pelo TCU). A OAB chamou os cálculos de 'caixa preta' e pediu adiar a reforma; o CFC cobrou transparência. Ainda sem ato oficial; sem resolução do Senado até 15/12 vale o 11,3%.",
+    "impacto": "A alíquota de 2027 segue aberta: pode ficar em 11,3% ou cair se o Senado aceitar outro cálculo. Isso muda o preço dos serviços de todas as empresas; a redução de 60% da saúde incide sobre o número final.",
+    "acao": "Manter simulações com 11,3% e preparar cenários com 10% a 12,5% para clientes médicos do regime regular. Acompanhar a resolução do Senado até 15/12.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Money Times – Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
+      "url": "https://www.moneytimes.com.br/senado-pede-explicacoes-a-tcu-sobre-aliquota-de-113-da-cbs-fets/"
+     },
+     {
+      "nome": "Congresso em Foco – OAB vê caixa preta na CBS",
+      "url": "https://www.congressoemfoco.com.br/"
+     }
+    ]
+   },
+   {
+    "titulo": "Senado conclui o ajuste fiscal (PLP 299/2026) por 69 a 2 e envia o texto à Câmara",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-18",
+    "oQueMudou": "Segundo o Atlas Público e o Mixvale, o Senado concluiu em 18/11 a votação do PLP 299/2026 em turno suplementar, por 69 votos a 2 e 1 abstenção, rejeitando destaques (como a emenda 40, por 47 a 30) e fechando acordo sobre a Lei Kandir. O texto vai à Câmara. As fontes consultadas não confirmam se ficou no texto o aumento de 20% na base do lucro presumido acima de R$ 5 milhões; conferir o texto final. Ainda sem ato oficial de sanção.",
+    "impacto": "Se a regra do lucro presumido sobreviver, clínicas e médicos PJ do presumido com receita alta podem pagar mais IRPJ/CSLL. Falta saber o texto final e a votação na Câmara.",
+    "acao": "Ler o texto aprovado pelo Senado na página do PLP 299/2026 e checar o que mudou para o lucro presumido; avisar clientes médicos do presumido com receita acima de R$ 5 milhões se a regra continuar.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Atlas Público – Senado conclui votação do PLP 299/2026 e envia texto à Câmara",
+      "url": "https://atlaspublico.com.br/senado/noticias/senado-conclui-votacao-do-plp-299-2026-pacote-de-ajuste-103692"
+     },
+     {
+      "nome": "Mixvale – Senado aprova ajuste fiscal por 69 votos a 2",
+      "url": "https://www.mixvale.com.br/2026/11/18/senado-aprova-ajuste-fiscal-por-69-votos-a-2-e-envia-texto-a-camara/"
+     },
+     {
+      "nome": "Senado – PLP 299/2026",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328"
+     }
+    ]
+   },
+   {
+    "titulo": "Simples: Receita atualiza números das opções de 2027 (657.355 pelo Simples; 1,09 milhão pelo regime regular de IBS/CBS)",
+    "alcance": "geral",
+    "tema": "simples",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-18",
+    "oQueMudou": "Em 18/11 a Receita informou 657.355 solicitações de opção pelo Simples (376.551 deferidas, 280.804 indeferidas) e 1.090.080 pelo regime regular de IBS/CBS. Já há 399 cancelamentos do Simples e 30.370 do regime regular. O cancelamento vai até 20/12/2026 e o processamento final pode ser consultado a partir de 20/11.",
+    "impacto": "Cliente que optou pelo regime regular ainda pode voltar atrás até 20/12; indeferimento do Simples precisa ser conferido.",
+    "acao": "Conferir o deferimento de cada cliente a partir de 20/11 e decidir cancelamentos até 20/12.",
+    "prazo": "2026-12-20",
+    "fontes": [
+     {
+      "nome": "Receita Federal – atualização dos números de opção (18/11/2026)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
+     }
+    ]
+   },
+   {
+    "titulo": "Créditos de PIS/Cofins: Receita vai regular a compensação com a CBS; créditos devem estar na EFD-Contribuições até 31/12/2026",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-18",
+    "oQueMudou": "Segundo o Valor (18/11) e o Contábeis, a Receita vai regular o uso de créditos de PIS/Cofins para quitar a CBS (LC 214, art. 378). Segundo o Contábeis, créditos não registrados na EFD-Contribuições até 31/12/2026 não poderão ser usados. Créditos de IPI ainda sem definição. Não confirmei se a instrução normativa já foi publicada.",
+    "impacto": "Clínicas e hospitais do lucro real com saldo de crédito de PIS/Cofins podem usá-lo contra a CBS em 2027, se o saldo estiver escriturado.",
+    "acao": "Levantar o estoque de créditos de PIS/Cofins dos clientes do lucro real e escriturar na EFD-Contribuições até 31/12/2026.",
+    "prazo": "2026-12-31",
+    "fontes": [
+     {
+      "nome": "Contábeis – Créditos de PIS/Cofins devem ser registrados até dezembro",
+      "url": "https://www.contabeis.com.br/noticias/80507/creditos-de-pis-cofins-devem-ser-registrados-ate-dezembro/"
+     },
+     {
+      "nome": "Contábeis – Receita prepara IN para compensação de créditos de PIS e Cofins na CBS",
+      "url": "https://www.contabeis.com.br/noticias/78967/receita-prepara-in-para-compensacao-de-creditos-de-pis-e-cofins-na-cbs"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: exclusão de IBS e CBS da base do ISS ganha força; Prefeitura de SP defende incluí-los em 2027",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-18",
+    "oQueMudou": "Segundo a Fenacon e o Contábeis, empresas buscam liminares para tirar IBS e CBS da base do ISS (a Roit obteve a primeira liminar conhecida) e a Prefeitura de São Paulo manifestou que devem ser incluídos a partir de 01/01/2027. Segundo o Contábeis, o TJ-SP suspendeu dez decisões análogas sobre o ICMS. Sem decisão de mérito nem ato oficial.",
+    "impacto": "Clínicas e médicos PJ que pagam ISS podem ter base maior em 2027 se a prefeitura incluir IBS/CBS; a Justiça ainda não decidiu.",
+    "acao": "Verificar a lei do ISS do município de cada cliente e avaliar, com advogado, mandado de segurança antes de janeiro.",
+    "prazo": "2026-12-31",
+    "fontes": [
+     {
+      "nome": "Fenacon – Exclusão de IBS e CBS da base do ISS ganha força",
+      "url": "https://fenacon.org.br/noticias/exclusao-de-ibs-e-cbs-da-base-do-iss-ganha-forca-como-filhote-de-discussao-do-icms/"
+     },
+     {
+      "nome": "Contábeis – IBS e CBS no ISS: empresas questionam cobrança na Justiça",
+      "url": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica/"
+     }
+    ]
+   }
+  ],
+  "agenda": [
+   {
+    "data": "2026-11-20",
+    "evento": "Processamento final das opções pelo Simples Nacional para 2027 passa a poder ser consultado (Receita e Fazenda)."
+   },
+   {
+    "data": "2026-11-23",
+    "evento": "Possível vencimento dos primeiros 60 dias da MP 1.399 do Imposto Seletivo (23/11 segundo Atlas Público; outra leitura conta o recesso e aponta 12/02/2027). A MP precisa virar lei até 31/12 para valer em 2027."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+   },
+   {
+    "data": "2026-11-30",
+    "evento": "Receita prevê abrir o ambiente piloto a todos os contribuintes até o fim de novembro, segundo o Contábeis (dia ainda não definido)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027; se não houver resolução, vale a alíquota calculada pelo TCU (11,3%), segundo a imprensa (possível adiamento até 22/12)."
+   },
+   {
+    "data": "2026-12-15",
+    "evento": "Nova data da 1ª entrega mensal da DeRE (competência de novembro/2026), pelo Ato Conjunto RFB/CGIBS nº 7, segundo CGIBS, Fazenda do RS e Contábeis."
+   },
+   {
+    "data": "2026-12-17",
+    "evento": "Meta do Senado para concluir a votação dos textos prioritários do ano, entre eles a regulamentação da CBS, segundo a líder do governo (ainda sem ato oficial)."
+   },
+   {
+    "data": "2026-12-20",
+    "evento": "Último dia para cancelar as opções pelo Simples e pelo regime regular de IBS/CBS para 2027."
+   },
+   {
+    "data": "2026-12-31",
+    "evento": "Prazo do PNCT para corrigir as inconsistências comunicadas nos documentos fiscais de 2026. É também o prazo para a MP 1.399 do Imposto Seletivo ser convertida em lei e produzir efeitos em 2027."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "CBS cobrada de verdade, PIS e Cofins extintos, IBS a 0,1%. Simples passa a informar IBS/CBS, fim do regime de caixa no Simples e CNPJ e notas para médicos PF contribuintes. Pelo Ato Conjunto nº 7, entram nesta data a NFS-e de locações, arrendamentos e receitas condominiais (antes 01/12/2026), a NFGas e a NFAg."
+   },
+   {
+    "data": "2027-01-01",
+    "evento": "Receita e PGFN passam a aplicar o perdão automático das dívidas previdenciárias do MEI (DAS-MEI vencido até 13/10/2026); para manter o perdão, o MEI precisa pagar o DAS em dia de janeiro a junho de 2027 (Receita Federal)."
+   },
+   {
+    "data": "2027-01-20",
+    "evento": "Prazo da Receita para regularização voluntária na Operação Fármacos II (créditos presumidos de PIS/Cofins do setor farmacêutico)."
+   },
+   {
+    "data": "2027-02-02",
+    "evento": "Início da cobrança do Imposto Seletivo, conforme a MP publicada em 04/11/2026 (noventena), segundo a imprensa."
+   },
+   {
+    "data": "2027-02-15",
+    "evento": "Início dos eventos da alínea “c” da DeRE (primeiro período: janeiro/2027), segundo o Ato Conjunto nº 7 noticiado por Fazenda do RS e Contábeis."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Pelo Ato Conjunto RFB/CGIBS nº 7: NF-e e NFC-e das empresas do Simples Nacional, NF-e ABI, BP-e e NFS-e de plataformas digitais e dos subitens 1.03, 1.05, 1.09 e 16.01 da lista do ISS."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   }
+  ]
+ },
+ {
   "data": "2026-11-18",
   "edicao": 25,
   "resumo": "Para clientes médicos: a votação dos destaques do PLP 299, que mexe no piso da Saúde (estimativa de perda de R$ 6,8 bilhões em 2027, contestada pelo governo), foi remarcada para hoje e o resultado ainda não saiu. No geral: Receita promete Regulamento 2.0 e regras de conformidade até a próxima semana; relator Braga pede os critérios do TCU na CAE; a base do governo protocolou projetos para taxar dividendos, fortunas e LCI/LCA.",
