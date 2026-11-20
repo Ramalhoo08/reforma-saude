@@ -2,8 +2,25 @@
  {
   "data": "2026-11-20",
   "edicao": 27,
-  "resumo": "Sem fato novo específico da saúde hoje; a pesquisa na saúde (PLP 45 das filantrópicas, lista de medicamentos, ANS) não trouxe desfecho. No geral, a Receita vai avisar os contadores de clientes com erro no destaque da CBS, e a OAB pediu na CAE adiar a reforma para 2028, o que o governo rejeita.",
+  "resumo": "Na saúde: o ajuste fiscal (PLP 299) vai à Câmara na segunda (23/11), e o Conselho Nacional de Saúde pede veto ao corte do piso da saúde. No geral: a Receita abriu o piloto da CBS a todas as empresas, o crédito de estoque da CBS deve ser escriturado até 30/06/2027, a Receita vai avisar contadores de clientes com erro no destaque da CBS e a OAB pediu adiar a reforma, o que o governo rejeita.",
   "itens": [
+   {
+    "titulo": "PLP 299/2026 (ajuste fiscal): Câmara deve começar a votar na segunda (23/11) e o Conselho Nacional de Saúde pede veto ao corte do piso da saúde",
+    "alcance": "saúde",
+    "tema": "renda",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-20",
+    "oQueMudou": "Segundo o Portal do Comércio, o ajuste fiscal aprovado pelo Senado (69 a 2) deve começar a ser discutido na Câmara em sessão extraordinária na segunda-feira (23/11); o relator, Mauro Benevides Filho, disse que não pretende alterar o texto, para que ele siga direto à sanção. O texto eleva de 10% para 20% o acréscimo sobre as margens do lucro presumido na receita acima de R$ 5 milhões por ano e deixa o Executivo restringir compensações por ato próprio. Segundo estudos citados pela imprensa, o mecanismo reduz o piso constitucional da saúde (corte de cerca de R$ 10,1 bilhões somado ao da LC 235), e o Conselho Nacional de Saúde recomendou o veto desses dispositivos (Recomendação nº 18/2026). Ainda sem aprovação final da Câmara.",
+    "impacto": "Clínicas e médicos PJ no lucro presumido com receita acima de R$ 5 milhões por ano podem pagar mais IRPJ e CSLL se o texto virar lei sem mudanças. A restrição a compensações pode afetar quem usa créditos tributários. O corte do piso da saúde atinge o orçamento público do setor, não os tributos dos clientes diretamente.",
+    "acao": "Simular o efeito do acréscimo de 20% para os clientes do lucro presumido acima de R$ 5 milhões e comparar com o lucro real. Acompanhar a votação de 23/11 e uma possível sanção; evitar decidir mudança de regime antes do texto final.",
+    "prazo": "2026-11-23",
+    "fontes": [
+     {
+      "nome": "Portal do Comércio: Senado completa votação e ajuste fiscal segue para a Câmara",
+      "url": "https://portaldocomercio.org.br/diario-legislativo/senado-completa-votacao-e-ajuste-fiscal-segue-para-a-camara/"
+     }
+    ]
+   },
    {
     "titulo": "Receita vai avisar, por meio do CFC, os contadores de clientes com dificuldade de destacar a CBS nas notas; canal de dúvidas rtc.cfc.org.br",
     "alcance": "geral",
@@ -49,6 +66,48 @@
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs"
      }
     ]
+   },
+   {
+    "titulo": "Receita amplia o acesso ao piloto da CBS: empresas de todo o país podem testar os sistemas, sem convite",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em vigor",
+    "dataPublicacao": "2026-11-20",
+    "oQueMudou": "Em 20/11, a Receita Federal anunciou a ampliação do acesso ao Ambiente de Produção Restrita do Piloto da CBS. Segundo a cobertura do administradores.com.br, empresas de todo o país poderão testar os sistemas da CBS sem indicação de entidades nem pedido prévio, mediante procuração digital no serviço do piloto; credenciais de API e o uso da DeRE continuam exigindo autorizações próprias.",
+    "impacto": "Clínicas, laboratórios e médicos PJ do regime regular podem ensaiar a apuração da CBS antes de janeiro de 2027 e achar erros de cadastro e de nota sem consequência. A medida cumpre a previsão da Receita de abrir o piloto a todos até o fim de novembro.",
+    "acao": "Dar a procuração digital do escritório nos clientes do regime regular que vão usar o piloto e testar a apuração e o destaque nas notas de dezembro. Ler a notícia oficial da Receita para os requisitos.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Receita Federal: amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs"
+     },
+     {
+      "nome": "Administradores.com.br: Receita anuncia ampliação de acesso ao Piloto da CBS",
+      "url": "https://www.administradores.com.br/noticias/receita-federal-ampliacao-acesso-piloto-cbs"
+     }
+    ]
+   },
+   {
+    "titulo": "EFD-Contribuições: o crédito presumido de CBS sobre o estoque de abertura deve ser escriturado (F150) até 30/06/2027",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-20",
+    "oQueMudou": "Segundo o Mix Vale e o Contábeis, com base na Nota Técnica da EFD-Contribuições, o crédito presumido de CBS sobre o estoque existente em 01/01/2027 deve ser escriturado uma única vez no registro F150, com prazo final em 30/06/2027; a transmissão pode ser antecipada de janeiro a junho. O uso é em 12 parcelas mensais. As fontes citam a alíquota de 9,25% (PIS/Cofins) e alertam que, passado o prazo, o direito se perde.",
+    "impacto": "Quem tem estoque relevante em 31/12/2026, como clínicas e hospitais com medicamentos, materiais e insumos, pode ter crédito de CBS a apropriar. Perder o prazo significa perder o crédito.",
+    "acao": "Fazer o inventário de estoque de 31/12/2026 nos clientes com estoque relevante e conferir as regras na Nota Técnica oficial antes de escriturar o F150.",
+    "prazo": "2027-06-30",
+    "fontes": [
+     {
+      "nome": "Mix Vale: EFD-Contribuições, estoque da CBS deve ser transmitido até 30 de junho de 2027",
+      "url": "https://www.mixvale.com.br/2026/11/20/efd-contribuicoes-estoque-da-cbs-deve-ser-transmitido-ate-30-de-junho-de-2027/"
+     },
+     {
+      "nome": "Contábeis: EFD-Contribuições terá mudanças para créditos da CBS em 2027",
+      "url": "https://www.contabeis.com.br/noticias/80653/efd-contribuicoes-tera-mudancas-para-creditos-da-cbs-em-2027/"
+     }
+    ]
    }
   ],
   "agenda": [
@@ -59,6 +118,10 @@
    {
     "data": "2026-11-23",
     "evento": "Possível vencimento dos primeiros 60 dias da MP 1.399 do Imposto Seletivo (23/11 segundo Atlas Público; outra leitura conta o recesso e aponta 12/02/2027). A MP precisa virar lei até 31/12 para valer em 2027."
+   },
+   {
+    "data": "2026-11-23",
+    "evento": "Câmara deve começar a votar o ajuste fiscal (PLP 299/2026) em sessão extraordinária, segundo o Portal do Comércio (ainda sem ato oficial)."
    },
    {
     "data": "2026-11-30",
@@ -115,6 +178,10 @@
    {
     "data": "2027-03-01",
     "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   },
+   {
+    "data": "2027-06-30",
+    "evento": "Prazo para escriturar no F150 da EFD-Contribuições o crédito presumido de CBS sobre o estoque de abertura (Mix Vale e Contábeis, com base na Nota Técnica da EFD)."
    }
   ]
  },

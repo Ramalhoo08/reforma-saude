@@ -321,7 +321,8 @@
    "Split payment previsto na LC 214, arts. 31 a 35, com procedimento padrão e simplificado incluídos pela LC 227/2026.",
    "Comunicado da Receita de 30/09/2026: testes de integração dos prestadores de serviços de pagamento (PSP) com a Plataforma Pública a partir de 15/10/2026, em ambiente controlado e sem transações definitivas.",
    "O Manual de Tempos v1.0.1 (CGIBS/RFB) trata da Fase 1 do split payment, \"B2B Opcional\". A data de obrigatoriedade geral não foi confirmada em ato oficial.",
-   "Segundo o Conjur (04/11), o split payment não começa em janeiro de 2027; ApA-e e RAD (opcional) funcionam desde janeiro."
+   "Segundo o Conjur (04/11), o split payment não começa em janeiro de 2027; ApA-e e RAD (opcional) funcionam desde janeiro.",
+   "Segundo o Mix Vale e o Contábeis (20/11), o crédito presumido de CBS sobre o estoque de abertura (01/01/2027) deve ser escriturado uma única vez no F150 da EFD-Contribuições, até 30/06/2027, e usado em 12 parcelas mensais; passado o prazo, o direito se perde."
   ],
   "impacto": "Hospitais e clínicas do regime regular poderão abater o IBS/CBS de aluguel, energia, equipamentos, materiais e serviços terceirizados, o que muda a conta de quem tem muitos insumos. Com o split payment, parte do valor recebido por cartão ou Pix poderá chegar já sem o imposto, o que afeta o caixa.",
   "acao": "Levantar os principais fornecedores dos clientes do regime regular e o regime de cada um (Simples ou regular), para estimar os créditos de 2027. Acompanhar o cronograma do split payment e orientar os clientes a confirmar com os adquirentes e bancos quando a separação automática começará.",
@@ -346,9 +347,13 @@
    {
     "nome": "Conjur",
     "url": "https://conjur.com.br/2026-nov-04/reforma-tributaria-split-payment-ainda-nao-mas-apa-e-e-rad-ja-funcionarao-em-janeiro/"
+   },
+   {
+    "nome": "Mix Vale: EFD-Contribuições, estoque da CBS até 30/06/2027",
+    "url": "https://www.mixvale.com.br/2026/11/20/efd-contribuicoes-estoque-da-cbs-deve-ser-transmitido-ate-30-de-junho-de-2027/"
    }
   ],
-  "atualizadoEm": "2026-11-04"
+  "atualizadoEm": "2026-11-20"
  },
  {
   "id": "sociedades-uniprofissionais-iss-fixo",
