@@ -2,7 +2,7 @@
  {
   "data": "2026-11-23",
   "edicao": 28,
-  "resumo": "Sem fato novo específico para clientes médicos; o projeto das filantrópicas de saúde (PLP 45/2026) segue parado na CAE. No geral: a Câmara tenta votar hoje, às 18h, o ajuste fiscal (PLP 299/2026), que vai à sanção se não for alterado; o ministro Durigan admite pequeno impacto na inflação em 2027; e a Receita prepara regras para usar créditos judiciais de PIS/Cofins e de IPI contra a CBS.",
+  "resumo": "Sem fato novo específico para clientes médicos; o projeto das filantrópicas de saúde (PLP 45/2026) segue parado na CAE. No geral: a Câmara tenta votar hoje, às 18h, o ajuste fiscal (PLP 299/2026), que vai à sanção se não for alterado; o ministro Durigan admite pequeno impacto na inflação em 2027; e a Receita prepara regras para usar créditos judiciais de PIS/Cofins e de IPI contra a CBS. Às 17h: a Receita publicou a Portaria RFB 763/2026, que abre o piloto da CBS a todas as empresas com CNPJ.",
   "itens": [
    {
     "titulo": "Câmara vota hoje (23/11), às 18h, o ajuste fiscal (PLP 299/2026); se não houver mudanças, o texto vai à sanção",
@@ -66,6 +66,27 @@
       "url": "https://www.correiobraziliense.com.br/cbradar/durigan-sobre-a-reforma-tributaria-impacto-na-inflacao-deve-ser-pequeno/"
      }
     ]
+   },
+   {
+    "titulo": "Fato novo: Portaria RFB 763/2026 formaliza o piloto da CBS aberto a todas as empresas com CNPJ",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-23",
+    "oQueMudou": "Segundo veículos que leram o Diário Oficial (Monitor do Mercado, Mixvale, Gazeta do Paraná), a Receita publicou hoje a Portaria RFB 763/2026 (assinada em 19/11). Qualquer empresa inscrita no CNPJ pode participar do piloto, sem indicação de entidade nem pedido prévio, mas precisa outorgar procuração digital no Portal Piloto da CBS. A portaria revoga as Portarias 549/2025 e 596/2025. As operações são experimentais e não geram efeito tributário. A Receita Federal lista a Portaria 763 de 23/11/2026 no portal de normas; o texto completo não foi aberto.",
+    "impacto": "Qualquer clínica, laboratório ou consultório pode testar a apuração da CBS antes de janeiro de 2027, sem risco fiscal. A participação é voluntária e gratuita.",
+    "acao": "Escolher clientes médicos com faturamento maior ou notas mais complexas, outorgar a procuração digital e rodar testes de emissão e apuração antes de 2027.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Receita Federal: amplia acesso ao ambiente de produção restrita do piloto da CBS",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs"
+     },
+     {
+      "nome": "Mixvale: Receita publica regras do Piloto da CBS para empresas com CNPJ",
+      "url": "https://www.mixvale.com.br/2026/11/23/receita-publica-regras-do-piloto-da-cbs-para-empresas-com-cnpj/"
+     }
+    ]
    }
   ],
   "agenda": [
@@ -78,12 +99,12 @@
     "evento": "Alguns veículos contam 23/11 como fim dos primeiros 60 dias da MP 1.399 (Imposto Seletivo); a página do Congresso, citada pela imprensa, indica prazo até 12/02/2027. A comissão mista ainda não foi instalada. Para valer em 2027, a MP precisa virar lei até 31/12."
    },
    {
-    "data": "2026-11-30",
-    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+    "data": "2026-11-23",
+    "evento": "Piloto da CBS já aberto a todas as empresas com CNPJ pela Portaria RFB 763/2026 (publicada em 23/11); adesão por procuração digital no Portal Piloto da CBS."
    },
    {
     "data": "2026-11-30",
-    "evento": "Receita prevê abrir o ambiente piloto a todos os contribuintes até o fim de novembro, segundo o Contábeis (dia ainda não definido)."
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
    },
    {
     "data": "2026-12-15",
