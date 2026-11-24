@@ -2,8 +2,88 @@
  {
   "data": "2026-11-24",
   "edicao": 29,
-  "resumo": "Para clientes médicos: a Câmara aprovou o ajuste fiscal (PLP 299/2026), que vai à sanção e pode reduzir o piso da saúde em 2027. Em geral: Durigan prevê definir a alíquota da CBS em duas semanas, a Fazenda diz que não há norma para compensar IPI com a CBS e o pedido de retirada dos projetos de dividendos não muda a regra atual.",
+  "resumo": "Para clientes médicos: a Câmara aprovou o ajuste fiscal (PLP 299/2026), que vai à sanção e pode reduzir o piso da saúde em 2027; a CMED fará audiência em 01/12 sobre preços de medicamentos com a reforma. Em geral: a Resolução CGSN nº 196 traz as novas regras do Simples para 2027, a audiência da Câmara mostrou o TCU dizendo que não escolheu os 11,3% da CBS, e Durigan prevê definir a alíquota em duas semanas.",
   "itens": [
+   {
+    "titulo": "Fato novo: audiência na Câmara sobre a CBS de 11,3%: setores contestam e o TCU diz que não escolheu o percentual",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-24",
+    "oQueMudou": "Segundo ND Mais e Congresso em Foco, a Comissão de Finanças e Tributação da Câmara fez hoje (24/11) audiência sobre a alíquota de referência da CBS de 11,3%. Representantes da indústria, do comércio e do agronegócio questionaram o percentual. O secretário de Controle Externo do TCU disse que o tribunal não escolheu o número nem recomendou que o Senado adote necessariamente os 11,3%, e que a alíquota pode mudar. A palavra final é do Senado, com prazo até 15/12; sem resolução, vale o cálculo do TCU. Ainda sem ato oficial.",
+    "impacto": "Reforça que os 11,3% são ponto de partida e podem cair por decisão do Senado. Para clientes médicos, a redução de 60% incide sobre a alíquota que for fixada.",
+    "acao": "Manter as simulações de 2027 com 11,3% e preparar um cenário com alíquota menor, para revisar quando o Senado decidir.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "ND Mais – Câmara debate alíquota da CBS e risco de aumento de impostos em 2027",
+      "url": "https://ndmais.com.br/politica/reforma-tributaria-camara-debate-aliquota-da-cbs/"
+     },
+     {
+      "nome": "Atlas Público – CFT da Câmara convoca audiência pública para 24 de novembro",
+      "url": "https://atlaspublico.com.br/camara/noticias/cft-da-camara-convoca-audiencia-publica-para-24-de-novembro-104419"
+     }
+    ]
+   },
+   {
+    "titulo": "Simples Nacional: Resolução CGSN nº 196/2026 traz novas tabelas com IBS e CBS e regras de transição para 2027",
+    "alcance": "geral",
+    "tema": "simples",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-24",
+    "oQueMudou": "Segundo a Receita Federal, o Comitê Gestor do Simples Nacional publicou a Resolução CGSN nº 196, de 16/11/2026, que adapta o Simples ao IBS e à CBS, com transição de 2027 a 2033. Segundo Atlas Público e Mix Vale, ela reescreve os Anexos I a V com a repartição de IRPJ, CSLL, CBS, CPP, IPI, ICMS, ISS e IBS; reconhece a receita, em regra, na emissão do documento fiscal; manda incluir na apuração de dezembro/2026 os valores de operações até 31/12/2026 ainda não recebidos (fim do regime de caixa); exige identificar à parte as receitas de contratos com o poder público; e, em divergência entre PGDAS-D e documentos fiscais, prevalece o PGDAS-D. Segundo Atlas Público, a Defis de 2026 vence em 31/03/2027.",
+    "impacto": "Clínicas e consultórios do Simples terão tabelas e regras novas a partir de 01/01/2027. Quem hoje usa regime de caixa e recebe de convênios com prazo longo antecipa o imposto de dezembro/2026. Quem presta a órgãos públicos precisa separar essa receita.",
+    "acao": "Ler a íntegra da resolução, atualizar o cálculo do DAS de 2027 dos clientes do Simples, projetar o caixa de dezembro/2026 dos que usam regime de caixa e separar a receita de contratos públicos.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Receita Federal – Comitê Gestor do Simples Nacional publica novas regras para o Simples e para a transição",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria"
+     },
+     {
+      "nome": "Atlas Público – CGSN altera regras do Simples Nacional e fixa novas tabelas",
+      "url": "https://atlaspublico.com.br/noticias/cgsn-altera-regras-do-simples-nacional-e-fixa-novas-tabelas-104489"
+     },
+     {
+      "nome": "Mix Vale – CGSN publica resolução que adapta o Simples ao IBS e à CBS",
+      "url": "https://www.mixvale.com.br/2026/11/24/cgsn-publica-resolucao-que-adapta-o-simples-nacional-ao-ibs-e-a-cbs"
+     }
+    ]
+   },
+   {
+    "titulo": "CMED fará audiência pública em 01/12 sobre os preços de medicamentos com a CBS e o IBS",
+    "alcance": "saúde",
+    "tema": "consumo",
+    "status": "em vigor",
+    "dataPublicacao": "2026-11-24",
+    "oQueMudou": "Segundo a Abradilan, a Secretaria-Executiva da CMED fará audiência pública online em 01/12/2026, às 14h, sobre os impactos da reforma tributária na formação dos preços-teto de medicamentos a partir de 01/01/2027. A pauta inclui mudanças na petição de preços e no Sammed, com orientações sobre o Documento Informativo de Preço.",
+    "impacto": "Afeta sobretudo a indústria e o varejo farmacêutico; para clínicas, hospitais e médicos que compram ou administram medicamentos, define o preço-teto que serve de referência de custo em 2027.",
+    "acao": "Avisar clientes com farmácia, centro de infusão ou compra relevante de medicamentos; acompanhar o material que a CMED divulgar depois.",
+    "prazo": "2026-12-01",
+    "fontes": [
+     {
+      "nome": "Abradilan – CMED realizará audiência pública sobre a reforma tributária em 1º de dezembro",
+      "url": "https://abradilan.com.br/mercado/cmed-realizara-audiencia-publica-sobre-a-reforma-tributaria-em-1o-de-dezembro/"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita e Comitê Gestor dizem que a apuração assistida de IBS e CBS estará pronta em janeiro e que erros de boa-fé poderão ser corrigidos",
+    "alcance": "geral",
+    "tema": "obrigacoes",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-24",
+    "oQueMudou": "Segundo o JOTA, técnicos da Receita e do Comitê Gestor disseram em evento que o sistema de apuração assistida deve processar a maior parte dos documentos fiscais já em janeiro de 2027, e que erros de boa-fé poderão ser corrigidos na escrituração ou por ajuste na apuração, com recolhimento da diferença. O Programa Nacional de Conformidade ainda está em revisão e, segundo a cobertura, o efeito financeiro real é de 2027. Ainda sem ato oficial.",
+    "impacto": "Dá alguma segurança para o primeiro mês de CBS, mas não substitui o cuidado com a emissão correta das notas e a escrituração.",
+    "acao": "Orientar clientes a manter documentos fiscais corretos desde janeiro e guardar a prova de boa-fé; acompanhar a publicação das regras de conformidade.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "JOTA – Receita e Comitê Gestor dizem que apuração assistida estará pronta em janeiro",
+      "url": "https://www.jota.info/coberturas-especiais/ambiente-negocios-oportunidades/receita-e-comite-gestor-dizem-que-apuracao-assistida-estara-pronta-em-janeiro"
+     }
+    ]
+   },
    {
     "titulo": "Câmara aprova o ajuste fiscal (PLP 299/2026) por 353 a 128, sem mudanças; texto vai à sanção e o piso da saúde pode cair",
     "alcance": "saúde",
@@ -103,8 +183,8 @@
   ],
   "agenda": [
    {
-    "data": "2026-11-24",
-    "evento": "Hoje, às 14h: audiência na Comissão de Finanças e Tributação da Câmara sobre a alíquota-base de 11,3% da CBS, com TCU, Fazenda e entidades convidadas (Atlas Público; confirme o local no site da Câmara)."
+    "data": "2026-12-01",
+    "evento": "Audiência pública online da CMED (14h) sobre os impactos da reforma tributária nos preços-teto de medicamentos a partir de 2027 (Abradilan)."
    },
    {
     "data": "2026-11-30",
