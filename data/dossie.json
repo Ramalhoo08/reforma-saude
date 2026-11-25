@@ -455,7 +455,8 @@
    "19/11: após a 2ª audiência, segundo a Money Times, a CAE aprovou requerimento de Braga pedindo ao TCU estudos, metodologias e atas, e à Fazenda informações; Braga pediu simulações com 12,5%, 11% e 10%; especialistas apresentaram 8,62%, 10,3% e 10,91% (cálculos próprios); OAB pediu adiar a reforma. Ainda sem ato oficial.",
    "Em 18-19/11, segundo a Agência Brasil, a OAB disse na CAE que o cálculo da CBS é uma \"caixa preta\" e pediu adiar as etapas de 2027 para 2028; Durigan rejeitou o adiamento. Ainda sem ato oficial.",
    "23/11: segundo Canal Rural e Terra, Durigan disse esperar a definição da alíquota da CBS em cerca de duas semanas, recomendou a Braga não mudar o método do TCU e prevê poucas mudanças no percentual. Em 24/11 há audiência na CFT da Câmara sobre os 11,3%. Ainda sem ato oficial.",
-   "24/11: na audiência da CFT da Câmara, segundo ND Mais e Congresso em Foco, indústria, comércio e agro contestaram os 11,3%; o secretário do TCU disse que o tribunal não escolheu o percentual nem recomendou necessariamente que o Senado o adote. Ainda sem ato oficial."
+   "24/11: na audiência da CFT da Câmara, segundo ND Mais e Congresso em Foco, indústria, comércio e agro contestaram os 11,3%; o secretário do TCU disse que o tribunal não escolheu o percentual nem recomendou necessariamente que o Senado o adote. Ainda sem ato oficial.",
+   "Em 24/11, segundo a imprensa, frentes parlamentares levaram ao Senado três notas técnicas com alíquota entre 8,6% e 10,5% (diferença no hiato de conformidade: TCU usa 15,9%); Braga pediu à consultoria simulações com 12,5%, 11% e 10%. Ainda sem ato oficial."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -580,9 +581,13 @@
    {
     "nome": "ND Mais – Câmara debate alíquota da CBS e risco de aumento de impostos em 2027",
     "url": "https://ndmais.com.br/politica/reforma-tributaria-camara-debate-aliquota-da-cbs/"
+   },
+   {
+    "nome": "Mix Vale: CBS de 11,3%: CAE pede explicações ao TCU antes de prazo no Senado",
+    "url": "https://www.mixvale.com.br/2026/11/24/cbs-de-113-cae-pede-explicacoes-ao-tcu-antes-de-prazo-no-senado/"
    }
   ],
-  "atualizadoEm": "2026-11-24"
+  "atualizadoEm": "2026-11-25"
  },
  {
   "id": "renda-lei-15270-dividendos",
