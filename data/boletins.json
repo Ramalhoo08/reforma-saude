@@ -2,7 +2,7 @@
  {
   "data": "2026-11-25",
   "edicao": 30,
-  "resumo": "Para clientes médicos: o ajuste fiscal virou a Lei Complementar 239/2026, sem vetos; o efeito no piso da saúde segue contestado (CNS fala em perda de R$ 5 a 10 bi por ano; governo nega). A Sefaz-SP negou crédito de ICMS em equipamentos médicos alugados. No geral: a lei amplia o poder de restringir créditos e o corte linear de benefícios, e frentes parlamentares levam ao Senado estudos com CBS de 8,6% a 10,5%.",
+  "resumo": "Para clientes médicos: o ajuste fiscal virou a Lei Complementar 239/2026, sem vetos; o efeito no piso da saúde segue contestado (CNS fala em perda de R$ 5 a 10 bi por ano; governo nega). A Sefaz-SP negou crédito de ICMS em equipamentos médicos alugados. No geral: liminar suspendeu o prazo de opção das cooperativas do Sistema OCB; a lei eleva a presunção do Lucro Presumido acima de R$ 5 milhões em 2027; frentes parlamentares encontram Durigan na quinta (26/11) sobre a alíquota da CBS.",
   "itens": [
    {
     "titulo": "Fato novo: ajuste fiscal vira a Lei Complementar 239/2026, sancionada sem vetos; efeito no piso da saúde segue contestado",
@@ -22,6 +22,69 @@
      {
       "nome": "Agência Senado: Lei do ajuste fiscal é publicada e já está valendo",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: Justiça do DF suspendeu o prazo de opção das cooperativas do Sistema OCB pelo regime específico de IBS/CBS (alíquota zero em 2027)",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-25",
+    "oQueMudou": "Segundo o NSC Total e uma nota técnica contábil, a 6ª Vara da Fazenda Pública do DF concedeu liminar (22/10/2026) em mandado de segurança coletivo da OCB e suspendeu o prazo de 31/10/2026 para as cooperativas registradas no Sistema OCB optarem pelo regime específico (art. 271 da LC 214). O prazo só volta a correr depois da publicação dos percentuais de crédito presumido de 2027, da revisão do regulamento do IBS para cooperativas e da resolução do Senado sobre a alíquota; depois abre-se prazo de igual duração para fazer, corrigir ou cancelar a opção. Cooperativas fora do Sistema OCB seguem o prazo original. A decisão é provisória e o texto não foi lido diretamente.",
+    "impacto": "Cooperativas (inclusive de trabalho médico registradas na OCB) ganham tempo para decidir se optam pela alíquota zero nas operações com cooperados; a data final fica indefinida até saírem os atos pendentes. Quem não está no Sistema OCB não tem essa suspensão.",
+    "acao": "Confirmar se cada cooperativa cliente está registrada no Sistema OCB; se estiver, não tratar 31/10 como prazo vencido e acompanhar os três atos pendentes; se não estiver, conferir a situação da opção original.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "NSC Total: Justiça suspende prazo da reforma tributária para cooperativas escolherem alíquota zero em 2027",
+      "url": "https://www.nsctotal.com.br/colunista/antonio-noboa/justica-suspende-prazo-da-reforma-tributaria-para-cooperativas-escolherem-aliquota-zero-em-2027"
+     },
+     {
+      "nome": "NT Itajaí: Liminar suspende o prazo das cooperativas do Sistema OCB para 2027",
+      "url": "https://www.ntwitajai.com.br/notas-tecnicas/cooperativas-regime-especifico-2027/"
+     }
+    ]
+   },
+   {
+    "titulo": "Frentes parlamentares se reúnem com Durigan na quinta (26/11), às 9h, sobre a alíquota da CBS; deputados querem comissão para fiscalizar a reforma",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-25",
+    "oQueMudou": "Segundo a Fenacon e o Metrópoles, parlamentares das frentes do Empreendedorismo e do Comércio e Serviços têm reunião com o ministro da Fazenda, Dario Durigan, na quinta-feira (26/11), às 9h, para tratar de impasses da reforma, principalmente a alíquota da CBS (o setor produtivo defende teto de 10% em 2027). Os deputados também pretendem pedir ao presidente da Câmara, Hugo Motta, uma comissão para fiscalizar a implementação da reforma. Ainda sem ato oficial; o resultado da reunião não era conhecido.",
+    "impacto": "A reunião pode influenciar o que o Senado decidir sobre a alíquota de referência (sem resolução até 15/12, vale o 11,3% do TCU). Para clientes médicos, a redução de 60% incide sobre essa alíquota.",
+    "acao": "Acompanhar o resultado da reunião de 26/11 e manter simulações com 11,3% e com cenários menores.",
+    "prazo": "2026-11-26",
+    "fontes": [
+     {
+      "nome": "Fenacon: Parlamentares vão à Fazenda na quinta-feira destravar impasses da reforma tributária",
+      "url": "https://fenacon.org.br/reforma-tributaria/parlamentares-vao-a-fazenda-na-quinta-feira-destravar-impasses-da-reforma-tributaria/"
+     },
+     {
+      "nome": "Metrópoles: Deputados pedirão a Motta comissão para fiscalizar reforma tributária",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/deputados-pedirao-a-motta-comissao-para-fiscalizar-reforma-tributaria"
+     }
+    ]
+   },
+   {
+    "titulo": "Fato novo: LC 239/2026 sancionada eleva de 10% para 20% o acréscimo na presunção do Lucro Presumido sobre a receita acima de R$ 5 milhões",
+    "alcance": "geral",
+    "tema": "renda",
+    "status": "em vigor",
+    "dataPublicacao": "2026-11-25",
+    "oQueMudou": "Segundo o Contábeis, a lei sancionada mantém o acréscimo de 20% (antes 10%) sobre os percentuais de presunção do IRPJ e da CSLL, incidindo só sobre a parte da receita anual que passa de R$ 5 milhões. Pelo Contábeis, vale a partir de 01/01/2027 para o IRPJ e de 01/03/2027 para a CSLL; por exemplo, a presunção de 32% de serviços passaria a 38,4% nesse excedente. Texto da lei não lido diretamente.",
+    "impacto": "Clínicas e médicos PJ no Lucro Presumido com receita acima de R$ 5 milhões pagarão mais IRPJ e CSLL em 2027 sobre o excedente. Isso se soma à entrada da CBS e pode mudar a conta entre Presumido, Real e Simples.",
+    "acao": "Simular 2027 para clientes acima de R$ 5 milhões de receita no Lucro Presumido e comparar com o Lucro Real; conferir os percentuais de cada atividade no texto da lei.",
+    "prazo": "2027-01-01",
+    "fontes": [
+     {
+      "nome": "Contábeis: Lucro presumido: lei sancionada aumenta custo em 2027",
+      "url": "https://www.contabeis.com.br/noticias/81129/lucro-presumido-lei-sancionada-aumenta-custo-em-2027/"
+     },
+     {
+      "nome": "NSC Total: empresas de serviço podem pagar mais imposto a partir de janeiro com mudança no Lucro Presumido",
+      "url": "https://www.nsctotal.com.br/colunista/antonio-noboa/reforma-tributaria-empresa-de-servico-perde-com-a-cbs-o-motivo-para-ficar-no-lucro-presumido-e-a-margem-decide"
      }
     ]
    },
@@ -91,12 +154,16 @@
   ],
   "agenda": [
    {
-    "data": "2026-12-01",
-    "evento": "Audiência pública online da CMED (14h) sobre os impactos da reforma tributária nos preços-teto de medicamentos a partir de 2027 (Abradilan)."
+    "data": "2026-11-26",
+    "evento": "Reunião das frentes parlamentares do Empreendedorismo e do Comércio e Serviços com o ministro Durigan (9h) sobre a alíquota da CBS, segundo Fenacon (sem ato oficial)."
    },
    {
     "data": "2026-11-30",
-    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, ainda sem ato publicado)."
+    "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, sem ato publicado). Para cooperativas do Sistema OCB, o prazo de 31/10 está suspenso por liminar do TJDFT até saírem os atos pendentes, segundo NSC Total."
+   },
+   {
+    "data": "2026-12-01",
+    "evento": "Audiência pública online da CMED (14h) sobre os impactos da reforma tributária nos preços-teto de medicamentos a partir de 2027 (Abradilan)."
    },
    {
     "data": "2026-12-07",
@@ -149,6 +216,10 @@
    {
     "data": "2027-03-01",
     "evento": "Abre a janela (até 31/03/2027) de opção pelo regime regular de IBS/CBS para o 2º semestre de 2027."
+   },
+   {
+    "data": "2027-03-01",
+    "evento": "Segundo o Contábeis, início do acréscimo de 20% na presunção da CSLL do Lucro Presumido sobre a receita acima de R$ 5 milhões (IRPJ: 01/01/2027), pela LC 239/2026."
    },
    {
     "data": "2027-06-30",

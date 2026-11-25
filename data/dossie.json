@@ -203,10 +203,11 @@
    "Cooperativas (por exemplo, de trabalho médico) podem optar pelo regime específico do art. 271 da LC 214, com alíquota zero nas operações previstas em lei. A opção para 2027 vai até 31/10/2026 e exige enviar a lista de cooperados (Orientação Conjunta RFB/CGIBS de 18/09/2026).",
    "Leitura do art. 235: a operadora abate da base o valor pago ao prestador, qualquer que seja o regime dele. Por isso, nas receitas de convênio, o crédito não pesa como argumento para o prestador sair do Simples. Esta é uma análise do texto legal, sem ato oficial específico.",
    "Em 10/11, a Receita e o CGIBS avisaram que o ambiente Beta da DeRE será atualizado em 11/11/2026, às 7h (CRC-MG, reproduzindo o comunicado).",
-   "Em 13/11/2026, o CGIBS divulgou a prorrogação da DeRE aprovada pelo Conselho Superior (Joinville/SC). Segundo CGIBS, Fazenda do RS e Contábeis, o Ato Conjunto RFB/CGIBS nº 7/2026 passou a 1ª entrega mensal de 15/11 para 15/12/2026 (competência de novembro) e os eventos da alínea “c” para 15/02/2027. Corrige a informação da manhã de que a entrega de 15/11 continuava de pé. Texto do ato não lido diretamente."
+   "Em 13/11/2026, o CGIBS divulgou a prorrogação da DeRE aprovada pelo Conselho Superior (Joinville/SC). Segundo CGIBS, Fazenda do RS e Contábeis, o Ato Conjunto RFB/CGIBS nº 7/2026 passou a 1ª entrega mensal de 15/11 para 15/12/2026 (competência de novembro) e os eventos da alínea “c” para 15/02/2027. Corrige a informação da manhã de que a entrega de 15/11 continuava de pé. Texto do ato não lido diretamente.",
+   "25/11/2026: segundo o NSC Total, liminar da 6ª Vara da Fazenda Pública do DF (22/10/2026) suspendeu o prazo de 31/10 de opção pelo regime específico para as cooperativas do Sistema OCB, até a publicação dos percentuais de crédito presumido de 2027, da revisão do regulamento do IBS e da resolução do Senado sobre a alíquota; depois, novo prazo de igual duração. Cooperativas fora da OCB seguem o prazo original. Decisão provisória, texto não lido."
   ],
   "impacto": "A relação clínica–operadora não muda na forma de faturar, mas a nota passa a ter IBS/CBS, a glosa não paga sai da base do prestador e a operadora passa a controlar mais os documentos (manifestação do adquirente na NFS-e). Médicos cooperados e cooperativas médicas precisam decidir sobre o regime das cooperativas até 31/10/2026.",
-  "acao": "Para clientes que faturam a operadoras: revisar contratos e tabelas, alinhar o tratamento das glosas e avisar que a operadora poderá contestar a NFS-e. Para operadoras e cooperativas obrigadas à DeRE: programar a 1ª entrega mensal para 15/12/2026 (competência de novembro) e os eventos da alínea “c” para 15/02/2027, conferindo a data no Ato Conjunto nº 7.",
+  "acao": "Para clientes que faturam a operadoras: revisar contratos e tabelas, alinhar o tratamento das glosas e avisar que a operadora poderá contestar a NFS-e. Para operadoras e cooperativas obrigadas à DeRE: programar a 1ª entrega mensal para 15/12/2026 (competência de novembro) e os eventos da alínea “c” para 15/02/2027, conferindo a data no Ato Conjunto nº 7. Para cooperativas do Sistema OCB, o prazo de opção está suspenso por liminar; confirmar o registro na OCB e acompanhar os atos pendentes.",
   "status": "regulamentado",
   "fontes": [
    {
@@ -240,9 +241,13 @@
    {
     "nome": "Contábeis – IBS e CBS: Receita e CGIBS alteram prazos dos documentos fiscais",
     "url": "https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/"
+   },
+   {
+    "nome": "NSC Total: Justiça suspende prazo da reforma tributária para cooperativas escolherem alíquota zero em 2027",
+    "url": "https://www.nsctotal.com.br/colunista/antonio-noboa/justica-suspende-prazo-da-reforma-tributaria-para-cooperativas-escolherem-aliquota-zero-em-2027"
    }
   ],
-  "atualizadoEm": "2026-11-13"
+  "atualizadoEm": "2026-11-25"
  },
  {
   "id": "simples-nacional-ibs-cbs",
@@ -607,10 +612,11 @@
    "13/11/2026: bancada do PT protocolou o PL 5.854/2026, com retenção de 15% de IR sobre lucros e dividendos pagos a pessoas físicas e fim do limite de R$ 50 mil por mês; é só projeto, ainda sem tramitação concluída (Gazeta do Povo).",
    "Proposta em discussão (18/11/2026): a bancada do PT protocolou projetos para taxar grandes fortunas (PL 5.852/2026) e reter 15% sobre dividendos sem o limite de R$ 50 mil (PL 5.854/2026), segundo a imprensa; sem votação marcada.",
    "19/11/2026: segundo InfoMoney e Metrópoles, o líder do PT, Pedro Uczai, retirou projeto que isentava lucros até R$ 5 mil por mês e previa alíquotas de até 25% (temor de atingir MEIs), para fazer novos estudos técnicos. As reportagens divergem nos detalhes e não confirmam a situação do PL 5.854/2026. Sem efeito sobre a retenção de 10% vigente; sem ato oficial.",
-   "23/11/2026: segundo Contábeis e Mix Vale, os autores pediram à Câmara a retirada dos PLs 5.854/2026 e 5.889/2026 (dividendos); a retirada depende da Mesa e o tema pode voltar. A Câmara também aprovou o PLP 299/2026 (ajuste fiscal), que vai à sanção; confirmar na lei sancionada se o acréscimo na presunção do lucro presumido foi mantido."
+   "23/11/2026: segundo Contábeis e Mix Vale, os autores pediram à Câmara a retirada dos PLs 5.854/2026 e 5.889/2026 (dividendos); a retirada depende da Mesa e o tema pode voltar. A Câmara também aprovou o PLP 299/2026 (ajuste fiscal), que vai à sanção; confirmar na lei sancionada se o acréscimo na presunção do lucro presumido foi mantido.",
+   "25/11/2026: segundo o Contábeis, a LC 239/2026 (ajuste fiscal, sancionada) manteve a elevação de 10% para 20% do acréscimo nos percentuais de presunção do Lucro Presumido sobre a receita acima de R$ 5 milhões: IRPJ a partir de 01/01/2027 e CSLL a partir de 01/03/2027. Texto da lei não lido diretamente."
   ],
   "impacto": "Médicos sócios de clínicas lucrativas que retiram mais de R$ 50 mil por mês da mesma empresa já têm retenção de 10%. Na declaração de 2027, quem passar de R$ 600 mil anuais poderá ter IR complementar, conforme a carga efetiva da PJ. Clínicas no Lucro Presumido com receita acima de R$ 5 milhões pagam mais IRPJ e CSLL.",
-  "acao": "Revisar a política de distribuição de lucros dos clientes (calendário, valores por sócio e por empresa) e controlar os pagamentos de lucros de 2025 aprovados até 31/12/2025 ou 31/01/2026. Calcular a alíquota efetiva da PJ para estimar o redutor e simular o IR mínimo de 2026 de cada sócio. Conferir a EFD-Reinf R-4010 e os DARFs 1841. Simular o Lucro Presumido de 2027 com acréscimo de 20% na presunção para os clientes acima de R$ 5 milhões, acompanhando a votação do PLP 299/2026.",
+  "acao": "Revisar a política de distribuição de lucros dos clientes (calendário, valores por sócio e por empresa) e controlar os pagamentos de lucros de 2025 aprovados até 31/12/2025 ou 31/01/2026. Calcular a alíquota efetiva da PJ para estimar o redutor e simular o IR mínimo de 2026 de cada sócio. Conferir a EFD-Reinf R-4010 e os DARFs 1841. Simular o Lucro Presumido de 2027 com acréscimo de 20% na presunção para os clientes acima de R$ 5 milhões, já confirmado na LC 239/2026 segundo o Contábeis (conferir o texto).",
   "status": "em vigor",
   "fontes": [
    {
@@ -660,8 +666,12 @@
    {
     "nome": "Contábeis – Tributação de dividendos: autores pedem retirada de PLs",
     "url": "https://www.contabeis.com.br/noticias/81074/tributacao-de-dividendos-autores-pedem-retirada-de-pls/"
+   },
+   {
+    "nome": "Contábeis – Lucro presumido: lei sancionada aumenta custo em 2027",
+    "url": "https://www.contabeis.com.br/noticias/81129/lucro-presumido-lei-sancionada-aumenta-custo-em-2027/"
    }
   ],
-  "atualizadoEm": "2026-11-24"
+  "atualizadoEm": "2026-11-25"
  }
 ]
