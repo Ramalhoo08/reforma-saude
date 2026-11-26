@@ -88,7 +88,8 @@
    "O Ato Técnico Conjunto RFB/CGIBS nº 7, publicado em 01/10/2026, aprovou a NT 009 v1.01 da NFS-e (leiaute RTC, Anexos VI e VII) e a NT 010 (Evento de Manifestação do Adquirente). Com a NT 010, o tomador pode confirmar a nota ou informar divergência ou desconhecimento.",
    "O Anexo VIII v1.01 da documentação técnica faz a correlação entre item de serviço, NBS, cClassTrib e cIndOp. Pelo próprio portal, ainda é um trabalho inicial.",
    "Portal da NFS-e (29/10/2026): o leiaute da NT 009 está em produção restrita (testes), e a ausência do grupo de IBS/CBS não gera rejeição técnica no ambiente nacional, mesmo para quem é obrigado; a partir de 01/01/2027 o valor 'Desconhecido' deixa de ser aceito.",
-   "Ato Conjunto RFB/CGIBS nº 7, assinado em 11/11/2026 e publicado em 13/11/2026 (segundo o Atlas Público e o Correio Braziliense): altera o Ato Conjunto nº 4 e muda as datas de treze documentos fiscais. Para 01/03/2027: NF-e e NFC-e das empresas do Simples Nacional, NF-e ABI, BP-e e NFS-e de plataformas digitais e dos subitens 1.03, 1.05, 1.09 e 16.01. Para 01/01/2027: NFGas (modelo 76), NFAg (modelo 75), locações e arrendamentos, receitas condominiais e demais serviços — a data de 01/12/2026 das locações deixa de valer. A NFS-e dos serviços de saúde (item 4 da lista do ISS) não está entre os documentos adiados."
+   "Ato Conjunto RFB/CGIBS nº 7, assinado em 11/11/2026 e publicado em 13/11/2026 (segundo o Atlas Público e o Correio Braziliense): altera o Ato Conjunto nº 4 e muda as datas de treze documentos fiscais. Para 01/03/2027: NF-e e NFC-e das empresas do Simples Nacional, NF-e ABI, BP-e e NFS-e de plataformas digitais e dos subitens 1.03, 1.05, 1.09 e 16.01. Para 01/01/2027: NFGas (modelo 76), NFAg (modelo 75), locações e arrendamentos, receitas condominiais e demais serviços — a data de 01/12/2026 das locações deixa de valer. A NFS-e dos serviços de saúde (item 4 da lista do ISS) não está entre os documentos adiados.",
+   "26/11: o Release 2 da NT 009 (itens 2.9 a 2.14: vAjusteBCIBSCBSComExt, verCalcIBSCBS e novas validações de endereço) foi liberado na produção restrita; Releases 1 e 2 vão à produção em 07/12/2026, segundo o cronograma de 25/11 (Portal da NFS-e, Contábeis)."
   ],
   "impacto": "Uma nota com NBS ou classificação tributária errada perde a redução de 60% da saúde e pode gerar divergência com o tomador (operadora, hospital), que poderá contestar a nota pelo evento de manifestação. Clínicas do Simples que ainda emitem pelo sistema da prefeitura precisam migrar até 01/11/2026.",
   "acao": "Conferir se o emissor de cada cliente já está no leiaute RTC (NT 009 v1.01). Montar a tabela item LC 116 → NBS → cClassTrib por tipo de serviço (consulta, exame, cirurgia, imagem, laboratório). Refazer o calendário por cliente com o Ato Conjunto nº 7: clínicas do Simples que emitem NF-e de mercadoria vão para 01/03/2027 e as receitas de sublocação de salas, para 01/01/2027.",
@@ -125,9 +126,13 @@
    {
     "nome": "Correio Braziliense – CG-IBS adia prazos para regularização de documentos fiscais",
     "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536849-reforma-tributaria-cg-ibs-adia-prazos-para-regularizacao-de-documentos-fiscais.html"
+   },
+   {
+    "nome": "Portal da NFS-e – Release 2 das evoluções da NT 009",
+    "url": "https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-informa-disponibilizado-no-ambiente-de-testes-o-release-2-das-evolucoes-da-nota-tecnica-009"
    }
   ],
-  "atualizadoEm": "2026-11-13"
+  "atualizadoEm": "2026-11-26"
  },
  {
   "id": "reducao-60-servicos-saude",
@@ -462,7 +467,8 @@
    "23/11: segundo Canal Rural e Terra, Durigan disse esperar a definição da alíquota da CBS em cerca de duas semanas, recomendou a Braga não mudar o método do TCU e prevê poucas mudanças no percentual. Em 24/11 há audiência na CFT da Câmara sobre os 11,3%. Ainda sem ato oficial.",
    "24/11: na audiência da CFT da Câmara, segundo ND Mais e Congresso em Foco, indústria, comércio e agro contestaram os 11,3%; o secretário do TCU disse que o tribunal não escolheu o percentual nem recomendou necessariamente que o Senado o adote. Ainda sem ato oficial.",
    "Em 24/11, segundo a imprensa, frentes parlamentares levaram ao Senado três notas técnicas com alíquota entre 8,6% e 10,5% (diferença no hiato de conformidade: TCU usa 15,9%); Braga pediu à consultoria simulações com 12,5%, 11% e 10%. Ainda sem ato oficial.",
-   "Em 25/11, segundo o Jornal de Brasília e a Folha, CNA, CNC e CNT pediram ao STF o adiamento da cobrança efetiva da CBS e do IBS de janeiro de 2027, alegando prazo insuficiente (antecedência de 90 dias). Sem decisão do STF e sem ato oficial; a Receita mantém janeiro de 2027."
+   "Em 25/11, segundo o Jornal de Brasília e a Folha, CNA, CNC e CNT pediram ao STF o adiamento da cobrança efetiva da CBS e do IBS de janeiro de 2027, alegando prazo insuficiente (antecedência de 90 dias). Sem decisão do STF e sem ato oficial; a Receita mantém janeiro de 2027.",
+   "26/11: a IFI (órgão do Senado) entregou a Braga nota técnica: sem as exceções da lei a CBS seria de 7,0% (as exceções somam 4,3 pontos, 1,9 dos alimentos); com a regra atual de exclusão do ICMS da base na média 2012-2021, 10,78% (10,55% a 11,12%). A IFI diz que são cenários, não proposta. Também em 26/11, Braga defendeu medir o hiato de conformidade a cada trimestre e falou em concluir o texto até 9/12 (fontes variam), e as frentes parlamentares defenderam na Fazenda CBS abaixo de 11,3% (Senado Notícias, DGABC, O Antagonista). Sem ato oficial."
   ],
   "impacto": "Já há um número oficial de partida (11,3%) para simular 2027 dos clientes médicos do regime regular e a comparação Simples × regime regular. Ele ainda pode mudar pela resolução do Senado.",
   "acao": "Refazer as simulações com 11,3% e revisar quando o Senado publicar a resolução (até 15/12/2026).",
@@ -591,6 +597,10 @@
    {
     "nome": "Mix Vale: CBS de 11,3%: CAE pede explicações ao TCU antes de prazo no Senado",
     "url": "https://www.mixvale.com.br/2026/11/24/cbs-de-113-cae-pede-explicacoes-ao-tcu-antes-de-prazo-no-senado/"
+   },
+   {
+    "nome": "Senado Notícias – IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga"
    }
   ],
   "atualizadoEm": "2026-11-26"

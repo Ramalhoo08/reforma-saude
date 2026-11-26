@@ -2,7 +2,7 @@
  {
   "data": "2026-11-26",
   "edicao": 31,
-  "resumo": "Para clientes médicos: nenhum fato novo específico da saúde hoje; seguem a audiência da CMED (01/12) e o PLP 45/2026 das filantrópicas na CAE. No geral, CNA, CNC e CNT pediram ao STF o adiamento da CBS de janeiro de 2027 (sem decisão), e a comissão da MP do Imposto Seletivo deve ser instalada em 01/12.",
+  "resumo": "Hoje à tarde: confederações do agro, comércio e transporte foram ao STF pedir adiamento da CBS e do IBS de 2027, e a IFI, órgão do Senado, calculou que sem as exceções da lei a CBS seria de 7,0% (10,78% com ajuste do ICMS), contra 11,3% do TCU. O relator Braga quer medir a sonegação a cada trimestre. A NFS-e Release 2 vai à produção em 7/12; a Fazenda não cogita adiar a reforma.",
   "itens": [
    {
     "titulo": "CNA, CNC e CNT pedem ao STF o adiamento da CBS e do IBS de janeiro de 2027",
@@ -41,13 +41,93 @@
       "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/176208"
      }
     ]
+   },
+   {
+    "titulo": "NFS-e Nacional: Release 2 da NT 009 já está no ambiente de testes; Releases 1 e 2 vão à produção em 7/12",
+    "alcance": "geral",
+    "tema": "nfse",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-26",
+    "oQueMudou": "O Comitê Gestor da NFS-e informou que o Release 2 da Nota Técnica 009 (itens 2.9 a 2.14) está na produção restrita (testes). Traz o campo vAjusteBCIBSCBSComExt (ajuste da base em casos de comércio exterior), o campo verCalcIBSCBS (versão da Calculadora de Tributos usada pela Sefin Nacional) e novas validações de endereço do tomador. Segundo o cronograma de 25/11 (Contábeis, Nota Gateway), Releases 1 e 2 entram em produção em 7/12/2026. O ambiente de testes não tem efeito jurídico.",
+    "impacto": "Quem emite NFS-e de serviços médicos (item 4 da lista do ISS) precisa que o sistema emissor esteja no leiaute novo quando a produção mudar. Para a maioria das clínicas, o efeito vem pelo software emissor.",
+    "acao": "Perguntar aos fornecedores dos emissores dos clientes se estão prontos para a produção de 7/12 e testar uma nota no ambiente restrito.",
+    "prazo": "2026-12-07",
+    "fontes": [
+     {
+      "nome": "Portal da NFS-e – Release 2 das evoluções da Nota Técnica 009",
+      "url": "https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-informa-disponibilizado-no-ambiente-de-testes-o-release-2-das-evolucoes-da-nota-tecnica-009"
+     },
+     {
+      "nome": "Contábeis – NFS-e libera novas funções para testes da Reforma Tributária",
+      "url": "https://www.contabeis.com.br/noticias/81181/nfs-e-libera-novas-funcoes-para-testes-da-reforma-tributaria/"
+     }
+    ]
+   },
+   {
+    "titulo": "IFI (órgão do Senado): sem as exceções da lei, a CBS seria de 7,0%; com o ajuste do ICMS na base, 10,78%",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-26",
+    "oQueMudou": "A Instituição Fiscal Independente (IFI), órgão do Senado, entregou ao relator Eduardo Braga nota técnica sobre a alíquota da CBS. Segundo a IFI, sem as exceções da legislação (cesta básica zerada e alíquotas reduzidas) a CBS que gera a mesma arrecadação seria de 7,0%; as exceções somam 4,3 pontos percentuais, dos quais 1,9 ponto vêm dos alimentos. Em outro exercício, se a média de 2012 a 2021 fosse calculada com a regra atual de exclusão do ICMS da base do PIS/Cofins, a CBS ficaria em 10,78% (faixa de 10,55% a 11,12%), contra os 11,3% do TCU. A IFI diz que a nota não propõe uma alíquota alternativa: mostra o efeito de cada variável. Ainda sem ato oficial do Senado.",
+    "impacto": "É mais um estudo para a decisão do Senado, que fixa a alíquota por resolução até 15/12; sem ela, vale o cálculo do TCU (11,3%). A redução de 60% da saúde incide sobre a alíquota de referência, então uma CBS menor também diminui a carga dos clientes médicos do regime regular. Os números da IFI são cenários, não recomendação.",
+    "acao": "Manter as simulações de 2027 com 11,3% como base e rodar um cenário com 10,78% para mostrar a sensibilidade aos clientes. Revisar quando o Senado fixar a alíquota.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "Senado Notícias – IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga"
+     },
+     {
+      "nome": "Exame – Alíquota da CBS poderia ser de 7% sem exceções, estima IFI",
+      "url": "https://exame.com/economia/cbs-poderia-ser-de-7-sem-excecoes-da-reforma-tributaria-estima-ifi/"
+     }
+    ]
+   },
+   {
+    "titulo": "Relator Braga defende medir o hiato de conformidade a cada trimestre e fala em concluir o texto da alíquota da CBS até 9/12",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-26",
+    "oQueMudou": "Segundo a imprensa (Folha, UOL, Reforma Tributária.com), o senador Eduardo Braga defende que o hiato de conformidade (a sonegação estimada, que o TCU calculou em 15,9%) seja medido a cada trimestre, com prestação de contas ao Senado, e disse que quanto menor o hiato, menor tende a ser a alíquota da CBS. Ele espera concluir o texto até 9/12 (outras fontes citam 14 ou 15/12) e questionou por quanto tempo o contribuinte pagaria valor superdimensionado antes de uma correção (um ano ou noventena). Ainda sem ato oficial; as datas variam entre as fontes.",
+    "impacto": "Indica que a alíquota de 2027 pode vir com um mecanismo de revisão ao longo do ano, e não só a cada ano. Para as empresas, o planejamento de preço e caixa de 2027 continua com incerteza sobre o percentual.",
+    "acao": "Acompanhar o texto do relator e avisar os clientes de que a alíquota de 2027 ainda pode mudar. Não alterar contratos e preços com base nisso antes da resolução.",
+    "prazo": "2026-12-15",
+    "fontes": [
+     {
+      "nome": "DGABC – Eduardo Braga defende medição trimestral de hiato de conformidade",
+      "url": "https://www.dgabc.com.br/Noticia/4370935/eduardo-braga-defende-medicao-trimestral-de-hiato-de-conformidade-na-reforma-tributaria"
+     },
+     {
+      "nome": "Reforma Tributária.com – Relator sinaliza hiato de conformidade como fator decisivo para Senado fixar CBS",
+      "url": "https://www.reformatributaria.com/iva/relator-sinaliza-hiato-de-conformidade-como-fator-decisivo-para-senado-fixar-cbs"
+     }
+    ]
+   },
+   {
+    "titulo": "Frentes parlamentares se reuniram com a Fazenda e defenderam CBS abaixo de 11,3%; próximo passo é levar estudos a Braga",
+    "alcance": "geral",
+    "tema": "consumo",
+    "status": "em discussão",
+    "dataPublicacao": "2026-11-26",
+    "oQueMudou": "Segundo O Antagonista e a CNN Brasil, as frentes do Empreendedorismo e do Comércio e Serviços se reuniram com a equipe da Fazenda em 26/11 e defenderam alíquota da CBS abaixo de 11,3%; o próximo passo é apresentar estudos técnicos a Braga. A Fazenda defende o cálculo do TCU como teto de referência e a média efetiva de 8,5%, segundo a CAE de 17/11. O resultado da reunião não foi detalhado pelas fontes; sem ato oficial.",
+    "impacto": "A pressão do setor produtivo e dos deputados segue sobre o Senado, mas a Fazenda não mudou a posição publicamente.",
+    "acao": "Sem providência imediata; acompanhar a resolução do Senado.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "O Antagonista – Deputados defendem na Fazenda alíquota abaixo de 11,3%",
+      "url": "https://oantagonista.com.br/economia/deputados-defendem-na-fazenda-aliquota-abaixo-de-113-para-novo-tributo/"
+     },
+     {
+      "nome": "Fenacon – Parlamentares vão à Fazenda na quinta-feira",
+      "url": "https://fenacon.org.br/reforma-tributaria/parlamentares-vao-a-fazenda-na-quinta-feira-destravar-impasses-da-reforma-tributaria/"
+     }
+    ]
    }
   ],
   "agenda": [
-   {
-    "data": "2026-11-26",
-    "evento": "Reunião das frentes parlamentares do Empreendedorismo e do Comércio e Serviços com o ministro Durigan (9h) sobre a alíquota da CBS, segundo Fenacon (sem ato oficial)."
-   },
    {
     "data": "2026-11-30",
     "evento": "Possível novo fim do prazo de opção das cooperativas pelo regime específico de IBS/CBS (em discussão entre Receita e CGIBS, sem ato publicado). Para cooperativas do Sistema OCB, o prazo de 31/10 está suspenso por liminar do TJDFT até saírem os atos pendentes, segundo NSC Total."
@@ -63,6 +143,14 @@
    {
     "data": "2026-12-07",
     "evento": "Prazo citado por Durigan (\"duas semanas\", a partir de 23/11) para resolver a alíquota da CBS, a pauta fiscal e as indicações; é expectativa do ministro, sem ato oficial."
+   },
+   {
+    "data": "2026-12-07",
+    "evento": "Releases 1 e 2 da NT 009 da NFS-e Nacional entram em produção, segundo o cronograma divulgado em 25/11 (Contábeis, Nota Gateway)."
+   },
+   {
+    "data": "2026-12-09",
+    "evento": "Meta de Braga para concluir o texto sobre a alíquota da CBS, segundo a imprensa (outras fontes citam 14 ou 15/12; sem ato oficial)."
    },
    {
     "data": "2026-12-15",
