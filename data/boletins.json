@@ -2,7 +2,7 @@
  {
   "data": "2026-11-27",
   "edicao": 32,
-  "resumo": "Sem fato novo específico para clientes médicos hoje; pendentes seguem o PLP 45/2026 (filantrópicas de saúde) e a lista de medicamentos com alíquota zero. No geral: Toffoli é relator da ação no STF que pede adiar a CBS, a OAB também vai ao STF, e Trabuco será o próximo ministro da Fazenda.",
+  "resumo": "Sem fato novo específico para clientes médicos hoje; pendentes seguem o PLP 45/2026 (filantrópicas de saúde) e a lista de medicamentos com alíquota zero. No geral: Toffoli é relator da ação no STF que pede adiar a CBS, a OAB também vai ao STF, e Trabuco será o próximo ministro da Fazenda. Na rodada da tarde: Receita e Comitê Gestor esclarecem que nem todo condomínio precisa emitir documento fiscal de IBS/CBS.",
   "itens": [
    {
     "titulo": "Fato novo: Toffoli é sorteado relator da ação das confederações no STF que pede adiar a CBS; OAB aprova atuar no Supremo por 12 meses de adiamento",
@@ -68,6 +68,27 @@
      {
       "nome": "Fenacon",
       "url": "https://fenacon.org.br/reforma-tributaria/stj-instala-observatorio-da-reforma-tributaria-sobre-o-consumo/"
+     }
+    ]
+   },
+   {
+    "titulo": "Receita e Comitê Gestor esclarecem: nem todo condomínio precisa emitir documento fiscal de IBS/CBS",
+    "alcance": "geral",
+    "tema": "nfse",
+    "status": "regulamentado",
+    "dataPublicacao": "2026-11-27",
+    "oQueMudou": "Em comunicado conjunto publicado hoje no site do Comitê Gestor do IBS, a Receita Federal e o CGIBS esclarecem que a emissão de documento fiscal por condomínios não vale para todos: fica restrita às hipóteses previstas na LC 214/2025. Segundo a imprensa especializada (Rota da Jurisprudência, Condomínio Interativo), o condomínio em regra não é contribuinte; a exceção principal é a receita com uso comercial de áreas comuns (antenas, painéis, vagas para terceiros) acima de 20% da receita administrada, ou a opção pelo regime regular. O prazo da NFS-e de cobranças condominiais já passou para 01/01/2027 pelo Ato Conjunto nº 7.",
+    "impacto": "Para empresas em geral: a maioria dos condomínios não precisará emitir nota da cota condominial. Para clientes médicos: clínicas em condomínios empresariais ou salas comerciais podem receber dúvidas sobre rateios e cobranças; o esclarecimento reduz o risco de exigência indevida de nota.",
+    "acao": "Se algum cliente administra ou paga condomínio, conferir se o condomínio se enquadra nas hipóteses da LC 214 antes de exigir ou emitir documento fiscal; ler o comunicado completo do CGIBS.",
+    "prazo": "",
+    "fontes": [
+     {
+      "nome": "Comitê Gestor do IBS: Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios",
+      "url": "https://www.cgibs.gov.br/receita-federal-e-cgibs-esclarecem-emissao-de-documento-fiscal-por-condominios"
+     },
+     {
+      "nome": "Rota da Jurisprudência",
+      "url": "https://rotadajurisprudencia.com.br/2026/11/receita-federal-e-cgibs-esclarecem-quando-condominios-estarao-sujeitos-ao-ibs-e-a-cbs/"
      }
     ]
    }
