@@ -10,7 +10,8 @@
    "2029 a 2032: ISS e ICMS caem para 9/10, 8/10, 7/10 e 6/10 da alíquota atual (ADCT art. 128).",
    "2033: ISS e ICMS extintos (ADCT art. 129); IBS em alíquota cheia.",
    "A LC 214/2025 institui IBS, CBS e Imposto Seletivo; a LC 227/2026 (antigo PLP 108/2024, de 13/01/2026) institui o Comitê Gestor do IBS (CGIBS) e altera a LC 214.",
-   "Regulamentos publicados: Decreto 12.955, de 29/04/2026 (CBS), e Resolução CGIBS nº 6, de 30/04/2026 (IBS)."
+   "Regulamentos publicados: Decreto 12.955, de 29/04/2026 (CBS), e Resolução CGIBS nº 6, de 30/04/2026 (IBS).",
+   "26/11/2026: CNA, CNC e CNT pediram ao STF (ação com Toffoli como relator) adiar a cobrança da CBS e do IBS; a OAB aprovou atuar no STF por 12 meses de adiamento. Sem decisão; o governo diz que não pretende adiar (segundo imprensa)."
   ],
   "impacto": "Até o fim de 2028 o cliente médico convive com o ISS municipal e com o IBS/CBS ao mesmo tempo: duas apurações, dois conjuntos de regras e notas mais complexas. A partir de 2027 o PIS/Cofins sai e a CBS entra, o que muda o preço e a margem dos serviços.",
   "acao": "Montar para cada cliente uma linha do tempo 2026–2033 com os tributos de cada ano. Revisar contratos de longo prazo (convênios, prestação a hospitais) para incluir cláusula de repasse ou reequilíbrio por mudança tributária.",
@@ -35,9 +36,13 @@
    {
     "nome": "Resolução CGIBS nº 6/2026 – Regulamento do IBS (CGIBS)",
     "url": "https://www.cgibs.gov.br/upload/arquivos/202604/30084927-res-cgibs-n-6-30-abr-2026-regulamenta-o-ibs.pdf"
+   },
+   {
+    "nome": "CartaCapital",
+    "url": "https://www.cartacapital.com.br/justica/toffoli-sera-o-relator-de-pedido-para-adiar-reforma-tributaria/"
    }
   ],
-  "atualizadoEm": "2026-10-18"
+  "atualizadoEm": "2026-11-27"
  },
  {
   "id": "ano-teste-2026-obrigacoes",
