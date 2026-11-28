@@ -1,0 +1,25 @@
+{
+ "gerado_em": "2026-11-28 14:29",
+ "fontes": {
+  "google:reforma:1d": "ok, 89 notícias",
+  "google:reforma:2d": "ok, 100 notícias",
+  "google:reforma:7d": "ok, 100 notícias",
+  "google:ibs_cbs:1d": "ok, 37 notícias",
+  "google:ibs_cbs:2d": "ok, 100 notícias",
+  "google:ibs_cbs:7d": "ok, 100 notícias",
+  "google:saude:1d": "ok, 53 notícias",
+  "google:saude:2d": "ok, 49 notícias",
+  "google:saude:7d": "ok, 30 notícias",
+  "google:simples_nfse:1d": "ok, 28 notícias",
+  "google:simples_nfse:2d": "ok, 20 notícias",
+  "google:simples_nfse:7d": "ok, 62 notícias",
+  "google:renda:1d": "ok, 5 notícias",
+  "google:renda:2d": "ok, 11 notícias",
+  "google:renda:7d": "ok, 25 notícias",
+  "pagina:receita-2026-11": "erro: <urlopen error [Errno 104] Connection reset by peer>",
+  "pagina:fazenda": "erro: <urlopen error [Errno 104] Connection reset by peer>",
+  "pagina:senado": "ok, 25 linhas",
+  "pagina:cgibs": "ok, 6 linhas",
+  "pagina:fenacon": "ok, 17 linhas"
+ }
+}

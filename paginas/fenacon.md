@@ -1,0 +1,20 @@
+# fenacon
+Fonte: https://fenacon.org.br/reforma-tributaria/
+
+[27 de novembro de 2026 Presidente da Fenacon debate split payment e os desafios da Reforma Tributária no 8º Congresso de Direito Tributário do Codecon/SP](https://fenacon.org.br/noticias/56709/)
+[27 de novembro de 2026 Receita Federal apresenta novo PGDAS em live sobre a Reforma Tributária](https://fenacon.org.br/noticias/receita-federal-apresenta-novo-pgdas-em-live-sobre-a-reforma-tributaria/)
+[27 de novembro de 2026 CNC, CNA e CNT vão ao STF pedir adiamento da cobrança de novos tributos da reforma tributária por falta de regras](https://fenacon.org.br/reforma-tributaria/cnc-cna-e-cnt-vao-ao-stf-pedir-adiamento-da-cobranca-de-novos-tributos-da-reforma-tributaria-por-falta-de-regras/)
+[27 de novembro de 2026 IFI entrega estudo sobre alíquota da CBS para Eduardo Braga](https://fenacon.org.br/reforma-tributaria/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga/)
+[27 de novembro de 2026 STJ instala Observatório da Reforma Tributária sobre o Consumo](https://fenacon.org.br/reforma-tributaria/stj-instala-observatorio-da-reforma-tributaria-sobre-o-consumo/)
+[26 de novembro de 2026 CGNFS-e informa: disponibilizado no ambiente de testes o Release 2 das evoluções da Nota Técnica 009](https://fenacon.org.br/reforma-tributaria/cgnfs-e-informa-disponibilizado-no-ambiente-de-testes-o-release-2-das-evolucoes-da-nota-tecnica-009/)
+[26 de novembro de 2026 CNC alerta para impactos da alíquota de 11,3% da CBS no setor de serviços](https://fenacon.org.br/reforma-tributaria/cnc-alerta-para-impactos-da-aliquota-de-113-da-cbs-no-setor-de-servicos/)
+[26 de novembro de 2026 Susep apresenta orientações ao mercado sobre impactos da Reforma Tributária](https://fenacon.org.br/reforma-tributaria/susep-apresenta-orientacoes-ao-mercado-sobre-impactos-da-reforma-tributaria/)
+[25 de novembro de 2026 Novas regras do Simples Nacional e da transição para a Reforma Tributária são publicadas](https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/)
+[25 de novembro de 2026 Parlamentares vão à Fazenda na quinta-feira destravar impasses da reforma tributária](https://fenacon.org.br/reforma-tributaria/parlamentares-vao-a-fazenda-na-quinta-feira-destravar-impasses-da-reforma-tributaria/)
+[24 de novembro de 2026 Receita amplia participação em piloto da CBS para todas as empresas](https://fenacon.org.br/reforma-tributaria/receita-amplia-participacao-em-piloto-da-cbs-para-todas-as-empresas/)
+[24 de novembro de 2026 Reforma Tributária e Simples Nacional: saiba quais as novidades o empreendedor terá ao gerar a guia de novembro](https://fenacon.org.br/reforma-tributaria/reforma-tributaria-e-simples-nacional-saiba-quais-as-novidades-o-empreendedor-tera-ao-gerar-a-guia-de-novembro/)
+[28 de setembro de 2026 Receita Federal esclarece regras para isenção de ganho de capital na venda de imóveis residenciais](https://fenacon.org.br/noticias/receita-federal-esclarece-regras-para-isencao-de-ganho-de-capital-na-venda-de-imoveis-residenciais/)
+[26 de outubro de 2026 Governo vai apresentar projeto de lei para perdoar dívidas dos setores de eventos, bares e restaurantes](https://fenacon.org.br/noticias/governo-vai-apresentar-projeto-de-lei-para-perdoar-dividas-dos-setores-de-eventos-bares-e-restaurantes/)
+[17 de setembro de 2026 Novo cálculo da receita bruta apurada no Simples Nacional](https://fenacon.org.br/reforma-tributaria/novo-calculo-da-receita-bruta-apurada-no-simples-nacional/)
+[22 de outubro de 2026 Projeto dobra limite de isenção de Imposto de Renda na venda de bens de pequeno valor](https://fenacon.org.br/noticias/projeto-dobra-limite-de-isencao-de-imposto-de-renda-na-venda-de-bens-de-pequeno-valor/)
+[6 de outubro de 2026 Receita Federal e PGFN abrem transação para débitos relacionados à multa substitutiva da pena de perdimento](https://fenacon.org.br/noticias/receita-federal-e-pgfn-abrem-transacao-para-debitos-relacionados-a-multa-substitutiva-da-pena-de-perdimento/)
